@@ -1,0 +1,9 @@
+{
+  "name": "CropCare – Smart Farming Guide",
+  "description": "A comprehensive, visual-first smart farming application designed for rural accessibility, featuring predictive analytics, image-based diagnosis, and an AI-powered Farm Assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}

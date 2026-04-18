@@ -1,0 +1,5001 @@
+crop,type,year,price
+Mango,fruit,2018,152.5
+Mango,fruit,2024,60.45
+Cabbage,vegetable,2022,127.83
+Potato,vegetable,2016,42.08
+Potato,vegetable,2023,69.21
+Apple,fruit,2021,163.81
+Mango,fruit,2019,85.24
+Pigeon Pea,pulses,2024,76.89
+Mango,fruit,2022,39.19
+Wheat,pulses,2018,67.0
+Potato,vegetable,2016,127.95
+Wheat,pulses,2021,108.45
+Pigeon Pea,pulses,2019,109.79
+Onion,vegetable,2015,21.27
+Wheat,pulses,2022,35.78
+Apple,fruit,2015,103.04
+Mango,fruit,2023,108.35
+Mango,fruit,2022,118.33
+Apple,fruit,2015,74.5
+Tomato,vegetable,2024,57.97
+Banana,fruit,2024,99.25
+Green Gram,pulses,2018,99.02
+Mango,fruit,2025,72.8
+Apple,fruit,2020,143.66
+Tomato,vegetable,2020,85.7
+Banana,fruit,2021,141.99
+Onion,vegetable,2025,105.92
+Mango,fruit,2020,92.79
+Apple,fruit,2024,83.14
+Wheat,pulses,2023,80.21
+Mango,fruit,2016,112.07
+Green Gram,pulses,2016,82.42
+Green Gram,pulses,2015,47.59
+Potato,vegetable,2021,118.85
+Potato,vegetable,2022,98.56
+Green Gram,pulses,2023,67.22
+Cabbage,vegetable,2025,76.93
+Cabbage,vegetable,2021,55.22
+Pigeon Pea,pulses,2022,44.88
+Mango,fruit,2024,78.84
+Onion,vegetable,2018,89.83
+Tomato,vegetable,2019,137.86
+Apple,fruit,2017,135.92
+Cabbage,vegetable,2025,167.87
+Apple,fruit,2023,111.88
+Pigeon Pea,pulses,2016,112.91
+Green Gram,pulses,2018,56.58
+Wheat,pulses,2021,124.31
+Apple,fruit,2020,66.65
+Apple,fruit,2020,145.64
+Green Gram,pulses,2015,47.61
+Apple,fruit,2015,30.61
+Tomato,vegetable,2020,77.56
+Green Gram,pulses,2019,103.8
+Tomato,vegetable,2021,65.23
+Banana,fruit,2020,117.16
+Potato,vegetable,2021,54.92
+Green Gram,pulses,2022,124.67
+Banana,fruit,2021,85.47
+Banana,fruit,2021,101.98
+Apple,fruit,2021,35.64
+Potato,vegetable,2017,84.1
+Banana,fruit,2024,43.15
+Potato,vegetable,2025,62.14
+Tomato,vegetable,2021,38.99
+Apple,fruit,2021,51.95
+Banana,fruit,2017,124.84
+Mango,fruit,2024,51.97
+Onion,vegetable,2019,39.26
+Potato,vegetable,2023,126.9
+Mango,fruit,2019,104.7
+Apple,fruit,2019,38.77
+Green Gram,pulses,2018,45.54
+Tomato,vegetable,2021,78.46
+Banana,fruit,2024,160.95
+Banana,fruit,2024,160.07
+Cabbage,vegetable,2022,166.29
+Cabbage,vegetable,2022,117.56
+Apple,fruit,2025,170.48
+Banana,fruit,2025,53.16
+Pigeon Pea,pulses,2017,103.36
+Banana,fruit,2024,40.24
+Cabbage,vegetable,2024,136.66
+Cabbage,vegetable,2023,133.11
+Onion,vegetable,2022,142.57
+Pigeon Pea,pulses,2015,119.34
+Tomato,vegetable,2015,110.78
+Green Gram,pulses,2015,88.95
+Apple,fruit,2015,31.54
+Onion,vegetable,2021,157.94
+Banana,fruit,2019,41.38
+Tomato,vegetable,2018,149.5
+Tomato,vegetable,2024,161.62
+Apple,fruit,2021,110.65
+Onion,vegetable,2024,156.57
+Wheat,pulses,2024,87.12
+Tomato,vegetable,2020,155.71
+Cabbage,vegetable,2015,148.0
+Potato,vegetable,2017,125.31
+Banana,fruit,2017,36.43
+Banana,fruit,2018,38.52
+Green Gram,pulses,2017,103.96
+Green Gram,pulses,2023,153.57
+Tomato,vegetable,2020,151.92
+Apple,fruit,2018,30.77
+Green Gram,pulses,2019,119.34
+Banana,fruit,2022,79.05
+Banana,fruit,2018,85.32
+Tomato,vegetable,2023,61.84
+Onion,vegetable,2015,74.48
+Apple,fruit,2020,156.87
+Pigeon Pea,pulses,2024,154.73
+Mango,fruit,2022,92.87
+Green Gram,pulses,2025,125.44
+Green Gram,pulses,2015,80.08
+Mango,fruit,2020,122.77
+Apple,fruit,2019,108.39
+Apple,fruit,2015,48.39
+Cabbage,vegetable,2015,108.5
+Wheat,pulses,2021,122.78
+Pigeon Pea,pulses,2015,92.36
+Onion,vegetable,2015,32.71
+Tomato,vegetable,2016,130.92
+Pigeon Pea,pulses,2020,110.97
+Apple,fruit,2016,67.98
+Mango,fruit,2024,148.25
+Wheat,pulses,2015,81.56
+Pigeon Pea,pulses,2020,93.66
+Apple,fruit,2023,95.07
+Wheat,pulses,2018,50.48
+Apple,fruit,2025,117.35
+Apple,fruit,2019,45.16
+Tomato,vegetable,2020,42.35
+Pigeon Pea,pulses,2015,87.35
+Onion,vegetable,2023,120.04
+Green Gram,pulses,2024,148.48
+Cabbage,vegetable,2022,96.34
+Wheat,pulses,2016,114.04
+Mango,fruit,2017,140.62
+Pigeon Pea,pulses,2024,75.9
+Mango,fruit,2019,55.06
+Potato,vegetable,2024,102.1
+Onion,vegetable,2018,73.53
+Cabbage,vegetable,2020,108.06
+Apple,fruit,2024,76.15
+Pigeon Pea,pulses,2025,93.27
+Green Gram,pulses,2019,35.73
+Cabbage,vegetable,2025,45.6
+Onion,vegetable,2021,36.26
+Wheat,pulses,2020,90.07
+Potato,vegetable,2020,61.92
+Onion,vegetable,2016,94.66
+Tomato,vegetable,2020,154.94
+Cabbage,vegetable,2015,90.95
+Potato,vegetable,2019,96.68
+Apple,fruit,2015,67.54
+Banana,fruit,2016,66.51
+Tomato,vegetable,2023,135.33
+Mango,fruit,2017,74.97
+Pigeon Pea,pulses,2019,124.85
+Apple,fruit,2015,117.09
+Wheat,pulses,2025,133.67
+Tomato,vegetable,2019,135.73
+Cabbage,vegetable,2023,154.03
+Mango,fruit,2022,79.85
+Mango,fruit,2015,54.18
+Tomato,vegetable,2022,63.24
+Apple,fruit,2021,124.91
+Green Gram,pulses,2018,126.11
+Onion,vegetable,2015,114.69
+Cabbage,vegetable,2020,125.31
+Potato,vegetable,2020,98.1
+Cabbage,vegetable,2022,99.51
+Cabbage,vegetable,2016,24.7
+Banana,fruit,2025,130.32
+Wheat,pulses,2020,56.67
+Banana,fruit,2022,94.13
+Cabbage,vegetable,2018,124.85
+Green Gram,pulses,2024,35.61
+Onion,vegetable,2020,141.98
+Banana,fruit,2018,48.63
+Mango,fruit,2017,98.07
+Onion,vegetable,2024,134.42
+Cabbage,vegetable,2023,151.94
+Pigeon Pea,pulses,2025,95.08
+Apple,fruit,2020,52.1
+Wheat,pulses,2015,67.92
+Pigeon Pea,pulses,2019,99.4
+Cabbage,vegetable,2020,139.08
+Mango,fruit,2015,59.26
+Wheat,pulses,2017,69.6
+Wheat,pulses,2017,35.11
+Pigeon Pea,pulses,2020,86.9
+Cabbage,vegetable,2015,59.22
+Banana,fruit,2024,160.35
+Mango,fruit,2016,133.89
+Apple,fruit,2022,60.88
+Onion,vegetable,2019,50.64
+Pigeon Pea,pulses,2017,59.26
+Cabbage,vegetable,2018,108.66
+Pigeon Pea,pulses,2021,120.86
+Apple,fruit,2018,114.08
+Tomato,vegetable,2018,72.09
+Mango,fruit,2018,106.55
+Pigeon Pea,pulses,2019,72.87
+Wheat,pulses,2015,132.78
+Green Gram,pulses,2016,22.69
+Onion,vegetable,2021,60.85
+Banana,fruit,2024,160.28
+Potato,vegetable,2016,94.0
+Pigeon Pea,pulses,2015,72.66
+Tomato,vegetable,2024,49.64
+Wheat,pulses,2016,101.07
+Green Gram,pulses,2024,91.88
+Pigeon Pea,pulses,2020,122.8
+Banana,fruit,2019,139.52
+Mango,fruit,2022,109.68
+Potato,vegetable,2020,117.7
+Cabbage,vegetable,2017,96.86
+Pigeon Pea,pulses,2023,125.49
+Green Gram,pulses,2015,86.3
+Mango,fruit,2017,134.26
+Potato,vegetable,2016,34.16
+Green Gram,pulses,2015,142.99
+Wheat,pulses,2017,122.89
+Potato,vegetable,2020,162.98
+Banana,fruit,2023,157.41
+Mango,fruit,2015,44.15
+Tomato,vegetable,2021,80.55
+Mango,fruit,2016,114.32
+Banana,fruit,2021,34.53
+Pigeon Pea,pulses,2017,113.82
+Mango,fruit,2022,104.5
+Pigeon Pea,pulses,2015,136.34
+Mango,fruit,2017,133.82
+Pigeon Pea,pulses,2017,26.41
+Green Gram,pulses,2019,89.35
+Onion,vegetable,2024,48.69
+Green Gram,pulses,2015,32.91
+Cabbage,vegetable,2016,46.83
+Onion,vegetable,2015,67.16
+Tomato,vegetable,2019,41.83
+Wheat,pulses,2025,167.24
+Cabbage,vegetable,2025,90.2
+Apple,fruit,2024,34.6
+Banana,fruit,2017,134.93
+Mango,fruit,2015,88.35
+Banana,fruit,2017,123.15
+Apple,fruit,2020,108.81
+Cabbage,vegetable,2019,41.79
+Onion,vegetable,2017,153.09
+Wheat,pulses,2023,102.02
+Potato,vegetable,2022,120.39
+Tomato,vegetable,2019,155.57
+Apple,fruit,2024,114.68
+Green Gram,pulses,2020,98.9
+Onion,vegetable,2025,67.45
+Potato,vegetable,2021,150.81
+Mango,fruit,2024,57.49
+Pigeon Pea,pulses,2018,99.42
+Pigeon Pea,pulses,2025,164.07
+Wheat,pulses,2017,36.61
+Onion,vegetable,2016,68.63
+Potato,vegetable,2018,53.98
+Green Gram,pulses,2020,117.43
+Wheat,pulses,2025,159.24
+Cabbage,vegetable,2025,49.99
+Green Gram,pulses,2020,79.05
+Mango,fruit,2024,66.34
+Apple,fruit,2023,63.32
+Cabbage,vegetable,2016,119.03
+Apple,fruit,2015,140.53
+Tomato,vegetable,2025,166.83
+Green Gram,pulses,2024,146.37
+Green Gram,pulses,2023,129.11
+Wheat,pulses,2023,156.02
+Pigeon Pea,pulses,2018,30.06
+Wheat,pulses,2024,120.8
+Mango,fruit,2015,96.43
+Onion,vegetable,2020,106.32
+Green Gram,pulses,2022,94.74
+Potato,vegetable,2025,139.55
+Wheat,pulses,2025,93.36
+Onion,vegetable,2020,112.98
+Pigeon Pea,pulses,2015,83.18
+Green Gram,pulses,2018,73.6
+Banana,fruit,2024,133.09
+Green Gram,pulses,2022,112.24
+Potato,vegetable,2023,46.51
+Wheat,pulses,2022,127.6
+Mango,fruit,2025,163.15
+Banana,fruit,2017,25.69
+Pigeon Pea,pulses,2020,108.42
+Apple,fruit,2024,84.87
+Mango,fruit,2019,114.06
+Pigeon Pea,pulses,2017,60.56
+Apple,fruit,2024,86.16
+Green Gram,pulses,2021,98.55
+Wheat,pulses,2018,111.7
+Wheat,pulses,2016,135.38
+Tomato,vegetable,2016,89.8
+Potato,vegetable,2021,73.86
+Apple,fruit,2016,105.7
+Wheat,pulses,2018,139.4
+Pigeon Pea,pulses,2021,80.63
+Potato,vegetable,2022,105.28
+Green Gram,pulses,2025,86.73
+Tomato,vegetable,2015,116.86
+Banana,fruit,2017,79.57
+Onion,vegetable,2015,79.31
+Onion,vegetable,2020,49.52
+Tomato,vegetable,2019,131.26
+Potato,vegetable,2025,43.39
+Tomato,vegetable,2018,32.47
+Tomato,vegetable,2019,36.22
+Banana,fruit,2018,155.94
+Pigeon Pea,pulses,2023,122.04
+Pigeon Pea,pulses,2021,109.45
+Cabbage,vegetable,2016,50.92
+Green Gram,pulses,2021,123.29
+Potato,vegetable,2016,112.55
+Pigeon Pea,pulses,2016,106.15
+Wheat,pulses,2023,122.85
+Tomato,vegetable,2019,98.79
+Potato,vegetable,2023,157.61
+Tomato,vegetable,2023,55.93
+Cabbage,vegetable,2020,94.76
+Mango,fruit,2017,134.9
+Mango,fruit,2023,81.75
+Tomato,vegetable,2017,72.95
+Green Gram,pulses,2017,49.69
+Banana,fruit,2016,81.78
+Pigeon Pea,pulses,2020,148.08
+Tomato,vegetable,2016,87.88
+Mango,fruit,2020,129.46
+Tomato,vegetable,2021,86.83
+Onion,vegetable,2018,144.72
+Potato,vegetable,2017,36.07
+Cabbage,vegetable,2025,162.79
+Banana,fruit,2018,121.15
+Banana,fruit,2023,105.91
+Mango,fruit,2021,69.54
+Wheat,pulses,2018,78.95
+Wheat,pulses,2024,50.11
+Tomato,vegetable,2020,111.56
+Wheat,pulses,2024,93.82
+Green Gram,pulses,2024,73.43
+Cabbage,vegetable,2021,116.22
+Green Gram,pulses,2021,107.78
+Pigeon Pea,pulses,2015,44.13
+Apple,fruit,2021,99.08
+Onion,vegetable,2023,163.9
+Apple,fruit,2024,99.31
+Mango,fruit,2022,49.87
+Banana,fruit,2021,131.83
+Cabbage,vegetable,2017,74.2
+Mango,fruit,2018,87.85
+Tomato,vegetable,2022,150.38
+Banana,fruit,2017,43.78
+Potato,vegetable,2015,148.88
+Potato,vegetable,2024,162.66
+Onion,vegetable,2021,97.03
+Green Gram,pulses,2022,137.97
+Apple,fruit,2022,42.74
+Green Gram,pulses,2023,115.34
+Wheat,pulses,2021,145.58
+Cabbage,vegetable,2016,25.84
+Pigeon Pea,pulses,2023,52.62
+Apple,fruit,2018,69.03
+Potato,vegetable,2017,127.23
+Cabbage,vegetable,2024,102.84
+Apple,fruit,2022,100.41
+Mango,fruit,2018,127.8
+Pigeon Pea,pulses,2017,74.31
+Onion,vegetable,2016,43.69
+Green Gram,pulses,2020,140.52
+Potato,vegetable,2023,118.49
+Cabbage,vegetable,2023,66.46
+Cabbage,vegetable,2016,60.62
+Pigeon Pea,pulses,2021,50.75
+Banana,fruit,2023,41.43
+Wheat,pulses,2023,81.84
+Apple,fruit,2021,117.72
+Mango,fruit,2022,138.26
+Cabbage,vegetable,2018,91.56
+Cabbage,vegetable,2017,72.26
+Tomato,vegetable,2020,149.12
+Tomato,vegetable,2020,135.38
+Wheat,pulses,2021,114.71
+Tomato,vegetable,2019,136.7
+Apple,fruit,2015,90.78
+Mango,fruit,2019,86.57
+Pigeon Pea,pulses,2022,145.56
+Banana,fruit,2019,145.46
+Wheat,pulses,2023,154.88
+Green Gram,pulses,2024,161.53
+Mango,fruit,2016,71.18
+Green Gram,pulses,2021,98.74
+Green Gram,pulses,2021,110.86
+Green Gram,pulses,2017,30.21
+Tomato,vegetable,2022,75.78
+Apple,fruit,2021,131.39
+Tomato,vegetable,2020,122.23
+Green Gram,pulses,2022,133.59
+Pigeon Pea,pulses,2017,42.03
+Onion,vegetable,2023,107.85
+Tomato,vegetable,2018,69.48
+Tomato,vegetable,2016,37.89
+Mango,fruit,2023,82.73
+Onion,vegetable,2016,141.25
+Apple,fruit,2015,101.81
+Mango,fruit,2021,143.26
+Tomato,vegetable,2022,127.37
+Potato,vegetable,2020,157.81
+Pigeon Pea,pulses,2016,42.02
+Apple,fruit,2021,144.13
+Green Gram,pulses,2022,104.73
+Mango,fruit,2023,130.93
+Wheat,pulses,2015,120.24
+Apple,fruit,2024,125.95
+Mango,fruit,2025,68.67
+Cabbage,vegetable,2018,26.5
+Green Gram,pulses,2023,156.46
+Apple,fruit,2021,88.66
+Cabbage,vegetable,2018,122.45
+Potato,vegetable,2019,21.26
+Cabbage,vegetable,2023,91.41
+Apple,fruit,2022,47.63
+Wheat,pulses,2022,121.77
+Apple,fruit,2015,99.23
+Banana,fruit,2020,60.73
+Cabbage,vegetable,2021,123.43
+Green Gram,pulses,2025,151.52
+Potato,vegetable,2015,76.12
+Potato,vegetable,2025,134.76
+Cabbage,vegetable,2024,68.18
+Potato,vegetable,2020,99.74
+Banana,fruit,2017,84.95
+Tomato,vegetable,2018,129.82
+Potato,vegetable,2024,50.69
+Green Gram,pulses,2022,126.72
+Onion,vegetable,2018,113.38
+Banana,fruit,2020,65.55
+Wheat,pulses,2024,75.04
+Potato,vegetable,2023,87.72
+Banana,fruit,2025,56.65
+Mango,fruit,2020,143.83
+Cabbage,vegetable,2022,104.92
+Wheat,pulses,2023,99.4
+Mango,fruit,2024,57.79
+Tomato,vegetable,2023,58.53
+Banana,fruit,2023,147.57
+Pigeon Pea,pulses,2024,112.33
+Pigeon Pea,pulses,2020,62.15
+Tomato,vegetable,2016,104.7
+Apple,fruit,2021,98.68
+Banana,fruit,2017,32.42
+Mango,fruit,2019,49.77
+Potato,vegetable,2022,47.27
+Onion,vegetable,2022,158.15
+Onion,vegetable,2022,98.95
+Cabbage,vegetable,2017,40.57
+Pigeon Pea,pulses,2025,139.55
+Banana,fruit,2022,75.34
+Tomato,vegetable,2022,142.5
+Wheat,pulses,2016,45.08
+Mango,fruit,2017,73.85
+Potato,vegetable,2015,93.09
+Tomato,vegetable,2018,136.64
+Onion,vegetable,2025,108.7
+Mango,fruit,2019,113.5
+Potato,vegetable,2024,81.42
+Onion,vegetable,2017,96.32
+Tomato,vegetable,2017,53.22
+Pigeon Pea,pulses,2020,120.19
+Onion,vegetable,2019,67.29
+Banana,fruit,2019,40.31
+Apple,fruit,2018,144.24
+Onion,vegetable,2021,115.34
+Apple,fruit,2015,38.18
+Wheat,pulses,2022,44.78
+Green Gram,pulses,2022,36.98
+Banana,fruit,2023,55.72
+Onion,vegetable,2019,86.9
+Green Gram,pulses,2021,137.34
+Apple,fruit,2015,128.65
+Pigeon Pea,pulses,2022,78.95
+Apple,fruit,2017,146.78
+Onion,vegetable,2022,131.29
+Onion,vegetable,2017,154.52
+Cabbage,vegetable,2021,114.91
+Onion,vegetable,2017,134.4
+Cabbage,vegetable,2022,64.63
+Cabbage,vegetable,2023,134.55
+Onion,vegetable,2018,40.42
+Potato,vegetable,2023,166.34
+Green Gram,pulses,2017,62.0
+Tomato,vegetable,2019,57.91
+Tomato,vegetable,2023,161.21
+Wheat,pulses,2015,25.21
+Potato,vegetable,2023,71.68
+Tomato,vegetable,2017,85.33
+Mango,fruit,2021,49.9
+Apple,fruit,2020,61.59
+Onion,vegetable,2015,54.03
+Pigeon Pea,pulses,2015,26.21
+Apple,fruit,2024,162.29
+Wheat,pulses,2017,82.28
+Potato,vegetable,2015,18.19
+Green Gram,pulses,2024,92.49
+Banana,fruit,2025,49.88
+Green Gram,pulses,2023,148.76
+Mango,fruit,2023,34.33
+Green Gram,pulses,2022,93.65
+Tomato,vegetable,2015,131.64
+Wheat,pulses,2023,110.37
+Mango,fruit,2015,100.36
+Green Gram,pulses,2018,69.7
+Cabbage,vegetable,2015,25.03
+Mango,fruit,2016,110.42
+Banana,fruit,2016,35.52
+Apple,fruit,2018,111.51
+Apple,fruit,2022,143.01
+Green Gram,pulses,2021,97.95
+Green Gram,pulses,2023,137.85
+Potato,vegetable,2025,93.13
+Tomato,vegetable,2020,135.02
+Apple,fruit,2017,139.37
+Wheat,pulses,2025,116.42
+Cabbage,vegetable,2015,88.47
+Mango,fruit,2018,37.12
+Apple,fruit,2024,120.46
+Green Gram,pulses,2015,109.08
+Cabbage,vegetable,2022,164.62
+Pigeon Pea,pulses,2019,62.73
+Cabbage,vegetable,2024,36.36
+Banana,fruit,2017,29.43
+Banana,fruit,2019,134.31
+Apple,fruit,2021,95.23
+Cabbage,vegetable,2015,68.52
+Tomato,vegetable,2023,112.59
+Mango,fruit,2017,74.41
+Banana,fruit,2015,87.74
+Mango,fruit,2018,69.79
+Apple,fruit,2016,85.56
+Pigeon Pea,pulses,2022,78.74
+Mango,fruit,2019,52.45
+Potato,vegetable,2017,42.54
+Potato,vegetable,2020,46.14
+Green Gram,pulses,2022,79.84
+Green Gram,pulses,2017,88.89
+Potato,vegetable,2021,75.09
+Wheat,pulses,2021,82.27
+Pigeon Pea,pulses,2015,137.33
+Apple,fruit,2018,133.6
+Wheat,pulses,2018,26.6
+Wheat,pulses,2017,60.23
+Mango,fruit,2016,86.31
+Potato,vegetable,2024,50.93
+Pigeon Pea,pulses,2023,76.67
+Apple,fruit,2017,53.39
+Mango,fruit,2017,124.23
+Tomato,vegetable,2022,163.37
+Green Gram,pulses,2018,112.44
+Pigeon Pea,pulses,2018,73.68
+Apple,fruit,2016,19.54
+Pigeon Pea,pulses,2022,48.49
+Potato,vegetable,2016,30.1
+Pigeon Pea,pulses,2021,77.92
+Mango,fruit,2025,50.54
+Green Gram,pulses,2023,55.28
+Apple,fruit,2023,135.14
+Banana,fruit,2024,147.8
+Pigeon Pea,pulses,2016,118.65
+Potato,vegetable,2018,45.96
+Mango,fruit,2016,39.8
+Green Gram,pulses,2023,28.88
+Potato,vegetable,2020,146.95
+Potato,vegetable,2019,149.53
+Onion,vegetable,2015,37.54
+Cabbage,vegetable,2018,147.9
+Potato,vegetable,2022,157.84
+Banana,fruit,2015,144.36
+Mango,fruit,2019,126.09
+Green Gram,pulses,2018,112.94
+Apple,fruit,2017,102.66
+Mango,fruit,2023,96.14
+Apple,fruit,2023,44.15
+Cabbage,vegetable,2016,51.08
+Wheat,pulses,2020,60.9
+Pigeon Pea,pulses,2023,59.09
+Potato,vegetable,2019,117.0
+Tomato,vegetable,2025,75.62
+Banana,fruit,2019,62.26
+Tomato,vegetable,2020,65.29
+Banana,fruit,2017,87.24
+Potato,vegetable,2018,29.71
+Banana,fruit,2020,126.32
+Green Gram,pulses,2022,55.72
+Banana,fruit,2025,82.05
+Mango,fruit,2019,72.61
+Onion,vegetable,2025,134.26
+Apple,fruit,2023,112.1
+Wheat,pulses,2022,63.04
+Onion,vegetable,2016,99.28
+Banana,fruit,2018,156.65
+Cabbage,vegetable,2016,106.96
+Green Gram,pulses,2025,143.45
+Onion,vegetable,2024,85.4
+Wheat,pulses,2022,150.47
+Green Gram,pulses,2015,141.53
+Onion,vegetable,2023,134.49
+Cabbage,vegetable,2018,50.87
+Potato,vegetable,2025,146.47
+Tomato,vegetable,2020,68.38
+Banana,fruit,2017,43.84
+Green Gram,pulses,2015,150.49
+Potato,vegetable,2023,74.03
+Banana,fruit,2023,70.79
+Mango,fruit,2021,49.11
+Apple,fruit,2025,86.04
+Pigeon Pea,pulses,2016,117.02
+Cabbage,vegetable,2015,82.38
+Pigeon Pea,pulses,2020,145.56
+Cabbage,vegetable,2019,79.97
+Tomato,vegetable,2022,136.03
+Potato,vegetable,2019,62.14
+Banana,fruit,2018,65.05
+Apple,fruit,2015,28.45
+Cabbage,vegetable,2018,130.94
+Banana,fruit,2015,119.89
+Pigeon Pea,pulses,2018,142.43
+Cabbage,vegetable,2018,34.49
+Tomato,vegetable,2024,162.04
+Onion,vegetable,2018,101.46
+Apple,fruit,2024,142.34
+Mango,fruit,2021,144.13
+Mango,fruit,2024,148.68
+Wheat,pulses,2023,67.9
+Onion,vegetable,2025,53.52
+Apple,fruit,2022,140.13
+Wheat,pulses,2022,120.88
+Mango,fruit,2019,60.27
+Tomato,vegetable,2023,35.53
+Tomato,vegetable,2023,156.63
+Cabbage,vegetable,2017,133.04
+Potato,vegetable,2017,114.01
+Mango,fruit,2024,79.46
+Apple,fruit,2023,93.15
+Mango,fruit,2022,128.64
+Mango,fruit,2024,131.94
+Onion,vegetable,2015,139.21
+Cabbage,vegetable,2018,104.84
+Green Gram,pulses,2015,108.82
+Wheat,pulses,2016,114.7
+Green Gram,pulses,2021,49.91
+Pigeon Pea,pulses,2025,37.44
+Cabbage,vegetable,2018,44.23
+Mango,fruit,2015,60.38
+Cabbage,vegetable,2016,26.16
+Banana,fruit,2015,145.51
+Apple,fruit,2020,101.22
+Green Gram,pulses,2019,122.46
+Apple,fruit,2017,73.33
+Cabbage,vegetable,2018,107.32
+Onion,vegetable,2019,38.83
+Pigeon Pea,pulses,2021,147.0
+Green Gram,pulses,2015,21.48
+Green Gram,pulses,2020,74.8
+Potato,vegetable,2022,132.81
+Apple,fruit,2020,67.52
+Cabbage,vegetable,2015,105.14
+Mango,fruit,2017,129.06
+Wheat,pulses,2016,147.54
+Banana,fruit,2015,33.88
+Onion,vegetable,2019,51.13
+Green Gram,pulses,2021,63.21
+Pigeon Pea,pulses,2022,125.51
+Mango,fruit,2025,50.29
+Potato,vegetable,2018,106.0
+Tomato,vegetable,2016,112.35
+Onion,vegetable,2015,108.2
+Pigeon Pea,pulses,2018,143.06
+Potato,vegetable,2017,136.17
+Pigeon Pea,pulses,2023,42.01
+Mango,fruit,2015,94.86
+Onion,vegetable,2024,134.24
+Banana,fruit,2016,117.62
+Tomato,vegetable,2023,88.96
+Onion,vegetable,2025,44.34
+Onion,vegetable,2023,63.07
+Green Gram,pulses,2019,140.57
+Green Gram,pulses,2023,40.41
+Pigeon Pea,pulses,2017,53.34
+Mango,fruit,2024,151.76
+Wheat,pulses,2017,107.56
+Wheat,pulses,2017,122.3
+Onion,vegetable,2021,70.38
+Onion,vegetable,2016,124.16
+Potato,vegetable,2024,96.88
+Pigeon Pea,pulses,2016,90.06
+Cabbage,vegetable,2020,90.81
+Cabbage,vegetable,2015,118.47
+Green Gram,pulses,2020,43.04
+Banana,fruit,2019,129.9
+Apple,fruit,2017,125.54
+Wheat,pulses,2024,103.56
+Cabbage,vegetable,2022,140.48
+Tomato,vegetable,2018,105.55
+Green Gram,pulses,2015,32.26
+Apple,fruit,2021,62.91
+Green Gram,pulses,2021,85.34
+Onion,vegetable,2019,82.74
+Mango,fruit,2015,119.91
+Pigeon Pea,pulses,2020,97.97
+Banana,fruit,2017,52.36
+Cabbage,vegetable,2016,90.07
+Mango,fruit,2020,65.64
+Wheat,pulses,2022,164.91
+Green Gram,pulses,2017,112.4
+Pigeon Pea,pulses,2016,79.52
+Green Gram,pulses,2019,38.75
+Banana,fruit,2015,45.73
+Mango,fruit,2024,94.53
+Green Gram,pulses,2025,49.93
+Tomato,vegetable,2025,117.25
+Onion,vegetable,2022,136.73
+Onion,vegetable,2017,38.54
+Apple,fruit,2017,138.84
+Tomato,vegetable,2023,139.73
+Wheat,pulses,2020,91.55
+Cabbage,vegetable,2023,163.34
+Potato,vegetable,2018,155.15
+Apple,fruit,2017,66.57
+Cabbage,vegetable,2025,80.48
+Pigeon Pea,pulses,2015,69.84
+Wheat,pulses,2023,111.56
+Mango,fruit,2024,126.48
+Mango,fruit,2023,74.55
+Mango,fruit,2017,84.46
+Tomato,vegetable,2020,125.79
+Potato,vegetable,2022,108.76
+Pigeon Pea,pulses,2024,93.18
+Pigeon Pea,pulses,2016,75.3
+Green Gram,pulses,2020,103.17
+Green Gram,pulses,2019,116.25
+Potato,vegetable,2024,132.21
+Mango,fruit,2021,54.68
+Green Gram,pulses,2022,29.12
+Tomato,vegetable,2017,133.9
+Potato,vegetable,2023,153.82
+Mango,fruit,2022,120.1
+Green Gram,pulses,2020,129.83
+Banana,fruit,2017,149.27
+Green Gram,pulses,2017,26.65
+Tomato,vegetable,2017,22.88
+Green Gram,pulses,2018,35.15
+Apple,fruit,2017,109.19
+Onion,vegetable,2018,157.01
+Banana,fruit,2025,123.31
+Pigeon Pea,pulses,2021,113.37
+Tomato,vegetable,2016,109.91
+Onion,vegetable,2025,163.97
+Potato,vegetable,2016,40.82
+Mango,fruit,2023,117.61
+Potato,vegetable,2017,123.97
+Wheat,pulses,2020,94.22
+Pigeon Pea,pulses,2018,108.38
+Wheat,pulses,2020,124.63
+Banana,fruit,2016,95.05
+Banana,fruit,2025,106.66
+Wheat,pulses,2022,69.79
+Mango,fruit,2025,78.81
+Tomato,vegetable,2021,78.24
+Cabbage,vegetable,2019,149.67
+Wheat,pulses,2019,31.0
+Mango,fruit,2015,110.93
+Pigeon Pea,pulses,2016,72.74
+Pigeon Pea,pulses,2020,147.64
+Cabbage,vegetable,2017,147.21
+Wheat,pulses,2021,131.63
+Wheat,pulses,2024,73.03
+Cabbage,vegetable,2019,56.31
+Potato,vegetable,2022,49.75
+Mango,fruit,2025,109.02
+Potato,vegetable,2024,102.39
+Mango,fruit,2015,82.27
+Mango,fruit,2024,67.72
+Onion,vegetable,2016,112.23
+Mango,fruit,2021,113.07
+Banana,fruit,2025,110.79
+Potato,vegetable,2017,106.92
+Mango,fruit,2021,89.16
+Green Gram,pulses,2015,43.49
+Banana,fruit,2020,59.13
+Potato,vegetable,2020,141.31
+Apple,fruit,2020,139.47
+Wheat,pulses,2021,101.19
+Apple,fruit,2024,82.65
+Tomato,vegetable,2018,108.97
+Banana,fruit,2018,53.09
+Banana,fruit,2016,27.19
+Cabbage,vegetable,2015,89.06
+Wheat,pulses,2016,149.97
+Banana,fruit,2025,117.21
+Mango,fruit,2016,121.39
+Pigeon Pea,pulses,2016,38.91
+Mango,fruit,2015,87.53
+Banana,fruit,2019,30.29
+Cabbage,vegetable,2023,134.1
+Pigeon Pea,pulses,2023,83.71
+Onion,vegetable,2023,67.94
+Wheat,pulses,2024,84.74
+Green Gram,pulses,2015,52.58
+Mango,fruit,2022,73.28
+Apple,fruit,2020,38.4
+Wheat,pulses,2015,61.12
+Mango,fruit,2025,117.63
+Pigeon Pea,pulses,2020,159.37
+Banana,fruit,2015,61.24
+Green Gram,pulses,2023,85.16
+Apple,fruit,2022,72.45
+Wheat,pulses,2015,138.47
+Cabbage,vegetable,2020,30.59
+Wheat,pulses,2021,157.34
+Banana,fruit,2022,100.36
+Wheat,pulses,2024,52.04
+Green Gram,pulses,2017,52.9
+Pigeon Pea,pulses,2021,155.86
+Mango,fruit,2021,48.07
+Apple,fruit,2024,125.93
+Tomato,vegetable,2015,37.02
+Cabbage,vegetable,2023,54.29
+Green Gram,pulses,2025,90.22
+Pigeon Pea,pulses,2019,136.65
+Apple,fruit,2022,77.36
+Mango,fruit,2025,141.71
+Mango,fruit,2019,45.96
+Onion,vegetable,2025,110.37
+Mango,fruit,2024,144.22
+Potato,vegetable,2024,141.56
+Wheat,pulses,2016,24.46
+Mango,fruit,2020,58.12
+Banana,fruit,2020,144.92
+Apple,fruit,2022,50.9
+Green Gram,pulses,2020,93.9
+Wheat,pulses,2020,129.62
+Wheat,pulses,2017,26.28
+Mango,fruit,2023,115.58
+Potato,vegetable,2020,114.55
+Onion,vegetable,2021,83.81
+Apple,fruit,2015,101.59
+Banana,fruit,2022,80.53
+Pigeon Pea,pulses,2015,80.24
+Tomato,vegetable,2018,96.06
+Cabbage,vegetable,2024,64.69
+Potato,vegetable,2022,108.04
+Pigeon Pea,pulses,2022,38.49
+Onion,vegetable,2017,32.2
+Tomato,vegetable,2021,126.1
+Tomato,vegetable,2020,146.06
+Mango,fruit,2020,65.93
+Onion,vegetable,2019,145.43
+Apple,fruit,2024,52.0
+Cabbage,vegetable,2015,113.15
+Potato,vegetable,2017,147.21
+Banana,fruit,2017,150.44
+Pigeon Pea,pulses,2015,56.56
+Tomato,vegetable,2018,94.17
+Wheat,pulses,2023,144.93
+Mango,fruit,2023,36.78
+Banana,fruit,2017,59.64
+Mango,fruit,2021,61.52
+Onion,vegetable,2024,154.2
+Apple,fruit,2016,136.74
+Onion,vegetable,2025,77.01
+Cabbage,vegetable,2021,28.86
+Wheat,pulses,2021,45.62
+Green Gram,pulses,2015,52.56
+Cabbage,vegetable,2020,73.41
+Banana,fruit,2021,37.9
+Apple,fruit,2018,115.02
+Tomato,vegetable,2019,120.55
+Potato,vegetable,2018,73.29
+Potato,vegetable,2018,102.22
+Potato,vegetable,2018,143.93
+Mango,fruit,2017,75.56
+Onion,vegetable,2018,116.13
+Cabbage,vegetable,2021,128.59
+Pigeon Pea,pulses,2024,88.95
+Banana,fruit,2017,101.93
+Tomato,vegetable,2016,78.17
+Wheat,pulses,2015,86.54
+Wheat,pulses,2015,32.79
+Pigeon Pea,pulses,2015,140.61
+Tomato,vegetable,2024,142.12
+Apple,fruit,2024,79.7
+Apple,fruit,2017,113.3
+Pigeon Pea,pulses,2020,86.22
+Banana,fruit,2024,74.03
+Banana,fruit,2019,106.65
+Pigeon Pea,pulses,2025,53.39
+Onion,vegetable,2016,70.8
+Banana,fruit,2023,67.0
+Green Gram,pulses,2017,91.19
+Onion,vegetable,2016,32.61
+Mango,fruit,2022,86.38
+Wheat,pulses,2016,139.6
+Cabbage,vegetable,2018,126.3
+Wheat,pulses,2023,81.23
+Potato,vegetable,2017,57.86
+Tomato,vegetable,2018,64.29
+Potato,vegetable,2015,107.02
+Green Gram,pulses,2023,92.97
+Cabbage,vegetable,2021,124.98
+Green Gram,pulses,2019,117.18
+Potato,vegetable,2021,145.81
+Tomato,vegetable,2023,109.17
+Pigeon Pea,pulses,2019,72.7
+Cabbage,vegetable,2021,51.55
+Potato,vegetable,2024,49.82
+Banana,fruit,2019,68.15
+Potato,vegetable,2022,73.17
+Apple,fruit,2019,106.74
+Onion,vegetable,2021,148.23
+Onion,vegetable,2020,72.86
+Apple,fruit,2022,49.47
+Banana,fruit,2021,103.57
+Apple,fruit,2021,153.35
+Banana,fruit,2024,139.99
+Potato,vegetable,2018,69.53
+Wheat,pulses,2022,110.22
+Mango,fruit,2018,53.05
+Apple,fruit,2019,102.58
+Onion,vegetable,2020,75.34
+Green Gram,pulses,2021,95.38
+Mango,fruit,2021,72.28
+Onion,vegetable,2020,83.1
+Apple,fruit,2015,29.97
+Wheat,pulses,2023,91.36
+Potato,vegetable,2018,76.65
+Mango,fruit,2020,41.38
+Onion,vegetable,2021,100.81
+Green Gram,pulses,2015,42.89
+Cabbage,vegetable,2025,118.75
+Pigeon Pea,pulses,2023,41.05
+Cabbage,vegetable,2016,92.87
+Onion,vegetable,2016,48.28
+Cabbage,vegetable,2019,44.92
+Mango,fruit,2023,139.13
+Cabbage,vegetable,2016,59.22
+Banana,fruit,2024,164.99
+Wheat,pulses,2022,88.0
+Tomato,vegetable,2023,153.42
+Mango,fruit,2023,140.36
+Tomato,vegetable,2016,103.63
+Apple,fruit,2021,144.74
+Green Gram,pulses,2025,59.0
+Cabbage,vegetable,2015,81.14
+Potato,vegetable,2024,139.41
+Mango,fruit,2017,104.79
+Tomato,vegetable,2021,136.29
+Mango,fruit,2024,41.77
+Apple,fruit,2024,55.09
+Potato,vegetable,2017,135.35
+Cabbage,vegetable,2017,28.07
+Apple,fruit,2023,105.9
+Mango,fruit,2020,141.18
+Green Gram,pulses,2024,160.74
+Onion,vegetable,2016,39.6
+Onion,vegetable,2018,78.56
+Onion,vegetable,2016,138.13
+Onion,vegetable,2017,69.36
+Cabbage,vegetable,2015,27.77
+Banana,fruit,2022,104.72
+Tomato,vegetable,2023,39.13
+Banana,fruit,2021,48.31
+Pigeon Pea,pulses,2023,120.81
+Banana,fruit,2020,126.14
+Mango,fruit,2020,54.85
+Mango,fruit,2025,79.95
+Green Gram,pulses,2019,113.69
+Potato,vegetable,2021,103.1
+Apple,fruit,2022,64.44
+Wheat,pulses,2019,152.83
+Mango,fruit,2025,140.76
+Pigeon Pea,pulses,2021,61.64
+Pigeon Pea,pulses,2022,123.71
+Pigeon Pea,pulses,2018,116.69
+Onion,vegetable,2019,124.56
+Mango,fruit,2018,59.76
+Onion,vegetable,2016,54.52
+Onion,vegetable,2020,36.1
+Apple,fruit,2021,96.58
+Green Gram,pulses,2018,81.55
+Cabbage,vegetable,2023,43.78
+Onion,vegetable,2016,106.81
+Potato,vegetable,2017,54.18
+Wheat,pulses,2021,82.5
+Tomato,vegetable,2024,44.27
+Banana,fruit,2024,98.59
+Cabbage,vegetable,2023,119.32
+Onion,vegetable,2024,148.23
+Cabbage,vegetable,2019,89.56
+Pigeon Pea,pulses,2018,156.53
+Wheat,pulses,2017,29.3
+Tomato,vegetable,2025,72.25
+Wheat,pulses,2019,63.74
+Pigeon Pea,pulses,2020,85.25
+Mango,fruit,2019,149.78
+Mango,fruit,2023,46.9
+Pigeon Pea,pulses,2023,126.87
+Potato,vegetable,2017,64.44
+Tomato,vegetable,2017,70.94
+Wheat,pulses,2023,92.99
+Mango,fruit,2015,106.92
+Green Gram,pulses,2023,156.09
+Pigeon Pea,pulses,2018,92.15
+Mango,fruit,2025,148.03
+Pigeon Pea,pulses,2021,135.86
+Wheat,pulses,2025,98.81
+Apple,fruit,2025,157.41
+Tomato,vegetable,2020,121.74
+Cabbage,vegetable,2020,139.97
+Wheat,pulses,2022,121.28
+Wheat,pulses,2021,129.21
+Mango,fruit,2023,146.61
+Cabbage,vegetable,2019,95.18
+Tomato,vegetable,2017,113.63
+Green Gram,pulses,2022,50.51
+Pigeon Pea,pulses,2020,76.43
+Apple,fruit,2023,59.3
+Cabbage,vegetable,2015,44.36
+Onion,vegetable,2016,42.46
+Onion,vegetable,2020,36.91
+Tomato,vegetable,2023,111.3
+Tomato,vegetable,2020,60.13
+Green Gram,pulses,2025,102.15
+Tomato,vegetable,2021,80.62
+Tomato,vegetable,2019,142.58
+Wheat,pulses,2023,79.63
+Cabbage,vegetable,2020,138.81
+Potato,vegetable,2025,59.61
+Green Gram,pulses,2015,35.61
+Green Gram,pulses,2024,56.63
+Pigeon Pea,pulses,2021,128.77
+Wheat,pulses,2016,83.55
+Banana,fruit,2015,135.65
+Banana,fruit,2016,86.75
+Banana,fruit,2021,128.04
+Green Gram,pulses,2018,136.06
+Onion,vegetable,2025,79.34
+Potato,vegetable,2018,127.43
+Green Gram,pulses,2015,46.05
+Onion,vegetable,2021,59.01
+Cabbage,vegetable,2017,64.8
+Pigeon Pea,pulses,2021,161.43
+Wheat,pulses,2020,119.43
+Pigeon Pea,pulses,2017,119.8
+Potato,vegetable,2019,52.01
+Potato,vegetable,2022,62.46
+Green Gram,pulses,2023,146.89
+Pigeon Pea,pulses,2018,124.1
+Pigeon Pea,pulses,2024,68.66
+Potato,vegetable,2023,117.23
+Potato,vegetable,2017,70.35
+Banana,fruit,2021,73.43
+Cabbage,vegetable,2021,83.16
+Mango,fruit,2024,54.81
+Banana,fruit,2017,101.1
+Onion,vegetable,2023,161.18
+Pigeon Pea,pulses,2025,43.6
+Potato,vegetable,2021,118.01
+Tomato,vegetable,2015,80.06
+Apple,fruit,2022,114.14
+Green Gram,pulses,2025,133.12
+Mango,fruit,2023,123.2
+Green Gram,pulses,2025,43.16
+Potato,vegetable,2023,39.71
+Green Gram,pulses,2022,147.24
+Wheat,pulses,2023,77.81
+Wheat,pulses,2024,141.79
+Wheat,pulses,2024,98.44
+Tomato,vegetable,2016,51.3
+Cabbage,vegetable,2016,88.25
+Onion,vegetable,2025,102.6
+Cabbage,vegetable,2024,99.82
+Pigeon Pea,pulses,2019,57.34
+Green Gram,pulses,2015,62.84
+Banana,fruit,2017,155.47
+Cabbage,vegetable,2022,136.52
+Banana,fruit,2020,119.58
+Potato,vegetable,2018,53.0
+Banana,fruit,2021,88.84
+Apple,fruit,2018,94.71
+Green Gram,pulses,2024,103.87
+Pigeon Pea,pulses,2024,95.68
+Banana,fruit,2023,79.07
+Pigeon Pea,pulses,2018,141.75
+Wheat,pulses,2016,132.02
+Potato,vegetable,2018,41.69
+Tomato,vegetable,2017,49.82
+Cabbage,vegetable,2025,143.65
+Tomato,vegetable,2025,83.71
+Tomato,vegetable,2019,38.18
+Banana,fruit,2019,130.24
+Banana,fruit,2022,124.81
+Banana,fruit,2020,91.7
+Banana,fruit,2015,33.8
+Mango,fruit,2018,52.04
+Onion,vegetable,2018,95.72
+Banana,fruit,2016,44.15
+Onion,vegetable,2023,81.0
+Cabbage,vegetable,2024,146.22
+Banana,fruit,2020,126.91
+Mango,fruit,2018,144.93
+Potato,vegetable,2020,32.88
+Mango,fruit,2024,37.83
+Apple,fruit,2024,118.06
+Onion,vegetable,2021,89.04
+Onion,vegetable,2018,130.44
+Onion,vegetable,2018,79.75
+Mango,fruit,2016,73.32
+Mango,fruit,2022,148.61
+Tomato,vegetable,2016,105.47
+Pigeon Pea,pulses,2022,114.33
+Mango,fruit,2018,159.2
+Green Gram,pulses,2022,107.31
+Apple,fruit,2024,131.05
+Wheat,pulses,2016,29.99
+Tomato,vegetable,2024,103.71
+Banana,fruit,2022,101.24
+Pigeon Pea,pulses,2019,103.68
+Banana,fruit,2024,110.57
+Onion,vegetable,2019,96.53
+Onion,vegetable,2019,72.37
+Mango,fruit,2022,86.05
+Cabbage,vegetable,2019,75.15
+Tomato,vegetable,2021,69.86
+Mango,fruit,2022,63.09
+Cabbage,vegetable,2022,96.2
+Banana,fruit,2019,62.65
+Tomato,vegetable,2020,109.91
+Pigeon Pea,pulses,2016,124.45
+Banana,fruit,2020,66.15
+Wheat,pulses,2019,148.25
+Potato,vegetable,2019,74.94
+Potato,vegetable,2018,139.91
+Mango,fruit,2016,126.32
+Pigeon Pea,pulses,2025,156.91
+Onion,vegetable,2018,84.39
+Banana,fruit,2018,62.74
+Banana,fruit,2015,67.57
+Banana,fruit,2020,52.35
+Potato,vegetable,2018,116.28
+Pigeon Pea,pulses,2015,111.54
+Wheat,pulses,2017,94.32
+Banana,fruit,2023,142.67
+Cabbage,vegetable,2017,111.92
+Mango,fruit,2015,29.75
+Banana,fruit,2021,52.09
+Tomato,vegetable,2019,68.37
+Pigeon Pea,pulses,2018,67.35
+Mango,fruit,2023,62.97
+Tomato,vegetable,2021,156.46
+Tomato,vegetable,2024,108.65
+Apple,fruit,2019,41.03
+Tomato,vegetable,2019,29.92
+Cabbage,vegetable,2022,88.93
+Green Gram,pulses,2022,149.96
+Banana,fruit,2024,113.48
+Tomato,vegetable,2022,151.2
+Onion,vegetable,2019,45.62
+Apple,fruit,2015,145.39
+Onion,vegetable,2022,53.63
+Mango,fruit,2018,61.83
+Mango,fruit,2021,78.83
+Onion,vegetable,2015,105.65
+Potato,vegetable,2024,154.53
+Pigeon Pea,pulses,2018,122.67
+Potato,vegetable,2025,66.54
+Cabbage,vegetable,2020,45.83
+Onion,vegetable,2018,98.73
+Onion,vegetable,2017,103.27
+Apple,fruit,2021,79.64
+Wheat,pulses,2017,98.6
+Green Gram,pulses,2019,55.3
+Mango,fruit,2020,93.3
+Pigeon Pea,pulses,2025,66.18
+Potato,vegetable,2016,66.21
+Onion,vegetable,2025,131.6
+Pigeon Pea,pulses,2019,99.42
+Onion,vegetable,2016,91.82
+Cabbage,vegetable,2020,43.44
+Mango,fruit,2023,50.09
+Banana,fruit,2020,132.24
+Banana,fruit,2015,53.22
+Mango,fruit,2021,116.79
+Banana,fruit,2017,52.96
+Pigeon Pea,pulses,2019,82.09
+Banana,fruit,2017,29.83
+Mango,fruit,2022,147.01
+Cabbage,vegetable,2020,126.14
+Apple,fruit,2019,87.22
+Apple,fruit,2018,52.0
+Wheat,pulses,2023,146.21
+Potato,vegetable,2015,41.1
+Pigeon Pea,pulses,2023,129.18
+Banana,fruit,2020,70.59
+Banana,fruit,2022,149.52
+Onion,vegetable,2019,101.95
+Onion,vegetable,2022,83.78
+Wheat,pulses,2019,94.99
+Banana,fruit,2024,121.81
+Mango,fruit,2016,139.41
+Pigeon Pea,pulses,2016,80.14
+Potato,vegetable,2021,52.26
+Potato,vegetable,2018,44.26
+Tomato,vegetable,2015,103.62
+Mango,fruit,2016,100.75
+Banana,fruit,2024,94.12
+Potato,vegetable,2020,52.97
+Onion,vegetable,2025,150.32
+Cabbage,vegetable,2022,117.46
+Banana,fruit,2021,45.86
+Mango,fruit,2016,147.59
+Apple,fruit,2023,155.52
+Mango,fruit,2018,89.83
+Green Gram,pulses,2020,126.19
+Potato,vegetable,2016,34.0
+Green Gram,pulses,2017,92.72
+Potato,vegetable,2018,31.77
+Banana,fruit,2019,141.49
+Banana,fruit,2016,61.9
+Potato,vegetable,2015,149.15
+Tomato,vegetable,2024,125.36
+Green Gram,pulses,2019,52.1
+Mango,fruit,2025,58.14
+Banana,fruit,2025,59.25
+Green Gram,pulses,2019,111.69
+Potato,vegetable,2019,125.04
+Pigeon Pea,pulses,2023,108.28
+Banana,fruit,2020,47.98
+Potato,vegetable,2021,106.03
+Potato,vegetable,2019,69.74
+Wheat,pulses,2024,98.99
+Wheat,pulses,2021,127.51
+Onion,vegetable,2025,133.45
+Green Gram,pulses,2021,105.79
+Apple,fruit,2020,109.24
+Banana,fruit,2016,126.54
+Mango,fruit,2022,70.0
+Green Gram,pulses,2019,30.48
+Mango,fruit,2025,60.48
+Green Gram,pulses,2022,55.35
+Wheat,pulses,2025,114.43
+Onion,vegetable,2016,101.35
+Tomato,vegetable,2017,42.46
+Onion,vegetable,2024,47.78
+Mango,fruit,2015,132.49
+Onion,vegetable,2021,63.67
+Green Gram,pulses,2022,44.12
+Mango,fruit,2023,96.77
+Apple,fruit,2020,94.54
+Cabbage,vegetable,2018,32.64
+Onion,vegetable,2016,93.98
+Mango,fruit,2021,41.25
+Apple,fruit,2023,84.57
+Green Gram,pulses,2017,51.28
+Pigeon Pea,pulses,2017,57.91
+Cabbage,vegetable,2021,56.97
+Banana,fruit,2024,108.96
+Banana,fruit,2023,122.89
+Onion,vegetable,2016,113.75
+Cabbage,vegetable,2016,78.26
+Apple,fruit,2017,131.84
+Banana,fruit,2016,136.43
+Onion,vegetable,2020,40.91
+Cabbage,vegetable,2019,42.66
+Tomato,vegetable,2023,46.72
+Pigeon Pea,pulses,2017,46.46
+Pigeon Pea,pulses,2017,103.69
+Apple,fruit,2021,29.97
+Pigeon Pea,pulses,2016,60.72
+Banana,fruit,2022,57.15
+Mango,fruit,2020,99.03
+Onion,vegetable,2022,94.47
+Banana,fruit,2015,110.43
+Pigeon Pea,pulses,2019,105.92
+Tomato,vegetable,2025,90.37
+Wheat,pulses,2016,48.43
+Onion,vegetable,2017,78.08
+Mango,fruit,2025,42.57
+Pigeon Pea,pulses,2024,131.65
+Tomato,vegetable,2017,63.35
+Wheat,pulses,2019,81.54
+Tomato,vegetable,2020,121.77
+Green Gram,pulses,2025,134.94
+Mango,fruit,2015,82.28
+Green Gram,pulses,2020,135.8
+Onion,vegetable,2022,106.3
+Banana,fruit,2020,137.62
+Apple,fruit,2020,142.89
+Onion,vegetable,2019,86.64
+Cabbage,vegetable,2016,138.11
+Apple,fruit,2020,78.5
+Mango,fruit,2015,112.24
+Tomato,vegetable,2017,59.19
+Pigeon Pea,pulses,2023,84.31
+Apple,fruit,2020,124.21
+Apple,fruit,2020,36.72
+Banana,fruit,2015,143.94
+Mango,fruit,2016,112.98
+Apple,fruit,2024,133.68
+Apple,fruit,2020,71.54
+Onion,vegetable,2015,76.52
+Cabbage,vegetable,2015,133.88
+Mango,fruit,2016,51.87
+Onion,vegetable,2019,144.49
+Wheat,pulses,2015,54.56
+Mango,fruit,2023,45.41
+Mango,fruit,2019,130.41
+Cabbage,vegetable,2020,115.66
+Banana,fruit,2020,75.61
+Tomato,vegetable,2017,102.13
+Tomato,vegetable,2016,101.63
+Apple,fruit,2019,148.42
+Green Gram,pulses,2022,107.82
+Cabbage,vegetable,2024,137.93
+Wheat,pulses,2023,46.26
+Pigeon Pea,pulses,2018,35.23
+Banana,fruit,2022,135.99
+Tomato,vegetable,2021,86.59
+Mango,fruit,2019,44.33
+Green Gram,pulses,2021,103.69
+Cabbage,vegetable,2017,127.22
+Green Gram,pulses,2021,110.14
+Potato,vegetable,2015,143.39
+Pigeon Pea,pulses,2018,104.89
+Banana,fruit,2015,22.8
+Wheat,pulses,2017,86.31
+Green Gram,pulses,2023,102.13
+Onion,vegetable,2019,32.15
+Green Gram,pulses,2021,105.24
+Banana,fruit,2023,63.15
+Banana,fruit,2022,53.13
+Wheat,pulses,2018,36.27
+Potato,vegetable,2025,94.04
+Pigeon Pea,pulses,2019,124.81
+Cabbage,vegetable,2020,109.02
+Apple,fruit,2025,178.69
+Cabbage,vegetable,2021,49.86
+Tomato,vegetable,2016,45.73
+Cabbage,vegetable,2018,115.14
+Apple,fruit,2025,110.89
+Tomato,vegetable,2016,43.95
+Apple,fruit,2023,160.45
+Tomato,vegetable,2021,31.44
+Tomato,vegetable,2024,134.44
+Cabbage,vegetable,2016,119.9
+Wheat,pulses,2023,65.67
+Pigeon Pea,pulses,2015,77.59
+Pigeon Pea,pulses,2020,95.84
+Pigeon Pea,pulses,2016,116.07
+Green Gram,pulses,2020,61.45
+Tomato,vegetable,2022,126.52
+Potato,vegetable,2020,48.5
+Wheat,pulses,2021,90.33
+Apple,fruit,2018,145.83
+Pigeon Pea,pulses,2022,129.21
+Cabbage,vegetable,2025,152.52
+Wheat,pulses,2021,104.07
+Mango,fruit,2022,51.9
+Tomato,vegetable,2016,141.68
+Onion,vegetable,2021,91.18
+Banana,fruit,2024,151.76
+Apple,fruit,2021,147.55
+Banana,fruit,2017,123.26
+Banana,fruit,2023,124.9
+Mango,fruit,2025,42.35
+Tomato,vegetable,2025,138.28
+Potato,vegetable,2017,50.01
+Potato,vegetable,2020,42.07
+Pigeon Pea,pulses,2023,127.27
+Mango,fruit,2022,70.69
+Wheat,pulses,2017,85.32
+Wheat,pulses,2019,38.36
+Onion,vegetable,2022,138.49
+Potato,vegetable,2018,115.75
+Wheat,pulses,2016,65.21
+Apple,fruit,2015,41.93
+Wheat,pulses,2016,93.18
+Cabbage,vegetable,2020,67.14
+Tomato,vegetable,2024,119.62
+Onion,vegetable,2015,29.24
+Onion,vegetable,2015,62.83
+Green Gram,pulses,2015,146.12
+Tomato,vegetable,2024,44.99
+Potato,vegetable,2018,142.32
+Cabbage,vegetable,2020,132.1
+Potato,vegetable,2025,138.39
+Mango,fruit,2021,42.62
+Banana,fruit,2022,159.71
+Mango,fruit,2018,140.61
+Pigeon Pea,pulses,2025,113.41
+Banana,fruit,2019,79.64
+Onion,vegetable,2021,137.26
+Potato,vegetable,2019,53.64
+Mango,fruit,2021,117.19
+Tomato,vegetable,2021,100.29
+Green Gram,pulses,2015,146.56
+Wheat,pulses,2021,151.43
+Pigeon Pea,pulses,2018,152.57
+Wheat,pulses,2020,84.26
+Mango,fruit,2015,34.44
+Onion,vegetable,2021,136.96
+Cabbage,vegetable,2017,67.0
+Tomato,vegetable,2016,75.17
+Cabbage,vegetable,2020,122.95
+Tomato,vegetable,2020,99.75
+Potato,vegetable,2020,30.29
+Mango,fruit,2019,102.66
+Potato,vegetable,2016,23.46
+Mango,fruit,2022,58.7
+Potato,vegetable,2018,69.92
+Green Gram,pulses,2025,69.07
+Green Gram,pulses,2018,117.31
+Potato,vegetable,2025,117.69
+Green Gram,pulses,2022,109.89
+Apple,fruit,2016,68.77
+Wheat,pulses,2016,88.71
+Green Gram,pulses,2024,125.16
+Tomato,vegetable,2019,140.15
+Banana,fruit,2015,146.26
+Wheat,pulses,2025,41.99
+Onion,vegetable,2021,78.06
+Green Gram,pulses,2016,125.43
+Pigeon Pea,pulses,2021,152.76
+Pigeon Pea,pulses,2021,39.95
+Apple,fruit,2021,83.57
+Wheat,pulses,2020,24.44
+Potato,vegetable,2025,157.21
+Banana,fruit,2020,137.0
+Mango,fruit,2023,47.83
+Pigeon Pea,pulses,2024,94.2
+Cabbage,vegetable,2015,23.71
+Green Gram,pulses,2021,34.62
+Green Gram,pulses,2020,109.82
+Cabbage,vegetable,2018,129.54
+Mango,fruit,2023,132.91
+Wheat,pulses,2018,115.49
+Wheat,pulses,2018,79.18
+Apple,fruit,2015,142.38
+Potato,vegetable,2015,76.68
+Onion,vegetable,2022,125.29
+Apple,fruit,2025,117.87
+Cabbage,vegetable,2025,102.53
+Potato,vegetable,2018,148.05
+Banana,fruit,2023,57.21
+Potato,vegetable,2023,60.7
+Apple,fruit,2022,47.57
+Banana,fruit,2015,123.1
+Banana,fruit,2016,111.34
+Green Gram,pulses,2016,140.83
+Mango,fruit,2023,86.32
+Potato,vegetable,2017,34.79
+Banana,fruit,2020,118.62
+Pigeon Pea,pulses,2016,59.94
+Pigeon Pea,pulses,2025,63.56
+Green Gram,pulses,2016,71.53
+Mango,fruit,2019,126.66
+Pigeon Pea,pulses,2015,35.4
+Tomato,vegetable,2025,51.71
+Wheat,pulses,2022,139.77
+Green Gram,pulses,2015,112.98
+Green Gram,pulses,2024,91.36
+Apple,fruit,2018,132.39
+Banana,fruit,2024,133.33
+Banana,fruit,2024,81.44
+Cabbage,vegetable,2025,85.31
+Onion,vegetable,2018,100.9
+Cabbage,vegetable,2023,73.44
+Mango,fruit,2023,53.97
+Tomato,vegetable,2015,139.18
+Green Gram,pulses,2024,136.32
+Pigeon Pea,pulses,2018,21.14
+Wheat,pulses,2018,112.53
+Wheat,pulses,2016,43.79
+Apple,fruit,2023,155.44
+Onion,vegetable,2017,75.13
+Onion,vegetable,2021,37.65
+Onion,vegetable,2020,107.26
+Green Gram,pulses,2015,37.41
+Onion,vegetable,2024,168.95
+Banana,fruit,2018,45.19
+Potato,vegetable,2017,63.53
+Pigeon Pea,pulses,2024,43.34
+Green Gram,pulses,2018,62.34
+Pigeon Pea,pulses,2015,94.83
+Green Gram,pulses,2015,107.08
+Mango,fruit,2025,56.83
+Banana,fruit,2017,97.76
+Onion,vegetable,2024,140.04
+Potato,vegetable,2015,109.72
+Green Gram,pulses,2018,100.55
+Potato,vegetable,2021,143.58
+Potato,vegetable,2020,56.21
+Green Gram,pulses,2019,68.32
+Wheat,pulses,2024,149.7
+Tomato,vegetable,2025,163.33
+Banana,fruit,2016,36.58
+Banana,fruit,2021,86.2
+Banana,fruit,2021,147.14
+Onion,vegetable,2022,110.66
+Onion,vegetable,2017,126.04
+Onion,vegetable,2016,57.88
+Onion,vegetable,2019,68.29
+Pigeon Pea,pulses,2020,55.19
+Onion,vegetable,2015,44.98
+Banana,fruit,2025,164.67
+Apple,fruit,2016,107.78
+Cabbage,vegetable,2016,80.19
+Banana,fruit,2016,73.53
+Wheat,pulses,2017,52.57
+Green Gram,pulses,2017,75.35
+Cabbage,vegetable,2017,108.12
+Cabbage,vegetable,2025,111.29
+Tomato,vegetable,2018,97.96
+Onion,vegetable,2018,113.2
+Potato,vegetable,2024,42.75
+Apple,fruit,2015,79.94
+Banana,fruit,2020,71.04
+Cabbage,vegetable,2015,115.59
+Pigeon Pea,pulses,2015,81.06
+Cabbage,vegetable,2025,139.19
+Apple,fruit,2020,87.92
+Mango,fruit,2015,129.7
+Banana,fruit,2020,114.97
+Onion,vegetable,2018,119.81
+Cabbage,vegetable,2015,144.88
+Mango,fruit,2019,80.79
+Cabbage,vegetable,2015,47.03
+Pigeon Pea,pulses,2023,102.42
+Green Gram,pulses,2025,122.27
+Apple,fruit,2023,90.17
+Mango,fruit,2018,51.49
+Banana,fruit,2016,108.47
+Apple,fruit,2018,56.92
+Apple,fruit,2023,119.3
+Cabbage,vegetable,2015,15.47
+Cabbage,vegetable,2018,110.42
+Pigeon Pea,pulses,2019,138.57
+Onion,vegetable,2016,142.53
+Green Gram,pulses,2015,37.09
+Onion,vegetable,2017,82.39
+Green Gram,pulses,2016,58.92
+Banana,fruit,2022,89.32
+Pigeon Pea,pulses,2025,150.67
+Mango,fruit,2018,151.53
+Cabbage,vegetable,2015,94.76
+Cabbage,vegetable,2016,101.74
+Potato,vegetable,2024,52.68
+Green Gram,pulses,2015,23.71
+Pigeon Pea,pulses,2020,68.7
+Mango,fruit,2024,60.73
+Onion,vegetable,2024,115.37
+Tomato,vegetable,2021,43.45
+Tomato,vegetable,2022,65.85
+Mango,fruit,2022,105.96
+Green Gram,pulses,2020,68.85
+Mango,fruit,2016,82.95
+Potato,vegetable,2024,163.0
+Onion,vegetable,2024,162.22
+Cabbage,vegetable,2016,146.07
+Potato,vegetable,2019,107.85
+Tomato,vegetable,2020,137.59
+Potato,vegetable,2018,63.19
+Pigeon Pea,pulses,2021,91.61
+Potato,vegetable,2024,76.22
+Apple,fruit,2019,121.24
+Wheat,pulses,2016,48.85
+Cabbage,vegetable,2024,94.02
+Onion,vegetable,2015,57.27
+Pigeon Pea,pulses,2020,135.45
+Cabbage,vegetable,2023,61.09
+Apple,fruit,2022,114.58
+Green Gram,pulses,2023,73.06
+Apple,fruit,2018,126.89
+Wheat,pulses,2020,50.94
+Onion,vegetable,2015,146.02
+Banana,fruit,2020,67.22
+Green Gram,pulses,2022,83.32
+Banana,fruit,2023,144.35
+Potato,vegetable,2021,61.55
+Mango,fruit,2018,90.28
+Mango,fruit,2024,57.13
+Pigeon Pea,pulses,2020,108.18
+Wheat,pulses,2024,126.71
+Potato,vegetable,2015,102.1
+Potato,vegetable,2019,51.63
+Banana,fruit,2019,37.81
+Banana,fruit,2024,142.47
+Green Gram,pulses,2015,99.48
+Green Gram,pulses,2019,55.42
+Wheat,pulses,2015,146.72
+Potato,vegetable,2023,47.18
+Apple,fruit,2015,103.4
+Onion,vegetable,2022,112.11
+Green Gram,pulses,2018,61.39
+Green Gram,pulses,2016,41.65
+Mango,fruit,2018,36.76
+Pigeon Pea,pulses,2015,65.37
+Onion,vegetable,2017,47.29
+Onion,vegetable,2025,159.72
+Banana,fruit,2021,154.34
+Cabbage,vegetable,2018,131.91
+Apple,fruit,2023,122.74
+Tomato,vegetable,2015,18.38
+Onion,vegetable,2018,112.3
+Mango,fruit,2024,68.93
+Tomato,vegetable,2016,83.14
+Pigeon Pea,pulses,2024,118.2
+Onion,vegetable,2015,30.5
+Apple,fruit,2021,39.01
+Pigeon Pea,pulses,2021,105.95
+Green Gram,pulses,2021,115.45
+Tomato,vegetable,2025,132.29
+Green Gram,pulses,2023,47.59
+Potato,vegetable,2019,104.16
+Wheat,pulses,2021,36.35
+Green Gram,pulses,2019,72.42
+Apple,fruit,2015,33.31
+Tomato,vegetable,2018,75.72
+Cabbage,vegetable,2015,111.0
+Mango,fruit,2016,46.79
+Green Gram,pulses,2017,93.29
+Cabbage,vegetable,2024,142.87
+Green Gram,pulses,2020,136.4
+Cabbage,vegetable,2019,136.46
+Banana,fruit,2017,110.36
+Mango,fruit,2017,72.89
+Green Gram,pulses,2020,80.57
+Green Gram,pulses,2020,141.41
+Green Gram,pulses,2015,121.71
+Onion,vegetable,2015,86.31
+Apple,fruit,2025,79.76
+Mango,fruit,2015,137.23
+Mango,fruit,2022,142.95
+Pigeon Pea,pulses,2022,117.64
+Wheat,pulses,2018,95.2
+Potato,vegetable,2016,52.6
+Banana,fruit,2015,144.33
+Mango,fruit,2022,54.25
+Cabbage,vegetable,2024,63.98
+Apple,fruit,2024,108.47
+Apple,fruit,2016,98.86
+Mango,fruit,2019,40.75
+Tomato,vegetable,2021,64.68
+Onion,vegetable,2023,151.14
+Onion,vegetable,2024,157.85
+Cabbage,vegetable,2018,121.42
+Cabbage,vegetable,2022,103.0
+Cabbage,vegetable,2020,103.07
+Tomato,vegetable,2021,130.41
+Wheat,pulses,2022,37.9
+Apple,fruit,2018,94.46
+Cabbage,vegetable,2025,163.72
+Green Gram,pulses,2017,68.76
+Green Gram,pulses,2023,88.2
+Green Gram,pulses,2015,82.21
+Pigeon Pea,pulses,2015,40.18
+Apple,fruit,2024,168.5
+Pigeon Pea,pulses,2016,101.11
+Onion,vegetable,2021,55.71
+Mango,fruit,2025,89.15
+Potato,vegetable,2025,37.48
+Tomato,vegetable,2025,101.87
+Onion,vegetable,2017,114.52
+Onion,vegetable,2023,86.15
+Green Gram,pulses,2022,83.5
+Mango,fruit,2021,70.37
+Potato,vegetable,2024,93.72
+Tomato,vegetable,2020,116.74
+Onion,vegetable,2018,96.54
+Potato,vegetable,2025,153.19
+Cabbage,vegetable,2019,115.93
+Mango,fruit,2021,115.57
+Onion,vegetable,2020,69.42
+Tomato,vegetable,2022,103.88
+Green Gram,pulses,2019,36.6
+Mango,fruit,2018,103.32
+Mango,fruit,2016,116.87
+Green Gram,pulses,2024,137.29
+Green Gram,pulses,2023,105.86
+Green Gram,pulses,2018,111.67
+Mango,fruit,2022,36.46
+Cabbage,vegetable,2017,21.29
+Mango,fruit,2020,97.64
+Potato,vegetable,2024,49.86
+Apple,fruit,2015,23.18
+Wheat,pulses,2020,46.08
+Wheat,pulses,2020,46.46
+Potato,vegetable,2019,145.31
+Wheat,pulses,2019,52.33
+Pigeon Pea,pulses,2023,81.5
+Banana,fruit,2015,36.18
+Potato,vegetable,2015,95.15
+Pigeon Pea,pulses,2020,93.69
+Mango,fruit,2025,136.82
+Potato,vegetable,2021,140.8
+Potato,vegetable,2020,58.95
+Mango,fruit,2024,92.52
+Banana,fruit,2016,102.38
+Wheat,pulses,2021,99.11
+Tomato,vegetable,2015,68.59
+Banana,fruit,2017,141.04
+Potato,vegetable,2021,114.62
+Wheat,pulses,2019,151.3
+Tomato,vegetable,2016,50.06
+Green Gram,pulses,2017,35.68
+Tomato,vegetable,2025,85.48
+Pigeon Pea,pulses,2015,92.48
+Apple,fruit,2017,46.89
+Cabbage,vegetable,2016,123.18
+Green Gram,pulses,2017,104.19
+Onion,vegetable,2017,76.67
+Apple,fruit,2020,85.54
+Banana,fruit,2023,72.07
+Tomato,vegetable,2016,95.63
+Mango,fruit,2024,72.18
+Onion,vegetable,2020,74.83
+Cabbage,vegetable,2023,33.0
+Onion,vegetable,2022,150.94
+Pigeon Pea,pulses,2018,53.54
+Banana,fruit,2025,53.61
+Potato,vegetable,2017,49.51
+Green Gram,pulses,2023,70.86
+Apple,fruit,2021,120.78
+Cabbage,vegetable,2017,95.3
+Green Gram,pulses,2017,63.41
+Wheat,pulses,2020,126.34
+Green Gram,pulses,2023,114.51
+Cabbage,vegetable,2020,113.12
+Cabbage,vegetable,2021,156.1
+Tomato,vegetable,2022,62.94
+Wheat,pulses,2020,82.51
+Potato,vegetable,2022,88.28
+Green Gram,pulses,2015,65.99
+Banana,fruit,2021,112.77
+Banana,fruit,2022,145.07
+Mango,fruit,2025,45.1
+Cabbage,vegetable,2021,88.25
+Banana,fruit,2017,145.74
+Apple,fruit,2025,45.85
+Onion,vegetable,2019,30.53
+Tomato,vegetable,2017,110.43
+Banana,fruit,2017,62.84
+Potato,vegetable,2019,58.7
+Pigeon Pea,pulses,2017,52.42
+Cabbage,vegetable,2023,125.04
+Banana,fruit,2022,110.13
+Pigeon Pea,pulses,2022,119.61
+Green Gram,pulses,2018,58.17
+Pigeon Pea,pulses,2020,113.81
+Banana,fruit,2021,143.37
+Cabbage,vegetable,2017,78.96
+Wheat,pulses,2021,137.03
+Banana,fruit,2023,46.73
+Pigeon Pea,pulses,2022,150.25
+Green Gram,pulses,2015,50.29
+Green Gram,pulses,2019,118.25
+Potato,vegetable,2023,59.31
+Green Gram,pulses,2017,64.99
+Mango,fruit,2021,46.04
+Tomato,vegetable,2019,40.91
+Green Gram,pulses,2018,99.03
+Banana,fruit,2016,114.0
+Pigeon Pea,pulses,2024,82.57
+Green Gram,pulses,2023,135.14
+Apple,fruit,2015,77.55
+Potato,vegetable,2020,76.35
+Banana,fruit,2025,83.94
+Green Gram,pulses,2018,136.33
+Wheat,pulses,2025,139.17
+Banana,fruit,2018,125.2
+Potato,vegetable,2025,38.8
+Pigeon Pea,pulses,2021,77.07
+Pigeon Pea,pulses,2021,111.8
+Onion,vegetable,2025,159.72
+Onion,vegetable,2016,95.28
+Potato,vegetable,2019,71.06
+Banana,fruit,2024,82.69
+Green Gram,pulses,2019,32.29
+Onion,vegetable,2025,104.75
+Wheat,pulses,2017,49.22
+Tomato,vegetable,2017,39.6
+Mango,fruit,2020,38.01
+Green Gram,pulses,2018,106.04
+Mango,fruit,2023,74.51
+Tomato,vegetable,2022,36.53
+Apple,fruit,2019,77.36
+Green Gram,pulses,2024,69.57
+Pigeon Pea,pulses,2019,39.75
+Wheat,pulses,2022,112.54
+Potato,vegetable,2025,94.88
+Tomato,vegetable,2024,59.49
+Pigeon Pea,pulses,2021,52.37
+Tomato,vegetable,2015,63.77
+Tomato,vegetable,2024,155.71
+Apple,fruit,2015,42.69
+Potato,vegetable,2025,104.34
+Onion,vegetable,2019,123.32
+Pigeon Pea,pulses,2017,116.19
+Potato,vegetable,2019,72.79
+Apple,fruit,2018,133.14
+Banana,fruit,2018,60.72
+Green Gram,pulses,2022,45.12
+Banana,fruit,2017,26.84
+Onion,vegetable,2021,43.25
+Banana,fruit,2023,109.57
+Green Gram,pulses,2023,107.55
+Mango,fruit,2017,69.09
+Banana,fruit,2024,56.24
+Pigeon Pea,pulses,2018,33.74
+Banana,fruit,2017,149.11
+Mango,fruit,2024,68.63
+Green Gram,pulses,2020,50.78
+Apple,fruit,2021,86.03
+Pigeon Pea,pulses,2017,74.9
+Banana,fruit,2025,47.37
+Onion,vegetable,2019,36.71
+Tomato,vegetable,2018,137.64
+Tomato,vegetable,2019,86.69
+Wheat,pulses,2022,100.85
+Mango,fruit,2024,171.98
+Wheat,pulses,2021,49.66
+Cabbage,vegetable,2023,107.62
+Apple,fruit,2025,156.24
+Onion,vegetable,2022,47.92
+Tomato,vegetable,2018,126.48
+Mango,fruit,2020,39.82
+Onion,vegetable,2016,95.72
+Wheat,pulses,2017,42.58
+Wheat,pulses,2017,36.21
+Potato,vegetable,2023,105.98
+Wheat,pulses,2017,116.03
+Cabbage,vegetable,2020,77.34
+Tomato,vegetable,2019,75.48
+Mango,fruit,2018,133.24
+Potato,vegetable,2025,100.12
+Mango,fruit,2025,58.34
+Onion,vegetable,2017,73.43
+Banana,fruit,2020,41.21
+Tomato,vegetable,2015,26.08
+Onion,vegetable,2022,93.52
+Cabbage,vegetable,2025,127.67
+Onion,vegetable,2023,66.87
+Wheat,pulses,2015,123.87
+Apple,fruit,2021,158.33
+Banana,fruit,2017,131.65
+Wheat,pulses,2015,90.64
+Tomato,vegetable,2021,78.83
+Mango,fruit,2015,18.49
+Wheat,pulses,2025,130.49
+Tomato,vegetable,2021,148.31
+Onion,vegetable,2022,161.1
+Mango,fruit,2022,93.66
+Cabbage,vegetable,2022,160.38
+Green Gram,pulses,2018,66.4
+Green Gram,pulses,2023,151.27
+Banana,fruit,2020,47.27
+Tomato,vegetable,2020,163.94
+Wheat,pulses,2021,116.66
+Onion,vegetable,2019,150.37
+Apple,fruit,2021,52.09
+Wheat,pulses,2023,105.75
+Onion,vegetable,2021,42.12
+Tomato,vegetable,2023,49.11
+Tomato,vegetable,2018,124.95
+Potato,vegetable,2022,118.86
+Cabbage,vegetable,2021,83.39
+Green Gram,pulses,2019,55.15
+Banana,fruit,2018,127.67
+Onion,vegetable,2019,118.16
+Tomato,vegetable,2024,94.2
+Onion,vegetable,2020,47.51
+Pigeon Pea,pulses,2019,62.4
+Onion,vegetable,2018,49.52
+Cabbage,vegetable,2015,120.98
+Onion,vegetable,2019,93.19
+Potato,vegetable,2018,102.79
+Tomato,vegetable,2015,65.42
+Banana,fruit,2019,121.69
+Onion,vegetable,2020,118.27
+Cabbage,vegetable,2023,102.36
+Banana,fruit,2017,60.63
+Tomato,vegetable,2015,130.61
+Pigeon Pea,pulses,2018,136.5
+Banana,fruit,2021,84.52
+Green Gram,pulses,2020,84.18
+Apple,fruit,2017,84.9
+Wheat,pulses,2019,99.57
+Wheat,pulses,2019,148.68
+Tomato,vegetable,2025,144.43
+Pigeon Pea,pulses,2016,79.88
+Banana,fruit,2024,150.21
+Tomato,vegetable,2018,148.73
+Mango,fruit,2021,27.6
+Cabbage,vegetable,2021,53.35
+Banana,fruit,2017,115.2
+Cabbage,vegetable,2025,60.71
+Apple,fruit,2018,109.04
+Green Gram,pulses,2024,112.43
+Banana,fruit,2020,114.27
+Cabbage,vegetable,2017,82.74
+Potato,vegetable,2023,129.24
+Potato,vegetable,2025,132.92
+Banana,fruit,2019,124.53
+Tomato,vegetable,2023,148.12
+Green Gram,pulses,2017,73.07
+Wheat,pulses,2024,68.26
+Mango,fruit,2016,28.48
+Apple,fruit,2021,68.82
+Onion,vegetable,2018,127.28
+Apple,fruit,2016,116.75
+Potato,vegetable,2024,68.9
+Potato,vegetable,2021,36.54
+Onion,vegetable,2018,52.16
+Tomato,vegetable,2023,51.88
+Potato,vegetable,2020,84.22
+Banana,fruit,2019,59.42
+Banana,fruit,2018,63.79
+Wheat,pulses,2021,93.83
+Banana,fruit,2019,154.51
+Cabbage,vegetable,2018,74.87
+Green Gram,pulses,2024,98.25
+Mango,fruit,2016,95.87
+Tomato,vegetable,2023,32.74
+Mango,fruit,2025,41.84
+Cabbage,vegetable,2019,124.54
+Mango,fruit,2022,153.35
+Potato,vegetable,2020,69.03
+Potato,vegetable,2022,65.25
+Potato,vegetable,2016,140.09
+Tomato,vegetable,2022,150.15
+Pigeon Pea,pulses,2018,58.33
+Pigeon Pea,pulses,2019,150.39
+Tomato,vegetable,2024,148.84
+Onion,vegetable,2022,88.88
+Apple,fruit,2023,97.81
+Potato,vegetable,2025,130.87
+Mango,fruit,2016,137.91
+Tomato,vegetable,2021,143.47
+Banana,fruit,2015,145.7
+Banana,fruit,2022,127.57
+Wheat,pulses,2018,76.25
+Mango,fruit,2018,42.9
+Mango,fruit,2019,152.59
+Cabbage,vegetable,2018,75.81
+Wheat,pulses,2023,49.62
+Wheat,pulses,2020,53.7
+Onion,vegetable,2015,111.65
+Tomato,vegetable,2023,141.73
+Mango,fruit,2020,134.81
+Cabbage,vegetable,2021,57.26
+Cabbage,vegetable,2022,42.17
+Cabbage,vegetable,2023,149.41
+Mango,fruit,2017,128.89
+Cabbage,vegetable,2015,58.93
+Mango,fruit,2020,73.77
+Tomato,vegetable,2016,68.55
+Onion,vegetable,2025,45.31
+Tomato,vegetable,2023,125.5
+Green Gram,pulses,2018,98.77
+Cabbage,vegetable,2015,90.35
+Mango,fruit,2022,81.9
+Banana,fruit,2025,122.32
+Apple,fruit,2016,88.51
+Cabbage,vegetable,2021,114.63
+Green Gram,pulses,2022,58.14
+Green Gram,pulses,2023,147.89
+Onion,vegetable,2018,44.76
+Wheat,pulses,2015,26.43
+Potato,vegetable,2025,117.02
+Banana,fruit,2017,123.59
+Apple,fruit,2024,157.05
+Mango,fruit,2021,77.74
+Onion,vegetable,2018,93.05
+Potato,vegetable,2024,161.12
+Pigeon Pea,pulses,2016,77.83
+Tomato,vegetable,2018,158.04
+Pigeon Pea,pulses,2020,76.21
+Pigeon Pea,pulses,2020,121.21
+Tomato,vegetable,2022,133.72
+Mango,fruit,2020,58.3
+Onion,vegetable,2016,55.97
+Apple,fruit,2022,136.83
+Green Gram,pulses,2023,134.89
+Apple,fruit,2015,79.68
+Potato,vegetable,2019,126.76
+Pigeon Pea,pulses,2019,93.55
+Onion,vegetable,2018,62.04
+Cabbage,vegetable,2016,99.5
+Banana,fruit,2021,43.25
+Green Gram,pulses,2020,65.55
+Mango,fruit,2017,30.93
+Apple,fruit,2025,173.31
+Green Gram,pulses,2021,152.83
+Banana,fruit,2025,129.0
+Cabbage,vegetable,2019,117.46
+Green Gram,pulses,2025,123.78
+Pigeon Pea,pulses,2022,90.09
+Pigeon Pea,pulses,2019,121.36
+Onion,vegetable,2019,81.99
+Pigeon Pea,pulses,2024,142.38
+Banana,fruit,2019,67.23
+Potato,vegetable,2016,141.1
+Apple,fruit,2024,141.61
+Tomato,vegetable,2018,61.96
+Green Gram,pulses,2019,107.36
+Wheat,pulses,2017,77.35
+Green Gram,pulses,2022,130.68
+Tomato,vegetable,2023,169.62
+Cabbage,vegetable,2018,133.66
+Wheat,pulses,2018,45.43
+Mango,fruit,2018,106.27
+Tomato,vegetable,2016,117.13
+Potato,vegetable,2019,99.12
+Apple,fruit,2025,91.41
+Wheat,pulses,2020,43.4
+Green Gram,pulses,2022,140.49
+Potato,vegetable,2025,128.0
+Mango,fruit,2017,116.23
+Tomato,vegetable,2016,114.81
+Tomato,vegetable,2016,76.66
+Onion,vegetable,2025,41.81
+Apple,fruit,2024,71.12
+Potato,vegetable,2018,86.18
+Wheat,pulses,2015,23.78
+Banana,fruit,2016,62.82
+Mango,fruit,2019,139.29
+Green Gram,pulses,2018,38.21
+Onion,vegetable,2024,150.72
+Wheat,pulses,2024,130.84
+Pigeon Pea,pulses,2015,97.95
+Potato,vegetable,2020,91.5
+Green Gram,pulses,2019,140.09
+Banana,fruit,2016,113.48
+Tomato,vegetable,2020,127.25
+Wheat,pulses,2019,98.53
+Cabbage,vegetable,2016,103.08
+Apple,fruit,2025,61.31
+Pigeon Pea,pulses,2020,139.87
+Onion,vegetable,2019,60.6
+Pigeon Pea,pulses,2020,92.08
+Onion,vegetable,2023,138.58
+Cabbage,vegetable,2015,61.17
+Banana,fruit,2022,139.05
+Banana,fruit,2023,146.91
+Green Gram,pulses,2024,107.46
+Wheat,pulses,2022,71.52
+Tomato,vegetable,2024,110.84
+Wheat,pulses,2022,100.89
+Pigeon Pea,pulses,2018,29.53
+Mango,fruit,2015,95.37
+Apple,fruit,2024,79.23
+Mango,fruit,2023,121.42
+Potato,vegetable,2015,37.04
+Apple,fruit,2025,140.75
+Green Gram,pulses,2020,35.99
+Mango,fruit,2020,38.84
+Green Gram,pulses,2024,84.2
+Pigeon Pea,pulses,2020,130.65
+Pigeon Pea,pulses,2015,143.25
+Tomato,vegetable,2024,51.11
+Onion,vegetable,2023,68.5
+Tomato,vegetable,2018,52.18
+Potato,vegetable,2016,111.49
+Onion,vegetable,2024,57.29
+Wheat,pulses,2022,68.14
+Banana,fruit,2023,149.17
+Pigeon Pea,pulses,2024,122.55
+Banana,fruit,2018,63.11
+Tomato,vegetable,2021,70.89
+Green Gram,pulses,2021,75.74
+Mango,fruit,2017,33.61
+Apple,fruit,2022,53.45
+Potato,vegetable,2021,36.92
+Tomato,vegetable,2022,117.8
+Potato,vegetable,2025,109.37
+Mango,fruit,2020,60.44
+Green Gram,pulses,2019,144.51
+Green Gram,pulses,2020,106.58
+Pigeon Pea,pulses,2015,97.98
+Pigeon Pea,pulses,2015,45.81
+Mango,fruit,2025,74.92
+Pigeon Pea,pulses,2019,80.48
+Cabbage,vegetable,2017,48.97
+Onion,vegetable,2021,33.49
+Mango,fruit,2021,125.37
+Tomato,vegetable,2021,89.56
+Apple,fruit,2015,145.35
+Pigeon Pea,pulses,2019,131.58
+Tomato,vegetable,2016,100.76
+Tomato,vegetable,2025,93.26
+Wheat,pulses,2015,126.24
+Pigeon Pea,pulses,2015,25.47
+Pigeon Pea,pulses,2015,49.36
+Potato,vegetable,2017,40.9
+Potato,vegetable,2022,103.69
+Banana,fruit,2016,40.8
+Mango,fruit,2024,36.3
+Onion,vegetable,2018,120.4
+Onion,vegetable,2019,128.79
+Mango,fruit,2024,147.65
+Mango,fruit,2025,173.98
+Potato,vegetable,2024,127.76
+Apple,fruit,2023,128.56
+Potato,vegetable,2015,25.04
+Tomato,vegetable,2016,36.96
+Apple,fruit,2019,144.41
+Pigeon Pea,pulses,2017,86.16
+Mango,fruit,2020,53.58
+Mango,fruit,2019,100.9
+Banana,fruit,2019,149.78
+Mango,fruit,2024,154.9
+Cabbage,vegetable,2025,80.05
+Banana,fruit,2025,115.74
+Potato,vegetable,2017,70.63
+Wheat,pulses,2016,140.95
+Pigeon Pea,pulses,2021,126.53
+Apple,fruit,2024,92.85
+Green Gram,pulses,2024,72.69
+Pigeon Pea,pulses,2019,59.09
+Apple,fruit,2025,83.17
+Cabbage,vegetable,2018,117.48
+Green Gram,pulses,2024,94.33
+Green Gram,pulses,2020,81.09
+Potato,vegetable,2019,120.18
+Banana,fruit,2016,120.21
+Wheat,pulses,2022,52.2
+Apple,fruit,2019,127.55
+Tomato,vegetable,2023,70.06
+Cabbage,vegetable,2023,143.32
+Onion,vegetable,2021,140.96
+Banana,fruit,2017,49.48
+Green Gram,pulses,2015,46.42
+Mango,fruit,2023,172.84
+Wheat,pulses,2021,37.57
+Wheat,pulses,2016,126.03
+Wheat,pulses,2017,92.51
+Tomato,vegetable,2025,48.74
+Cabbage,vegetable,2023,102.62
+Wheat,pulses,2015,20.13
+Pigeon Pea,pulses,2023,110.37
+Onion,vegetable,2019,88.5
+Wheat,pulses,2018,84.26
+Apple,fruit,2021,60.47
+Onion,vegetable,2018,104.8
+Banana,fruit,2019,119.23
+Cabbage,vegetable,2024,89.78
+Potato,vegetable,2017,155.52
+Onion,vegetable,2015,105.06
+Green Gram,pulses,2019,149.73
+Green Gram,pulses,2021,80.75
+Banana,fruit,2018,136.58
+Tomato,vegetable,2015,32.24
+Mango,fruit,2023,159.22
+Potato,vegetable,2019,37.47
+Potato,vegetable,2019,142.06
+Cabbage,vegetable,2024,121.84
+Wheat,pulses,2021,144.58
+Pigeon Pea,pulses,2023,68.92
+Mango,fruit,2023,96.92
+Green Gram,pulses,2022,112.31
+Wheat,pulses,2017,116.67
+Mango,fruit,2022,144.95
+Banana,fruit,2023,72.14
+Onion,vegetable,2017,81.14
+Apple,fruit,2024,159.08
+Wheat,pulses,2021,147.31
+Onion,vegetable,2024,151.04
+Pigeon Pea,pulses,2019,31.98
+Apple,fruit,2016,156.07
+Green Gram,pulses,2015,151.59
+Mango,fruit,2024,107.98
+Green Gram,pulses,2022,132.88
+Wheat,pulses,2019,49.42
+Onion,vegetable,2024,110.82
+Wheat,pulses,2018,71.44
+Onion,vegetable,2018,157.58
+Banana,fruit,2016,21.12
+Pigeon Pea,pulses,2021,51.16
+Banana,fruit,2025,157.43
+Mango,fruit,2018,85.37
+Mango,fruit,2017,70.29
+Mango,fruit,2015,133.73
+Mango,fruit,2023,116.09
+Potato,vegetable,2015,135.47
+Tomato,vegetable,2022,121.25
+Apple,fruit,2023,149.66
+Onion,vegetable,2025,132.23
+Pigeon Pea,pulses,2025,121.57
+Tomato,vegetable,2019,156.62
+Mango,fruit,2022,99.51
+Onion,vegetable,2021,101.59
+Green Gram,pulses,2025,161.25
+Apple,fruit,2025,90.49
+Potato,vegetable,2015,35.55
+Wheat,pulses,2025,107.86
+Apple,fruit,2018,147.1
+Mango,fruit,2019,89.66
+Potato,vegetable,2016,141.74
+Mango,fruit,2019,108.76
+Potato,vegetable,2018,126.18
+Apple,fruit,2019,47.55
+Apple,fruit,2021,102.28
+Green Gram,pulses,2016,99.38
+Potato,vegetable,2020,124.84
+Green Gram,pulses,2022,72.92
+Cabbage,vegetable,2015,71.77
+Cabbage,vegetable,2015,90.26
+Mango,fruit,2023,60.75
+Mango,fruit,2023,124.51
+Apple,fruit,2021,33.43
+Green Gram,pulses,2016,124.19
+Pigeon Pea,pulses,2015,110.23
+Wheat,pulses,2016,133.45
+Mango,fruit,2016,53.36
+Cabbage,vegetable,2018,111.62
+Wheat,pulses,2021,40.93
+Cabbage,vegetable,2016,92.87
+Pigeon Pea,pulses,2021,55.67
+Wheat,pulses,2019,59.63
+Onion,vegetable,2023,103.55
+Apple,fruit,2020,144.45
+Green Gram,pulses,2016,86.37
+Apple,fruit,2023,95.08
+Tomato,vegetable,2016,111.23
+Pigeon Pea,pulses,2017,76.81
+Potato,vegetable,2022,68.13
+Onion,vegetable,2023,55.93
+Pigeon Pea,pulses,2022,48.17
+Tomato,vegetable,2019,113.92
+Apple,fruit,2022,67.16
+Onion,vegetable,2022,126.58
+Tomato,vegetable,2018,148.9
+Pigeon Pea,pulses,2021,119.05
+Pigeon Pea,pulses,2021,70.67
+Wheat,pulses,2020,113.48
+Pigeon Pea,pulses,2015,54.15
+Apple,fruit,2020,150.24
+Wheat,pulses,2015,20.85
+Cabbage,vegetable,2017,61.98
+Tomato,vegetable,2025,167.12
+Green Gram,pulses,2022,44.39
+Pigeon Pea,pulses,2021,112.92
+Green Gram,pulses,2018,66.98
+Potato,vegetable,2018,30.56
+Banana,fruit,2025,92.77
+Banana,fruit,2025,121.6
+Banana,fruit,2024,96.89
+Green Gram,pulses,2023,132.65
+Potato,vegetable,2021,92.78
+Potato,vegetable,2016,131.63
+Potato,vegetable,2020,147.25
+Apple,fruit,2020,37.26
+Apple,fruit,2024,97.66
+Green Gram,pulses,2019,120.35
+Tomato,vegetable,2015,45.33
+Green Gram,pulses,2020,52.53
+Onion,vegetable,2018,142.02
+Wheat,pulses,2016,24.24
+Potato,vegetable,2018,63.75
+Onion,vegetable,2023,130.63
+Wheat,pulses,2024,39.53
+Green Gram,pulses,2021,71.3
+Onion,vegetable,2017,107.55
+Potato,vegetable,2018,120.74
+Apple,fruit,2022,81.38
+Cabbage,vegetable,2020,136.0
+Potato,vegetable,2023,57.56
+Apple,fruit,2016,92.39
+Green Gram,pulses,2017,115.03
+Tomato,vegetable,2017,126.94
+Mango,fruit,2019,95.49
+Cabbage,vegetable,2016,119.26
+Wheat,pulses,2022,91.56
+Wheat,pulses,2017,52.78
+Mango,fruit,2020,35.87
+Mango,fruit,2018,144.04
+Cabbage,vegetable,2018,94.77
+Cabbage,vegetable,2025,107.06
+Banana,fruit,2019,131.52
+Mango,fruit,2016,69.68
+Onion,vegetable,2025,174.97
+Mango,fruit,2024,99.2
+Potato,vegetable,2025,150.95
+Mango,fruit,2025,115.17
+Potato,vegetable,2016,98.63
+Banana,fruit,2024,92.87
+Onion,vegetable,2023,83.14
+Wheat,pulses,2021,106.89
+Wheat,pulses,2015,28.94
+Wheat,pulses,2023,54.29
+Green Gram,pulses,2020,34.93
+Apple,fruit,2015,113.0
+Green Gram,pulses,2025,63.14
+Banana,fruit,2016,48.6
+Tomato,vegetable,2017,100.36
+Potato,vegetable,2022,111.09
+Potato,vegetable,2023,105.02
+Tomato,vegetable,2023,145.09
+Mango,fruit,2023,105.64
+Mango,fruit,2015,85.44
+Banana,fruit,2022,111.06
+Tomato,vegetable,2016,134.3
+Tomato,vegetable,2020,134.41
+Cabbage,vegetable,2020,79.83
+Onion,vegetable,2021,91.67
+Cabbage,vegetable,2015,123.8
+Tomato,vegetable,2021,91.99
+Cabbage,vegetable,2017,100.68
+Mango,fruit,2025,128.9
+Pigeon Pea,pulses,2018,26.7
+Potato,vegetable,2023,130.11
+Potato,vegetable,2016,65.63
+Cabbage,vegetable,2019,64.02
+Potato,vegetable,2018,51.04
+Pigeon Pea,pulses,2015,107.89
+Tomato,vegetable,2020,62.84
+Cabbage,vegetable,2017,102.56
+Potato,vegetable,2018,110.37
+Banana,fruit,2016,143.36
+Pigeon Pea,pulses,2025,133.02
+Mango,fruit,2017,40.25
+Cabbage,vegetable,2023,154.68
+Onion,vegetable,2017,68.86
+Cabbage,vegetable,2021,120.65
+Pigeon Pea,pulses,2022,104.66
+Tomato,vegetable,2016,73.81
+Onion,vegetable,2018,63.61
+Wheat,pulses,2023,149.2
+Onion,vegetable,2017,88.05
+Mango,fruit,2025,85.3
+Cabbage,vegetable,2018,95.45
+Banana,fruit,2024,47.06
+Onion,vegetable,2021,32.35
+Mango,fruit,2021,143.76
+Cabbage,vegetable,2021,41.04
+Cabbage,vegetable,2021,150.75
+Mango,fruit,2022,125.68
+Wheat,pulses,2015,128.16
+Banana,fruit,2016,143.86
+Tomato,vegetable,2022,162.78
+Onion,vegetable,2018,47.39
+Mango,fruit,2019,136.35
+Wheat,pulses,2016,92.9
+Pigeon Pea,pulses,2023,154.36
+Cabbage,vegetable,2018,25.95
+Green Gram,pulses,2024,111.54
+Pigeon Pea,pulses,2025,98.7
+Onion,vegetable,2019,105.35
+Onion,vegetable,2017,88.08
+Green Gram,pulses,2019,76.68
+Wheat,pulses,2022,98.78
+Mango,fruit,2023,104.19
+Banana,fruit,2024,134.59
+Banana,fruit,2019,61.18
+Wheat,pulses,2019,80.89
+Apple,fruit,2021,117.51
+Pigeon Pea,pulses,2025,175.34
+Apple,fruit,2020,116.54
+Banana,fruit,2016,91.9
+Onion,vegetable,2020,33.34
+Tomato,vegetable,2024,82.74
+Tomato,vegetable,2022,45.5
+Potato,vegetable,2021,38.14
+Tomato,vegetable,2020,103.76
+Mango,fruit,2016,26.57
+Apple,fruit,2016,120.88
+Apple,fruit,2020,68.94
+Tomato,vegetable,2022,124.41
+Apple,fruit,2018,43.98
+Onion,vegetable,2018,65.07
+Apple,fruit,2019,40.79
+Onion,vegetable,2021,148.9
+Pigeon Pea,pulses,2022,96.05
+Potato,vegetable,2018,46.02
+Pigeon Pea,pulses,2023,142.69
+Tomato,vegetable,2015,119.36
+Potato,vegetable,2016,78.35
+Banana,fruit,2023,60.9
+Wheat,pulses,2016,31.95
+Pigeon Pea,pulses,2024,137.63
+Apple,fruit,2020,150.23
+Apple,fruit,2018,76.33
+Apple,fruit,2017,106.1
+Banana,fruit,2016,129.31
+Green Gram,pulses,2023,35.81
+Onion,vegetable,2017,92.92
+Cabbage,vegetable,2018,104.1
+Wheat,pulses,2019,130.83
+Wheat,pulses,2023,148.53
+Pigeon Pea,pulses,2024,99.41
+Pigeon Pea,pulses,2016,22.95
+Pigeon Pea,pulses,2017,145.99
+Cabbage,vegetable,2018,73.04
+Mango,fruit,2016,135.61
+Banana,fruit,2019,110.69
+Green Gram,pulses,2016,106.86
+Onion,vegetable,2018,42.41
+Tomato,vegetable,2024,97.21
+Apple,fruit,2019,92.77
+Banana,fruit,2016,97.96
+Mango,fruit,2015,140.52
+Banana,fruit,2022,151.47
+Banana,fruit,2018,119.23
+Banana,fruit,2022,149.1
+Onion,vegetable,2019,129.39
+Cabbage,vegetable,2023,154.58
+Tomato,vegetable,2017,142.35
+Green Gram,pulses,2024,101.81
+Banana,fruit,2025,164.69
+Cabbage,vegetable,2024,126.02
+Banana,fruit,2019,153.28
+Banana,fruit,2021,123.66
+Apple,fruit,2019,35.57
+Green Gram,pulses,2020,118.69
+Apple,fruit,2024,143.68
+Potato,vegetable,2018,41.98
+Wheat,pulses,2023,78.66
+Green Gram,pulses,2020,74.72
+Green Gram,pulses,2019,135.95
+Cabbage,vegetable,2015,138.5
+Mango,fruit,2015,57.56
+Pigeon Pea,pulses,2016,26.75
+Green Gram,pulses,2019,141.55
+Cabbage,vegetable,2016,72.07
+Apple,fruit,2022,115.02
+Wheat,pulses,2017,96.89
+Mango,fruit,2023,126.57
+Apple,fruit,2022,131.53
+Cabbage,vegetable,2018,33.33
+Apple,fruit,2017,103.26
+Banana,fruit,2015,23.29
+Wheat,pulses,2023,106.31
+Cabbage,vegetable,2019,54.41
+Tomato,vegetable,2025,135.26
+Banana,fruit,2020,89.45
+Banana,fruit,2020,97.94
+Banana,fruit,2022,78.95
+Green Gram,pulses,2019,102.36
+Apple,fruit,2020,131.41
+Pigeon Pea,pulses,2017,132.04
+Pigeon Pea,pulses,2018,109.84
+Apple,fruit,2024,73.23
+Tomato,vegetable,2017,84.39
+Wheat,pulses,2021,161.89
+Cabbage,vegetable,2025,159.04
+Apple,fruit,2023,117.21
+Wheat,pulses,2022,71.11
+Mango,fruit,2023,133.74
+Cabbage,vegetable,2019,106.37
+Tomato,vegetable,2025,140.14
+Tomato,vegetable,2015,122.21
+Wheat,pulses,2023,63.67
+Cabbage,vegetable,2016,104.06
+Green Gram,pulses,2015,26.1
+Apple,fruit,2015,71.55
+Wheat,pulses,2021,94.41
+Mango,fruit,2024,84.39
+Apple,fruit,2017,92.12
+Pigeon Pea,pulses,2017,26.88
+Apple,fruit,2025,77.09
+Potato,vegetable,2020,108.14
+Wheat,pulses,2021,73.53
+Onion,vegetable,2022,64.67
+Mango,fruit,2018,142.31
+Potato,vegetable,2021,48.15
+Mango,fruit,2021,138.58
+Apple,fruit,2021,125.54
+Cabbage,vegetable,2020,105.14
+Cabbage,vegetable,2016,28.74
+Tomato,vegetable,2019,89.83
+Onion,vegetable,2023,50.21
+Cabbage,vegetable,2018,90.6
+Cabbage,vegetable,2023,159.81
+Tomato,vegetable,2021,45.73
+Banana,fruit,2025,167.67
+Tomato,vegetable,2025,165.73
+Tomato,vegetable,2023,156.09
+Apple,fruit,2015,124.08
+Cabbage,vegetable,2015,42.07
+Pigeon Pea,pulses,2025,84.84
+Potato,vegetable,2025,100.65
+Onion,vegetable,2019,105.29
+Cabbage,vegetable,2017,102.67
+Mango,fruit,2022,112.37
+Potato,vegetable,2017,57.7
+Green Gram,pulses,2019,43.89
+Banana,fruit,2024,86.71
+Apple,fruit,2018,136.62
+Banana,fruit,2016,26.36
+Cabbage,vegetable,2023,145.69
+Apple,fruit,2019,52.49
+Potato,vegetable,2021,69.9
+Cabbage,vegetable,2022,58.01
+Potato,vegetable,2025,143.88
+Onion,vegetable,2021,143.36
+Potato,vegetable,2022,136.94
+Mango,fruit,2023,87.9
+Tomato,vegetable,2024,74.35
+Mango,fruit,2022,41.87
+Tomato,vegetable,2018,130.15
+Green Gram,pulses,2020,142.88
+Potato,vegetable,2019,35.42
+Mango,fruit,2017,107.66
+Mango,fruit,2023,138.7
+Banana,fruit,2021,40.07
+Cabbage,vegetable,2018,56.04
+Green Gram,pulses,2018,95.92
+Banana,fruit,2015,106.46
+Potato,vegetable,2025,54.74
+Banana,fruit,2018,85.51
+Green Gram,pulses,2018,77.62
+Cabbage,vegetable,2017,109.62
+Cabbage,vegetable,2024,156.66
+Banana,fruit,2023,101.02
+Potato,vegetable,2019,73.34
+Cabbage,vegetable,2020,76.77
+Banana,fruit,2023,94.63
+Pigeon Pea,pulses,2020,72.7
+Apple,fruit,2021,144.74
+Banana,fruit,2018,120.03
+Pigeon Pea,pulses,2015,66.19
+Wheat,pulses,2015,41.96
+Pigeon Pea,pulses,2017,138.78
+Cabbage,vegetable,2022,124.09
+Banana,fruit,2024,98.7
+Tomato,vegetable,2017,43.75
+Mango,fruit,2021,144.23
+Onion,vegetable,2019,140.12
+Tomato,vegetable,2023,69.44
+Potato,vegetable,2018,39.42
+Mango,fruit,2019,135.09
+Apple,fruit,2021,36.36
+Pigeon Pea,pulses,2018,65.69
+Banana,fruit,2021,80.73
+Cabbage,vegetable,2018,97.37
+Potato,vegetable,2022,103.08
+Pigeon Pea,pulses,2024,54.96
+Wheat,pulses,2023,160.59
+Onion,vegetable,2019,142.89
+Apple,fruit,2020,147.52
+Apple,fruit,2020,125.74
+Pigeon Pea,pulses,2021,96.25
+Banana,fruit,2021,103.4
+Green Gram,pulses,2018,84.03
+Mango,fruit,2022,145.54
+Onion,vegetable,2020,129.44
+Wheat,pulses,2020,103.32
+Banana,fruit,2021,71.04
+Onion,vegetable,2024,95.69
+Cabbage,vegetable,2019,115.62
+Tomato,vegetable,2023,86.41
+Banana,fruit,2023,56.37
+Cabbage,vegetable,2018,142.59
+Onion,vegetable,2025,65.08
+Potato,vegetable,2021,46.22
+Pigeon Pea,pulses,2016,52.35
+Onion,vegetable,2020,38.22
+Banana,fruit,2023,62.21
+Cabbage,vegetable,2023,32.4
+Mango,fruit,2025,166.0
+Mango,fruit,2020,102.34
+Cabbage,vegetable,2016,28.02
+Apple,fruit,2015,90.41
+Green Gram,pulses,2023,43.87
+Cabbage,vegetable,2024,130.61
+Cabbage,vegetable,2016,146.19
+Banana,fruit,2015,35.61
+Tomato,vegetable,2019,90.94
+Pigeon Pea,pulses,2018,110.67
+Apple,fruit,2015,64.82
+Green Gram,pulses,2019,22.11
+Green Gram,pulses,2018,31.59
+Green Gram,pulses,2021,155.33
+Potato,vegetable,2016,89.37
+Apple,fruit,2022,88.06
+Green Gram,pulses,2025,31.98
+Apple,fruit,2022,137.51
+Tomato,vegetable,2024,81.62
+Green Gram,pulses,2018,117.26
+Green Gram,pulses,2018,101.41
+Green Gram,pulses,2015,109.45
+Green Gram,pulses,2025,96.21
+Green Gram,pulses,2022,94.41
+Apple,fruit,2025,34.14
+Mango,fruit,2021,130.38
+Mango,fruit,2016,49.83
+Cabbage,vegetable,2018,112.48
+Tomato,vegetable,2019,40.35
+Potato,vegetable,2021,60.28
+Pigeon Pea,pulses,2024,104.91
+Green Gram,pulses,2016,52.16
+Green Gram,pulses,2020,84.32
+Apple,fruit,2018,37.22
+Wheat,pulses,2024,156.54
+Potato,vegetable,2022,121.62
+Green Gram,pulses,2022,40.03
+Pigeon Pea,pulses,2019,113.91
+Tomato,vegetable,2024,130.29
+Green Gram,pulses,2015,76.82
+Banana,fruit,2023,52.87
+Onion,vegetable,2021,160.49
+Banana,fruit,2016,98.35
+Onion,vegetable,2021,132.38
+Cabbage,vegetable,2018,103.22
+Banana,fruit,2019,117.34
+Apple,fruit,2017,124.89
+Tomato,vegetable,2025,78.9
+Tomato,vegetable,2021,141.49
+Onion,vegetable,2018,41.39
+Wheat,pulses,2022,114.76
+Wheat,pulses,2022,49.62
+Cabbage,vegetable,2024,87.74
+Potato,vegetable,2025,83.24
+Mango,fruit,2023,77.94
+Tomato,vegetable,2020,150.95
+Apple,fruit,2019,141.08
+Cabbage,vegetable,2016,23.76
+Green Gram,pulses,2018,145.97
+Wheat,pulses,2015,75.16
+Onion,vegetable,2018,134.12
+Onion,vegetable,2019,122.77
+Mango,fruit,2022,46.78
+Mango,fruit,2020,118.42
+Mango,fruit,2019,122.06
+Potato,vegetable,2021,34.03
+Potato,vegetable,2023,113.13
+Green Gram,pulses,2024,109.73
+Pigeon Pea,pulses,2018,91.92
+Potato,vegetable,2024,147.53
+Mango,fruit,2025,159.03
+Pigeon Pea,pulses,2019,150.53
+Pigeon Pea,pulses,2025,137.15
+Wheat,pulses,2015,141.72
+Apple,fruit,2021,58.42
+Apple,fruit,2025,102.48
+Tomato,vegetable,2022,81.98
+Onion,vegetable,2021,80.23
+Potato,vegetable,2020,157.52
+Onion,vegetable,2017,143.58
+Pigeon Pea,pulses,2022,143.97
+Potato,vegetable,2017,57.42
+Cabbage,vegetable,2022,121.86
+Potato,vegetable,2024,111.99
+Wheat,pulses,2016,121.66
+Tomato,vegetable,2024,75.7
+Apple,fruit,2019,75.51
+Tomato,vegetable,2023,76.98
+Tomato,vegetable,2016,61.45
+Apple,fruit,2016,118.49
+Green Gram,pulses,2018,132.09
+Potato,vegetable,2023,69.24
+Banana,fruit,2025,158.56
+Green Gram,pulses,2017,66.53
+Tomato,vegetable,2017,111.22
+Cabbage,vegetable,2023,61.6
+Banana,fruit,2015,96.02
+Pigeon Pea,pulses,2024,63.18
+Banana,fruit,2015,123.6
+Wheat,pulses,2019,146.18
+Wheat,pulses,2023,82.84
+Potato,vegetable,2016,97.81
+Cabbage,vegetable,2020,127.07
+Potato,vegetable,2021,147.57
+Banana,fruit,2025,126.04
+Mango,fruit,2015,31.53
+Apple,fruit,2019,79.18
+Mango,fruit,2015,122.29
+Onion,vegetable,2024,75.26
+Cabbage,vegetable,2022,132.45
+Banana,fruit,2025,76.55
+Tomato,vegetable,2022,157.07
+Apple,fruit,2018,117.75
+Apple,fruit,2017,134.48
+Banana,fruit,2024,41.84
+Onion,vegetable,2020,58.16
+Wheat,pulses,2015,56.91
+Onion,vegetable,2017,35.48
+Cabbage,vegetable,2020,96.86
+Mango,fruit,2018,37.9
+Wheat,pulses,2020,36.96
+Onion,vegetable,2017,128.11
+Green Gram,pulses,2020,71.84
+Onion,vegetable,2015,76.07
+Cabbage,vegetable,2015,23.75
+Wheat,pulses,2020,150.2
+Cabbage,vegetable,2025,60.3
+Onion,vegetable,2025,158.63
+Apple,fruit,2018,113.08
+Banana,fruit,2020,58.95
+Banana,fruit,2024,117.88
+Wheat,pulses,2024,127.97
+Wheat,pulses,2019,150.4
+Potato,vegetable,2016,135.67
+Tomato,vegetable,2019,36.47
+Tomato,vegetable,2019,75.5
+Pigeon Pea,pulses,2023,157.57
+Mango,fruit,2022,134.12
+Pigeon Pea,pulses,2019,27.44
+Potato,vegetable,2015,60.59
+Mango,fruit,2016,121.94
+Tomato,vegetable,2021,77.58
+Wheat,pulses,2015,43.17
+Onion,vegetable,2016,110.35
+Banana,fruit,2016,89.56
+Banana,fruit,2023,99.79
+Cabbage,vegetable,2018,31.53
+Wheat,pulses,2015,64.02
+Tomato,vegetable,2019,76.54
+Onion,vegetable,2024,48.95
+Mango,fruit,2016,96.63
+Wheat,pulses,2022,62.61
+Cabbage,vegetable,2022,103.63
+Banana,fruit,2023,143.78
+Green Gram,pulses,2019,96.87
+Apple,fruit,2021,89.13
+Apple,fruit,2017,99.29
+Cabbage,vegetable,2017,137.44
+Pigeon Pea,pulses,2015,29.27
+Green Gram,pulses,2016,74.31
+Onion,vegetable,2022,101.02
+Tomato,vegetable,2015,90.88
+Mango,fruit,2016,28.47
+Cabbage,vegetable,2022,156.07
+Banana,fruit,2018,139.77
+Banana,fruit,2015,122.84
+Cabbage,vegetable,2016,124.65
+Pigeon Pea,pulses,2025,56.09
+Pigeon Pea,pulses,2017,155.56
+Potato,vegetable,2017,58.79
+Apple,fruit,2021,107.19
+Pigeon Pea,pulses,2023,118.49
+Potato,vegetable,2022,53.73
+Pigeon Pea,pulses,2018,81.19
+Pigeon Pea,pulses,2017,133.31
+Wheat,pulses,2018,113.63
+Cabbage,vegetable,2016,62.8
+Mango,fruit,2019,115.76
+Potato,vegetable,2017,74.24
+Tomato,vegetable,2021,158.24
+Tomato,vegetable,2021,116.34
+Apple,fruit,2025,89.52
+Mango,fruit,2019,102.52
+Onion,vegetable,2024,108.65
+Tomato,vegetable,2022,119.55
+Mango,fruit,2025,94.21
+Banana,fruit,2019,129.73
+Cabbage,vegetable,2021,89.05
+Cabbage,vegetable,2024,111.33
+Apple,fruit,2016,71.18
+Apple,fruit,2018,143.24
+Potato,vegetable,2023,104.11
+Onion,vegetable,2025,42.71
+Tomato,vegetable,2017,133.43
+Cabbage,vegetable,2020,52.86
+Wheat,pulses,2017,150.92
+Banana,fruit,2024,115.23
+Potato,vegetable,2021,137.32
+Apple,fruit,2020,75.17
+Apple,fruit,2015,102.21
+Apple,fruit,2022,52.33
+Green Gram,pulses,2022,36.15
+Onion,vegetable,2020,143.18
+Banana,fruit,2018,58.32
+Onion,vegetable,2019,120.1
+Cabbage,vegetable,2018,33.13
+Onion,vegetable,2022,88.67
+Pigeon Pea,pulses,2018,129.31
+Tomato,vegetable,2022,47.5
+Banana,fruit,2023,44.88
+Pigeon Pea,pulses,2017,138.11
+Cabbage,vegetable,2016,57.98
+Potato,vegetable,2018,41.55
+Wheat,pulses,2015,49.42
+Onion,vegetable,2019,143.6
+Wheat,pulses,2022,131.57
+Mango,fruit,2020,103.38
+Potato,vegetable,2025,129.86
+Banana,fruit,2020,100.93
+Cabbage,vegetable,2022,151.87
+Banana,fruit,2022,41.05
+Pigeon Pea,pulses,2017,126.53
+Potato,vegetable,2021,114.02
+Green Gram,pulses,2025,56.08
+Banana,fruit,2023,104.75
+Onion,vegetable,2023,98.23
+Green Gram,pulses,2024,71.86
+Mango,fruit,2016,151.74
+Wheat,pulses,2019,151.83
+Potato,vegetable,2015,48.2
+Wheat,pulses,2022,126.46
+Onion,vegetable,2015,38.06
+Green Gram,pulses,2019,77.98
+Wheat,pulses,2015,40.8
+Tomato,vegetable,2018,100.83
+Green Gram,pulses,2016,130.08
+Potato,vegetable,2020,68.5
+Banana,fruit,2019,102.06
+Potato,vegetable,2019,43.55
+Green Gram,pulses,2017,114.42
+Pigeon Pea,pulses,2020,154.63
+Mango,fruit,2015,47.78
+Mango,fruit,2018,80.48
+Tomato,vegetable,2024,142.74
+Potato,vegetable,2025,99.28
+Pigeon Pea,pulses,2021,60.3
+Cabbage,vegetable,2021,138.73
+Banana,fruit,2020,104.87
+Onion,vegetable,2024,62.09
+Banana,fruit,2021,152.37
+Cabbage,vegetable,2017,55.44
+Banana,fruit,2015,93.86
+Wheat,pulses,2015,140.92
+Green Gram,pulses,2025,97.72
+Potato,vegetable,2020,134.97
+Mango,fruit,2016,70.09
+Apple,fruit,2025,107.38
+Tomato,vegetable,2017,129.22
+Onion,vegetable,2015,46.92
+Tomato,vegetable,2015,139.19
+Cabbage,vegetable,2022,138.86
+Pigeon Pea,pulses,2015,29.31
+Wheat,pulses,2017,37.25
+Potato,vegetable,2025,61.32
+Cabbage,vegetable,2024,85.47
+Banana,fruit,2022,155.55
+Banana,fruit,2023,110.57
+Onion,vegetable,2024,88.33
+Apple,fruit,2025,54.76
+Potato,vegetable,2019,87.25
+Cabbage,vegetable,2017,21.09
+Green Gram,pulses,2023,154.36
+Potato,vegetable,2022,97.49
+Potato,vegetable,2023,122.82
+Onion,vegetable,2017,91.33
+Cabbage,vegetable,2020,139.51
+Mango,fruit,2024,57.11
+Potato,vegetable,2023,92.38
+Tomato,vegetable,2016,102.72
+Apple,fruit,2021,68.04
+Tomato,vegetable,2020,47.76
+Green Gram,pulses,2016,39.87
+Onion,vegetable,2020,76.4
+Cabbage,vegetable,2017,140.61
+Apple,fruit,2015,74.26
+Cabbage,vegetable,2018,71.92
+Pigeon Pea,pulses,2017,143.92
+Banana,fruit,2020,158.74
+Wheat,pulses,2023,114.72
+Tomato,vegetable,2023,123.15
+Cabbage,vegetable,2019,110.97
+Cabbage,vegetable,2016,52.31
+Banana,fruit,2016,37.95
+Potato,vegetable,2021,42.36
+Tomato,vegetable,2018,120.27
+Cabbage,vegetable,2023,162.18
+Green Gram,pulses,2023,113.97
+Banana,fruit,2022,158.23
+Mango,fruit,2025,150.4
+Cabbage,vegetable,2022,160.65
+Potato,vegetable,2025,85.05
+Wheat,pulses,2023,148.79
+Pigeon Pea,pulses,2016,111.25
+Banana,fruit,2017,138.33
+Apple,fruit,2016,149.7
+Cabbage,vegetable,2025,67.84
+Onion,vegetable,2022,154.51
+Pigeon Pea,pulses,2016,131.56
+Banana,fruit,2015,74.43
+Green Gram,pulses,2015,24.37
+Green Gram,pulses,2024,104.94
+Wheat,pulses,2021,54.85
+Pigeon Pea,pulses,2023,94.55
+Pigeon Pea,pulses,2022,124.81
+Banana,fruit,2022,115.02
+Potato,vegetable,2018,145.27
+Wheat,pulses,2021,97.29
+Cabbage,vegetable,2016,146.3
+Green Gram,pulses,2022,56.64
+Potato,vegetable,2024,51.53
+Potato,vegetable,2018,110.39
+Wheat,pulses,2021,62.82
+Banana,fruit,2024,66.6
+Mango,fruit,2025,156.41
+Wheat,pulses,2020,125.64
+Potato,vegetable,2020,112.43
+Tomato,vegetable,2020,69.53
+Onion,vegetable,2020,40.72
+Onion,vegetable,2018,149.61
+Green Gram,pulses,2021,101.3
+Mango,fruit,2024,63.5
+Mango,fruit,2018,108.61
+Banana,fruit,2020,87.31
+Potato,vegetable,2016,122.44
+Banana,fruit,2024,144.25
+Green Gram,pulses,2018,96.52
+Cabbage,vegetable,2020,107.14
+Banana,fruit,2016,140.98
+Pigeon Pea,pulses,2015,46.54
+Green Gram,pulses,2016,117.76
+Green Gram,pulses,2020,94.58
+Pigeon Pea,pulses,2020,145.38
+Pigeon Pea,pulses,2022,44.88
+Apple,fruit,2022,52.3
+Apple,fruit,2017,50.66
+Pigeon Pea,pulses,2022,155.26
+Apple,fruit,2021,149.93
+Potato,vegetable,2025,83.58
+Cabbage,vegetable,2022,144.4
+Potato,vegetable,2016,87.47
+Banana,fruit,2024,124.75
+Wheat,pulses,2024,45.08
+Potato,vegetable,2015,129.76
+Cabbage,vegetable,2016,76.84
+Tomato,vegetable,2019,107.55
+Pigeon Pea,pulses,2023,103.29
+Onion,vegetable,2024,81.84
+Cabbage,vegetable,2024,40.84
+Pigeon Pea,pulses,2022,153.1
+Wheat,pulses,2024,153.75
+Wheat,pulses,2023,90.95
+Potato,vegetable,2022,76.81
+Apple,fruit,2017,58.82
+Pigeon Pea,pulses,2025,144.67
+Onion,vegetable,2018,59.46
+Pigeon Pea,pulses,2025,108.75
+Cabbage,vegetable,2018,145.41
+Banana,fruit,2022,117.08
+Pigeon Pea,pulses,2023,117.15
+Green Gram,pulses,2021,162.6
+Pigeon Pea,pulses,2016,103.37
+Green Gram,pulses,2025,161.2
+Tomato,vegetable,2016,28.06
+Green Gram,pulses,2017,97.82
+Onion,vegetable,2024,91.16
+Cabbage,vegetable,2021,94.69
+Green Gram,pulses,2021,152.39
+Banana,fruit,2018,29.74
+Pigeon Pea,pulses,2023,56.76
+Apple,fruit,2019,149.24
+Cabbage,vegetable,2025,152.97
+Pigeon Pea,pulses,2024,63.35
+Onion,vegetable,2022,107.03
+Wheat,pulses,2016,62.86
+Pigeon Pea,pulses,2024,54.83
+Wheat,pulses,2022,117.92
+Banana,fruit,2019,105.25
+Pigeon Pea,pulses,2021,124.41
+Green Gram,pulses,2022,100.51
+Tomato,vegetable,2022,114.65
+Onion,vegetable,2016,76.27
+Onion,vegetable,2021,78.63
+Cabbage,vegetable,2016,81.8
+Apple,fruit,2016,134.49
+Apple,fruit,2020,98.56
+Pigeon Pea,pulses,2023,94.04
+Potato,vegetable,2016,132.61
+Wheat,pulses,2021,94.82
+Pigeon Pea,pulses,2016,144.43
+Potato,vegetable,2016,129.37
+Mango,fruit,2023,113.97
+Banana,fruit,2018,74.68
+Banana,fruit,2023,129.37
+Apple,fruit,2023,84.34
+Mango,fruit,2019,138.38
+Mango,fruit,2016,24.6
+Apple,fruit,2015,109.89
+Mango,fruit,2015,127.73
+Green Gram,pulses,2016,119.76
+Tomato,vegetable,2017,34.22
+Tomato,vegetable,2020,74.08
+Green Gram,pulses,2016,50.35
+Banana,fruit,2017,102.06
+Wheat,pulses,2017,152.93
+Pigeon Pea,pulses,2018,120.75
+Pigeon Pea,pulses,2023,48.95
+Apple,fruit,2021,50.56
+Apple,fruit,2018,69.13
+Green Gram,pulses,2022,48.55
+Green Gram,pulses,2019,113.55
+Wheat,pulses,2017,62.68
+Green Gram,pulses,2018,151.99
+Mango,fruit,2023,59.27
+Banana,fruit,2021,137.68
+Wheat,pulses,2022,48.81
+Wheat,pulses,2018,138.45
+Banana,fruit,2019,111.3
+Cabbage,vegetable,2016,44.31
+Apple,fruit,2016,113.68
+Tomato,vegetable,2024,76.7
+Wheat,pulses,2024,64.85
+Green Gram,pulses,2020,110.75
+Pigeon Pea,pulses,2024,85.51
+Mango,fruit,2021,156.84
+Potato,vegetable,2024,89.57
+Banana,fruit,2016,148.54
+Pigeon Pea,pulses,2019,59.95
+Wheat,pulses,2024,147.24
+Banana,fruit,2016,37.19
+Tomato,vegetable,2018,38.72
+Potato,vegetable,2021,132.82
+Potato,vegetable,2023,96.64
+Cabbage,vegetable,2023,58.64
+Cabbage,vegetable,2016,134.18
+Tomato,vegetable,2020,51.28
+Tomato,vegetable,2023,85.72
+Apple,fruit,2015,110.98
+Wheat,pulses,2016,110.34
+Green Gram,pulses,2021,48.44
+Wheat,pulses,2025,42.99
+Green Gram,pulses,2025,62.37
+Green Gram,pulses,2017,45.61
+Mango,fruit,2019,42.36
+Potato,vegetable,2019,88.42
+Green Gram,pulses,2018,138.2
+Pigeon Pea,pulses,2015,35.93
+Apple,fruit,2017,48.78
+Mango,fruit,2015,129.36
+Tomato,vegetable,2025,58.88
+Onion,vegetable,2016,38.82
+Cabbage,vegetable,2020,155.16
+Onion,vegetable,2020,34.62
+Tomato,vegetable,2025,114.53
+Pigeon Pea,pulses,2017,46.58
+Cabbage,vegetable,2024,72.43
+Cabbage,vegetable,2023,118.82
+Wheat,pulses,2016,80.57
+Mango,fruit,2018,75.32
+Green Gram,pulses,2015,72.24
+Apple,fruit,2022,126.32
+Green Gram,pulses,2016,41.48
+Banana,fruit,2022,88.67
+Mango,fruit,2019,105.46
+Onion,vegetable,2015,45.21
+Cabbage,vegetable,2025,156.66
+Banana,fruit,2022,65.32
+Banana,fruit,2024,147.75
+Wheat,pulses,2015,105.35
+Cabbage,vegetable,2015,135.58
+Apple,fruit,2017,84.56
+Tomato,vegetable,2024,150.41
+Banana,fruit,2018,119.45
+Onion,vegetable,2018,100.43
+Banana,fruit,2016,36.15
+Tomato,vegetable,2022,141.39
+Pigeon Pea,pulses,2023,39.97
+Potato,vegetable,2021,34.76
+Potato,vegetable,2018,70.9
+Potato,vegetable,2025,89.62
+Potato,vegetable,2019,31.07
+Potato,vegetable,2024,123.18
+Onion,vegetable,2021,145.3
+Cabbage,vegetable,2023,140.98
+Green Gram,pulses,2019,123.47
+Pigeon Pea,pulses,2021,62.61
+Green Gram,pulses,2019,120.06
+Apple,fruit,2019,70.3
+Green Gram,pulses,2018,144.32
+Green Gram,pulses,2024,172.34
+Tomato,vegetable,2016,49.54
+Cabbage,vegetable,2016,121.81
+Green Gram,pulses,2025,132.98
+Tomato,vegetable,2022,73.92
+Apple,fruit,2021,60.33
+Apple,fruit,2019,100.91
+Apple,fruit,2018,144.41
+Potato,vegetable,2024,50.92
+Banana,fruit,2015,138.0
+Onion,vegetable,2017,156.78
+Potato,vegetable,2023,74.71
+Mango,fruit,2022,94.49
+Tomato,vegetable,2017,52.43
+Mango,fruit,2015,81.31
+Tomato,vegetable,2023,40.12
+Green Gram,pulses,2020,107.44
+Pigeon Pea,pulses,2019,86.14
+Potato,vegetable,2025,148.99
+Potato,vegetable,2018,111.3
+Onion,vegetable,2019,69.03
+Potato,vegetable,2019,101.99
+Wheat,pulses,2016,128.57
+Apple,fruit,2018,100.24
+Onion,vegetable,2021,133.48
+Pigeon Pea,pulses,2019,29.73
+Onion,vegetable,2017,74.87
+Green Gram,pulses,2022,61.0
+Potato,vegetable,2018,34.22
+Wheat,pulses,2015,79.31
+Apple,fruit,2025,121.67
+Pigeon Pea,pulses,2016,58.35
+Potato,vegetable,2021,106.46
+Tomato,vegetable,2025,116.06
+Green Gram,pulses,2020,66.2
+Potato,vegetable,2016,36.51
+Cabbage,vegetable,2021,156.41
+Tomato,vegetable,2018,123.21
+Green Gram,pulses,2022,127.02
+Potato,vegetable,2020,56.04
+Potato,vegetable,2024,67.65
+Apple,fruit,2025,67.1
+Apple,fruit,2023,68.54
+Banana,fruit,2023,157.32
+Apple,fruit,2015,29.87
+Green Gram,pulses,2016,85.88
+Banana,fruit,2019,50.87
+Cabbage,vegetable,2021,134.47
+Onion,vegetable,2019,32.38
+Wheat,pulses,2020,79.56
+Cabbage,vegetable,2017,60.06
+Mango,fruit,2015,84.1
+Apple,fruit,2015,97.46
+Wheat,pulses,2015,99.28
+Pigeon Pea,pulses,2018,60.89
+Mango,fruit,2016,145.15
+Potato,vegetable,2017,41.8
+Green Gram,pulses,2025,98.01
+Onion,vegetable,2017,84.4
+Potato,vegetable,2022,45.12
+Pigeon Pea,pulses,2020,159.87
+Banana,fruit,2025,109.15
+Potato,vegetable,2023,123.25
+Apple,fruit,2021,102.66
+Banana,fruit,2023,106.74
+Cabbage,vegetable,2020,145.81
+Mango,fruit,2022,146.03
+Apple,fruit,2021,55.27
+Green Gram,pulses,2024,96.34
+Mango,fruit,2015,42.12
+Wheat,pulses,2024,118.36
+Green Gram,pulses,2023,125.31
+Green Gram,pulses,2021,121.3
+Mango,fruit,2021,46.34
+Banana,fruit,2015,20.59
+Apple,fruit,2020,44.54
+Wheat,pulses,2025,55.9
+Onion,vegetable,2019,103.34
+Mango,fruit,2025,138.37
+Banana,fruit,2022,92.64
+Cabbage,vegetable,2021,163.1
+Wheat,pulses,2022,64.05
+Tomato,vegetable,2021,96.91
+Mango,fruit,2020,156.69
+Cabbage,vegetable,2021,60.9
+Wheat,pulses,2024,51.13
+Cabbage,vegetable,2016,78.77
+Wheat,pulses,2022,92.09
+Tomato,vegetable,2025,159.94
+Cabbage,vegetable,2024,56.27
+Apple,fruit,2019,134.75
+Wheat,pulses,2019,102.86
+Pigeon Pea,pulses,2017,107.68
+Green Gram,pulses,2017,96.77
+Wheat,pulses,2023,157.04
+Apple,fruit,2020,134.61
+Mango,fruit,2018,94.36
+Cabbage,vegetable,2021,33.31
+Green Gram,pulses,2016,123.94
+Pigeon Pea,pulses,2022,115.84
+Onion,vegetable,2018,102.06
+Onion,vegetable,2024,147.95
+Onion,vegetable,2024,54.58
+Apple,fruit,2020,101.9
+Potato,vegetable,2021,43.36
+Pigeon Pea,pulses,2025,136.06
+Onion,vegetable,2018,65.05
+Banana,fruit,2020,85.93
+Mango,fruit,2017,150.89
+Potato,vegetable,2025,162.42
+Pigeon Pea,pulses,2019,47.43
+Potato,vegetable,2022,125.54
+Tomato,vegetable,2019,73.3
+Potato,vegetable,2023,119.39
+Banana,fruit,2017,98.17
+Tomato,vegetable,2015,88.17
+Apple,fruit,2019,78.76
+Tomato,vegetable,2022,53.14
+Pigeon Pea,pulses,2017,103.07
+Apple,fruit,2018,71.98
+Wheat,pulses,2019,30.97
+Wheat,pulses,2015,133.7
+Onion,vegetable,2015,114.47
+Pigeon Pea,pulses,2018,47.89
+Tomato,vegetable,2018,28.76
+Potato,vegetable,2023,97.36
+Potato,vegetable,2025,108.66
+Green Gram,pulses,2025,55.56
+Tomato,vegetable,2023,153.53
+Potato,vegetable,2016,68.42
+Potato,vegetable,2022,111.89
+Onion,vegetable,2024,112.55
+Mango,fruit,2020,85.29
+Banana,fruit,2023,75.58
+Apple,fruit,2021,64.11
+Cabbage,vegetable,2020,70.17
+Green Gram,pulses,2025,59.23
+Mango,fruit,2016,153.64
+Banana,fruit,2023,112.47
+Wheat,pulses,2024,156.5
+Cabbage,vegetable,2016,35.7
+Wheat,pulses,2017,64.98
+Green Gram,pulses,2025,88.86
+Mango,fruit,2021,127.14
+Pigeon Pea,pulses,2018,69.72
+Wheat,pulses,2017,69.28
+Pigeon Pea,pulses,2015,30.69
+Tomato,vegetable,2015,57.75
+Wheat,pulses,2019,101.37
+Pigeon Pea,pulses,2025,64.74
+Pigeon Pea,pulses,2017,106.53
+Tomato,vegetable,2021,115.72
+Onion,vegetable,2020,81.25
+Cabbage,vegetable,2022,96.43
+Cabbage,vegetable,2021,45.96
+Cabbage,vegetable,2020,142.32
+Cabbage,vegetable,2015,34.37
+Pigeon Pea,pulses,2018,82.54
+Banana,fruit,2024,132.48
+Mango,fruit,2021,84.97
+Pigeon Pea,pulses,2021,140.42
+Apple,fruit,2019,62.71
+Pigeon Pea,pulses,2022,158.98
+Potato,vegetable,2019,111.84
+Banana,fruit,2017,152.13
+Wheat,pulses,2024,111.5
+Pigeon Pea,pulses,2022,74.12
+Banana,fruit,2016,59.5
+Onion,vegetable,2024,53.39
+Pigeon Pea,pulses,2019,50.97
+Tomato,vegetable,2022,93.34
+Pigeon Pea,pulses,2015,65.42
+Cabbage,vegetable,2025,96.98
+Wheat,pulses,2022,63.1
+Cabbage,vegetable,2020,54.19
+Tomato,vegetable,2021,63.97
+Cabbage,vegetable,2020,148.53
+Pigeon Pea,pulses,2018,141.24
+Mango,fruit,2023,121.93
+Cabbage,vegetable,2018,156.21
+Onion,vegetable,2022,56.37
+Banana,fruit,2015,35.61
+Cabbage,vegetable,2021,53.55
+Onion,vegetable,2021,83.55
+Tomato,vegetable,2020,113.66
+Wheat,pulses,2015,61.02
+Wheat,pulses,2018,32.39
+Wheat,pulses,2021,150.73
+Cabbage,vegetable,2023,30.71
+Cabbage,vegetable,2018,90.88
+Onion,vegetable,2019,149.96
+Mango,fruit,2018,116.06
+Banana,fruit,2017,44.01
+Green Gram,pulses,2018,58.08
+Tomato,vegetable,2017,101.54
+Apple,fruit,2016,72.08
+Tomato,vegetable,2015,46.42
+Green Gram,pulses,2017,71.56
+Banana,fruit,2016,56.98
+Apple,fruit,2021,82.52
+Onion,vegetable,2025,158.33
+Cabbage,vegetable,2024,128.29
+Onion,vegetable,2019,102.32
+Banana,fruit,2021,51.31
+Onion,vegetable,2022,43.04
+Banana,fruit,2016,37.74
+Potato,vegetable,2018,49.4
+Pigeon Pea,pulses,2015,81.18
+Cabbage,vegetable,2024,112.99
+Pigeon Pea,pulses,2018,43.37
+Onion,vegetable,2022,105.24
+Mango,fruit,2018,64.64
+Potato,vegetable,2023,159.86
+Apple,fruit,2016,125.66
+Cabbage,vegetable,2017,59.27
+Potato,vegetable,2018,150.91
+Banana,fruit,2021,67.6
+Mango,fruit,2019,73.86
+Tomato,vegetable,2017,130.21
+Wheat,pulses,2022,142.51
+Tomato,vegetable,2020,83.55
+Tomato,vegetable,2018,154.16
+Banana,fruit,2016,108.18
+Onion,vegetable,2021,91.65
+Cabbage,vegetable,2015,126.12
+Wheat,pulses,2021,105.43
+Green Gram,pulses,2015,120.09
+Banana,fruit,2020,81.7
+Cabbage,vegetable,2018,86.14
+Apple,fruit,2020,88.22
+Apple,fruit,2018,155.86
+Green Gram,pulses,2022,98.26
+Onion,vegetable,2022,141.83
+Potato,vegetable,2018,139.52
+Banana,fruit,2025,161.74
+Cabbage,vegetable,2024,118.16
+Wheat,pulses,2021,144.51
+Apple,fruit,2015,18.04
+Onion,vegetable,2021,97.72
+Potato,vegetable,2021,108.96
+Apple,fruit,2018,43.43
+Mango,fruit,2016,73.46
+Wheat,pulses,2019,56.7
+Green Gram,pulses,2024,97.78
+Mango,fruit,2019,106.61
+Mango,fruit,2018,51.47
+Onion,vegetable,2023,89.83
+Cabbage,vegetable,2016,90.26
+Wheat,pulses,2016,52.69
+Tomato,vegetable,2022,96.73
+Mango,fruit,2020,83.0
+Banana,fruit,2021,143.27
+Mango,fruit,2018,95.43
+Green Gram,pulses,2017,84.27
+Potato,vegetable,2019,140.62
+Banana,fruit,2020,42.46
+Green Gram,pulses,2018,111.08
+Wheat,pulses,2021,106.33
+Apple,fruit,2024,122.52
+Banana,fruit,2025,131.24
+Onion,vegetable,2025,117.47
+Pigeon Pea,pulses,2024,61.14
+Green Gram,pulses,2024,133.22
+Green Gram,pulses,2015,80.72
+Wheat,pulses,2016,38.6
+Apple,fruit,2018,136.96
+Cabbage,vegetable,2018,124.17
+Mango,fruit,2024,78.8
+Cabbage,vegetable,2022,53.72
+Banana,fruit,2023,53.71
+Pigeon Pea,pulses,2021,117.34
+Potato,vegetable,2023,95.02
+Cabbage,vegetable,2021,104.21
+Mango,fruit,2025,62.86
+Onion,vegetable,2021,122.67
+Cabbage,vegetable,2025,158.14
+Wheat,pulses,2024,46.41
+Onion,vegetable,2023,148.52
+Wheat,pulses,2020,31.48
+Mango,fruit,2019,87.37
+Apple,fruit,2024,177.01
+Tomato,vegetable,2017,96.22
+Mango,fruit,2019,133.04
+Cabbage,vegetable,2017,89.21
+Tomato,vegetable,2016,108.69
+Banana,fruit,2017,41.29
+Tomato,vegetable,2024,151.72
+Potato,vegetable,2025,56.21
+Apple,fruit,2020,78.35
+Potato,vegetable,2015,74.43
+Banana,fruit,2019,156.54
+Green Gram,pulses,2024,49.96
+Mango,fruit,2023,169.54
+Cabbage,vegetable,2015,108.14
+Cabbage,vegetable,2019,112.15
+Cabbage,vegetable,2023,162.2
+Cabbage,vegetable,2016,76.49
+Green Gram,pulses,2017,38.91
+Green Gram,pulses,2018,27.69
+Onion,vegetable,2021,114.23
+Apple,fruit,2016,144.83
+Onion,vegetable,2016,81.91
+Green Gram,pulses,2021,127.16
+Apple,fruit,2023,88.11
+Banana,fruit,2020,27.01
+Tomato,vegetable,2022,40.19
+Apple,fruit,2016,76.71
+Banana,fruit,2022,87.59
+Mango,fruit,2021,86.63
+Wheat,pulses,2018,41.61
+Green Gram,pulses,2016,114.06
+Wheat,pulses,2017,106.92
+Onion,vegetable,2015,131.67
+Cabbage,vegetable,2025,144.05
+Onion,vegetable,2025,164.95
+Potato,vegetable,2022,84.19
+Tomato,vegetable,2022,142.3
+Banana,fruit,2023,108.64
+Green Gram,pulses,2016,129.65
+Green Gram,pulses,2024,127.97
+Potato,vegetable,2021,44.31
+Wheat,pulses,2022,127.01
+Onion,vegetable,2024,85.82
+Pigeon Pea,pulses,2021,155.54
+Wheat,pulses,2018,136.93
+Apple,fruit,2020,109.12
+Green Gram,pulses,2025,37.01
+Cabbage,vegetable,2020,105.61
+Potato,vegetable,2025,77.04
+Wheat,pulses,2024,96.79
+Mango,fruit,2016,130.21
+Cabbage,vegetable,2018,50.43
+Mango,fruit,2023,151.41
+Pigeon Pea,pulses,2015,119.67
+Banana,fruit,2024,113.63
+Pigeon Pea,pulses,2017,121.95
+Onion,vegetable,2016,31.67
+Potato,vegetable,2016,19.41
+Pigeon Pea,pulses,2022,118.98
+Onion,vegetable,2018,79.73
+Tomato,vegetable,2015,46.26
+Banana,fruit,2015,132.42
+Onion,vegetable,2020,74.68
+Onion,vegetable,2025,125.83
+Cabbage,vegetable,2016,154.46
+Tomato,vegetable,2016,141.92
+Pigeon Pea,pulses,2017,157.24
+Onion,vegetable,2018,38.17
+Cabbage,vegetable,2019,114.13
+Wheat,pulses,2018,126.24
+Onion,vegetable,2020,59.99
+Potato,vegetable,2021,62.66
+Green Gram,pulses,2025,171.8
+Tomato,vegetable,2020,95.47
+Banana,fruit,2018,55.9
+Potato,vegetable,2021,106.31
+Pigeon Pea,pulses,2022,110.7
+Pigeon Pea,pulses,2024,157.83
+Potato,vegetable,2021,65.39
+Green Gram,pulses,2024,45.69
+Onion,vegetable,2023,42.84
+Green Gram,pulses,2016,115.8
+Banana,fruit,2017,103.31
+Wheat,pulses,2022,140.3
+Mango,fruit,2019,123.41
+Potato,vegetable,2016,63.02
+Banana,fruit,2024,100.04
+Pigeon Pea,pulses,2017,117.97
+Banana,fruit,2017,134.69
+Onion,vegetable,2020,157.94
+Cabbage,vegetable,2020,54.57
+Cabbage,vegetable,2023,62.39
+Apple,fruit,2021,108.99
+Onion,vegetable,2017,32.89
+Pigeon Pea,pulses,2025,56.31
+Green Gram,pulses,2022,69.1
+Pigeon Pea,pulses,2023,130.22
+Pigeon Pea,pulses,2015,96.01
+Onion,vegetable,2020,113.61
+Mango,fruit,2025,84.35
+Wheat,pulses,2017,99.33
+Mango,fruit,2025,61.03
+Potato,vegetable,2023,138.12
+Banana,fruit,2025,109.76
+Potato,vegetable,2021,35.93
+Wheat,pulses,2015,141.62
+Wheat,pulses,2015,139.58
+Wheat,pulses,2019,55.94
+Cabbage,vegetable,2022,98.3
+Cabbage,vegetable,2024,125.26
+Onion,vegetable,2023,105.81
+Cabbage,vegetable,2015,90.18
+Banana,fruit,2016,67.48
+Pigeon Pea,pulses,2019,62.65
+Banana,fruit,2018,120.1
+Tomato,vegetable,2023,32.44
+Onion,vegetable,2018,110.77
+Onion,vegetable,2017,153.51
+Mango,fruit,2020,80.84
+Cabbage,vegetable,2020,147.58
+Tomato,vegetable,2019,85.02
+Banana,fruit,2015,117.44
+Apple,fruit,2024,76.86
+Pigeon Pea,pulses,2016,54.08
+Onion,vegetable,2021,130.07
+Mango,fruit,2022,109.24
+Onion,vegetable,2017,108.39
+Green Gram,pulses,2019,116.11
+Potato,vegetable,2025,85.49
+Onion,vegetable,2020,52.18
+Cabbage,vegetable,2015,116.56
+Green Gram,pulses,2025,70.39
+Wheat,pulses,2020,141.48
+Cabbage,vegetable,2020,105.72
+Cabbage,vegetable,2018,62.17
+Tomato,vegetable,2017,101.52
+Apple,fruit,2018,54.48
+Mango,fruit,2023,119.19
+Green Gram,pulses,2024,108.65
+Onion,vegetable,2022,77.09
+Onion,vegetable,2022,167.77
+Apple,fruit,2024,90.73
+Cabbage,vegetable,2020,152.1
+Potato,vegetable,2025,80.73
+Potato,vegetable,2024,82.67
+Wheat,pulses,2023,126.34
+Mango,fruit,2015,45.96
+Pigeon Pea,pulses,2025,50.78
+Apple,fruit,2022,142.83
+Wheat,pulses,2016,113.42
+Onion,vegetable,2025,74.88
+Pigeon Pea,pulses,2018,50.37
+Pigeon Pea,pulses,2021,61.23
+Cabbage,vegetable,2019,129.4
+Apple,fruit,2020,68.15
+Green Gram,pulses,2020,147.36
+Potato,vegetable,2019,66.57
+Onion,vegetable,2025,43.96
+Banana,fruit,2017,40.99
+Tomato,vegetable,2018,103.08
+Apple,fruit,2019,99.11
+Potato,vegetable,2020,62.58
+Tomato,vegetable,2021,48.27
+Onion,vegetable,2017,131.88
+Pigeon Pea,pulses,2023,112.31
+Tomato,vegetable,2019,124.0
+Potato,vegetable,2016,95.89
+Mango,fruit,2024,154.93
+Potato,vegetable,2020,55.97
+Green Gram,pulses,2015,117.53
+Mango,fruit,2020,123.47
+Onion,vegetable,2019,157.65
+Mango,fruit,2017,102.79
+Cabbage,vegetable,2015,142.06
+Tomato,vegetable,2019,51.51
+Banana,fruit,2018,139.53
+Mango,fruit,2020,62.35
+Green Gram,pulses,2020,91.71
+Wheat,pulses,2020,137.25
+Potato,vegetable,2025,75.9
+Mango,fruit,2022,154.47
+Cabbage,vegetable,2021,74.81
+Apple,fruit,2023,109.42
+Mango,fruit,2022,66.27
+Mango,fruit,2018,157.48
+Pigeon Pea,pulses,2015,28.9
+Onion,vegetable,2025,88.98
+Green Gram,pulses,2022,41.35
+Onion,vegetable,2016,27.84
+Potato,vegetable,2017,61.39
+Pigeon Pea,pulses,2025,145.93
+Potato,vegetable,2023,133.81
+Banana,fruit,2025,81.69
+Tomato,vegetable,2019,107.23
+Banana,fruit,2022,105.51
+Onion,vegetable,2025,97.56
+Wheat,pulses,2021,34.97
+Wheat,pulses,2024,38.79
+Mango,fruit,2017,74.21
+Cabbage,vegetable,2019,62.3
+Onion,vegetable,2015,25.89
+Cabbage,vegetable,2022,154.06
+Pigeon Pea,pulses,2021,138.22
+Banana,fruit,2025,104.13
+Wheat,pulses,2015,34.13
+Apple,fruit,2024,42.2
+Onion,vegetable,2023,93.59
+Apple,fruit,2020,102.36
+Apple,fruit,2019,31.84
+Cabbage,vegetable,2018,62.18
+Onion,vegetable,2025,105.58
+Wheat,pulses,2019,119.99
+Onion,vegetable,2020,130.66
+Green Gram,pulses,2023,51.7
+Potato,vegetable,2020,144.43
+Pigeon Pea,pulses,2022,84.88
+Onion,vegetable,2019,161.67
+Green Gram,pulses,2019,93.44
+Mango,fruit,2016,57.16
+Banana,fruit,2022,156.28
+Onion,vegetable,2023,157.79
+Wheat,pulses,2024,122.13
+Onion,vegetable,2021,124.89
+Onion,vegetable,2022,39.41
+Apple,fruit,2024,45.83
+Mango,fruit,2018,118.62
+Cabbage,vegetable,2024,133.17
+Pigeon Pea,pulses,2023,73.05
+Potato,vegetable,2020,84.35
+Banana,fruit,2025,84.22
+Green Gram,pulses,2018,155.4
+Onion,vegetable,2017,66.98
+Green Gram,pulses,2021,85.28
+Apple,fruit,2022,148.96
+Onion,vegetable,2017,107.35
+Wheat,pulses,2019,95.01
+Wheat,pulses,2017,127.42
+Tomato,vegetable,2020,155.65
+Onion,vegetable,2020,71.74
+Green Gram,pulses,2018,60.81
+Pigeon Pea,pulses,2021,85.95
+Mango,fruit,2023,116.09
+Mango,fruit,2021,96.6
+Apple,fruit,2015,87.22
+Banana,fruit,2017,85.37
+Banana,fruit,2015,42.84
+Mango,fruit,2020,52.82
+Potato,vegetable,2023,65.61
+Tomato,vegetable,2023,118.4
+Tomato,vegetable,2022,52.53
+Wheat,pulses,2018,71.57
+Cabbage,vegetable,2018,92.84
+Potato,vegetable,2017,150.76
+Cabbage,vegetable,2024,118.53
+Mango,fruit,2015,22.92
+Pigeon Pea,pulses,2019,110.09
+Cabbage,vegetable,2015,99.02
+Banana,fruit,2019,50.65
+Tomato,vegetable,2016,141.29
+Tomato,vegetable,2025,111.45
+Cabbage,vegetable,2025,75.07
+Potato,vegetable,2019,83.38
+Wheat,pulses,2018,66.15
+Potato,vegetable,2018,24.48
+Apple,fruit,2022,80.32
+Onion,vegetable,2024,134.0
+Tomato,vegetable,2020,159.11
+Onion,vegetable,2020,89.8
+Cabbage,vegetable,2023,64.27
+Green Gram,pulses,2023,80.86
+Wheat,pulses,2025,172.86
+Tomato,vegetable,2018,37.46
+Tomato,vegetable,2022,45.63
+Cabbage,vegetable,2017,79.22
+Cabbage,vegetable,2019,44.01
+Wheat,pulses,2024,63.47
+Apple,fruit,2022,54.17
+Wheat,pulses,2019,106.34
+Mango,fruit,2022,42.8
+Apple,fruit,2018,138.76
+Banana,fruit,2020,76.71
+Cabbage,vegetable,2024,83.44
+Cabbage,vegetable,2025,59.92
+Wheat,pulses,2023,45.35
+Onion,vegetable,2022,73.59
+Potato,vegetable,2018,83.95
+Cabbage,vegetable,2025,75.08
+Green Gram,pulses,2020,88.4
+Apple,fruit,2021,108.0
+Potato,vegetable,2015,31.28
+Cabbage,vegetable,2021,89.79
+Potato,vegetable,2017,145.98
+Onion,vegetable,2022,143.5
+Mango,fruit,2021,91.06
+Mango,fruit,2024,139.8
+Banana,fruit,2023,103.19
+Mango,fruit,2023,61.52
+Apple,fruit,2024,127.19
+Potato,vegetable,2016,25.16
+Potato,vegetable,2015,138.34
+Apple,fruit,2016,154.82
+Banana,fruit,2020,53.35
+Tomato,vegetable,2023,53.99
+Mango,fruit,2024,60.8
+Cabbage,vegetable,2025,67.94
+Cabbage,vegetable,2019,114.02
+Wheat,pulses,2017,153.58
+Green Gram,pulses,2021,31.66
+Apple,fruit,2024,119.71
+Banana,fruit,2021,146.18
+Cabbage,vegetable,2017,95.52
+Onion,vegetable,2024,128.16
+Mango,fruit,2017,42.43
+Onion,vegetable,2023,120.57
+Onion,vegetable,2016,99.88
+Cabbage,vegetable,2018,126.85
+Potato,vegetable,2025,129.1
+Banana,fruit,2023,112.71
+Tomato,vegetable,2015,19.17
+Tomato,vegetable,2016,99.2
+Onion,vegetable,2018,29.64
+Banana,fruit,2017,103.56
+Pigeon Pea,pulses,2016,124.99
+Green Gram,pulses,2016,154.61
+Mango,fruit,2020,153.6
+Mango,fruit,2015,96.55
+Cabbage,vegetable,2015,71.52
+Green Gram,pulses,2016,92.73
+Apple,fruit,2022,49.73
+Potato,vegetable,2015,54.8
+Apple,fruit,2019,57.95
+Banana,fruit,2016,84.71
+Pigeon Pea,pulses,2018,72.11
+Cabbage,vegetable,2020,88.45
+Cabbage,vegetable,2016,54.35
+Tomato,vegetable,2020,32.56
+Potato,vegetable,2023,102.77
+Potato,vegetable,2021,61.99
+Banana,fruit,2016,82.14
+Cabbage,vegetable,2020,62.04
+Onion,vegetable,2025,69.11
+Banana,fruit,2021,121.11
+Apple,fruit,2023,103.21
+Tomato,vegetable,2015,68.55
+Pigeon Pea,pulses,2024,143.81
+Cabbage,vegetable,2025,127.57
+Apple,fruit,2024,94.5
+Apple,fruit,2021,118.61
+Potato,vegetable,2023,111.13
+Cabbage,vegetable,2018,32.84
+Mango,fruit,2024,67.7
+Potato,vegetable,2016,93.98
+Onion,vegetable,2015,43.14
+Cabbage,vegetable,2024,156.02
+Green Gram,pulses,2017,62.88
+Green Gram,pulses,2020,47.71
+Pigeon Pea,pulses,2022,80.22
+Banana,fruit,2018,37.58
+Potato,vegetable,2018,52.34
+Onion,vegetable,2016,114.36
+Banana,fruit,2021,133.0
+Green Gram,pulses,2015,131.79
+Green Gram,pulses,2023,135.75
+Green Gram,pulses,2015,125.36
+Potato,vegetable,2019,61.26
+Green Gram,pulses,2022,133.67
+Apple,fruit,2021,117.34
+Pigeon Pea,pulses,2017,147.43
+Green Gram,pulses,2021,141.15
+Apple,fruit,2019,69.39
+Mango,fruit,2024,108.84
+Potato,vegetable,2015,113.15
+Green Gram,pulses,2021,154.65
+Wheat,pulses,2025,100.58
+Potato,vegetable,2017,34.22
+Cabbage,vegetable,2022,146.98
+Banana,fruit,2025,58.44
+Potato,vegetable,2017,107.57
+Green Gram,pulses,2024,114.53
+Cabbage,vegetable,2022,136.04
+Cabbage,vegetable,2020,31.42
+Banana,fruit,2025,92.19
+Potato,vegetable,2018,85.91
+Green Gram,pulses,2017,107.9
+Tomato,vegetable,2021,154.13
+Wheat,pulses,2015,130.89
+Mango,fruit,2025,108.32
+Apple,fruit,2024,148.01
+Potato,vegetable,2017,144.19
+Pigeon Pea,pulses,2022,102.49
+Mango,fruit,2017,67.85
+Banana,fruit,2016,129.56
+Banana,fruit,2020,75.14
+Mango,fruit,2015,81.75
+Wheat,pulses,2024,119.45
+Mango,fruit,2025,131.09
+Mango,fruit,2018,114.46
+Banana,fruit,2018,128.85
+Mango,fruit,2018,94.87
+Potato,vegetable,2018,126.2
+Potato,vegetable,2015,115.33
+Green Gram,pulses,2022,116.85
+Banana,fruit,2022,98.31
+Green Gram,pulses,2020,63.73
+Banana,fruit,2023,97.95
+Tomato,vegetable,2020,42.46
+Potato,vegetable,2023,69.09
+Onion,vegetable,2018,88.39
+Onion,vegetable,2024,122.38
+Green Gram,pulses,2023,35.54
+Onion,vegetable,2020,139.6
+Green Gram,pulses,2023,144.69
+Apple,fruit,2018,62.33
+Banana,fruit,2024,161.31
+Onion,vegetable,2018,62.4
+Apple,fruit,2019,119.82
+Pigeon Pea,pulses,2023,155.55
+Banana,fruit,2016,34.6
+Cabbage,vegetable,2021,137.11
+Pigeon Pea,pulses,2024,134.97
+Onion,vegetable,2017,70.78
+Apple,fruit,2017,51.71
+Green Gram,pulses,2018,87.59
+Cabbage,vegetable,2018,132.11
+Mango,fruit,2023,70.5
+Potato,vegetable,2023,74.87
+Potato,vegetable,2017,39.73
+Tomato,vegetable,2017,51.74
+Potato,vegetable,2017,88.66
+Mango,fruit,2025,89.04
+Mango,fruit,2015,92.66
+Onion,vegetable,2022,168.51
+Apple,fruit,2019,60.39
+Mango,fruit,2021,54.13
+Apple,fruit,2017,68.58
+Pigeon Pea,pulses,2017,106.3
+Potato,vegetable,2017,59.82
+Apple,fruit,2017,79.6
+Cabbage,vegetable,2021,65.48
+Banana,fruit,2018,42.04
+Pigeon Pea,pulses,2015,92.46
+Green Gram,pulses,2019,93.92
+Green Gram,pulses,2021,121.11
+Cabbage,vegetable,2024,62.01
+Potato,vegetable,2016,43.92
+Pigeon Pea,pulses,2019,85.66
+Green Gram,pulses,2015,121.83
+Mango,fruit,2018,128.9
+Onion,vegetable,2021,92.93
+Tomato,vegetable,2017,136.24
+Potato,vegetable,2021,96.6
+Onion,vegetable,2022,114.68
+Cabbage,vegetable,2018,124.97
+Apple,fruit,2021,44.72
+Wheat,pulses,2017,133.94
+Mango,fruit,2023,61.37
+Mango,fruit,2018,68.9
+Mango,fruit,2022,161.91
+Pigeon Pea,pulses,2016,79.78
+Tomato,vegetable,2018,31.7
+Green Gram,pulses,2016,83.81
+Banana,fruit,2025,55.0
+Green Gram,pulses,2020,109.65
+Mango,fruit,2016,90.47
+Mango,fruit,2017,109.32
+Tomato,vegetable,2016,90.68
+Wheat,pulses,2015,119.9
+Cabbage,vegetable,2021,54.56
+Potato,vegetable,2019,55.36
+Onion,vegetable,2019,119.12
+Tomato,vegetable,2023,97.29
+Banana,fruit,2021,123.11
+Green Gram,pulses,2020,66.72
+Green Gram,pulses,2019,102.12
+Banana,fruit,2015,128.01
+Green Gram,pulses,2018,106.03
+Green Gram,pulses,2025,38.12
+Pigeon Pea,pulses,2015,66.49
+Mango,fruit,2020,34.29
+Tomato,vegetable,2015,51.34
+Green Gram,pulses,2017,66.29
+Cabbage,vegetable,2017,81.38
+Apple,fruit,2022,62.6
+Mango,fruit,2016,33.73
+Onion,vegetable,2017,138.36
+Wheat,pulses,2019,76.58
+Potato,vegetable,2017,92.06
+Cabbage,vegetable,2016,44.14
+Green Gram,pulses,2021,96.44
+Tomato,vegetable,2016,120.44
+Banana,fruit,2025,48.55
+Apple,fruit,2017,146.55
+Pigeon Pea,pulses,2023,101.27
+Cabbage,vegetable,2021,78.77
+Cabbage,vegetable,2015,77.23
+Green Gram,pulses,2019,56.78
+Banana,fruit,2017,53.35
+Cabbage,vegetable,2025,108.83
+Apple,fruit,2020,129.22
+Onion,vegetable,2017,27.0
+Cabbage,vegetable,2019,129.27
+Potato,vegetable,2016,69.73
+Potato,vegetable,2015,134.88
+Wheat,pulses,2021,26.26
+Green Gram,pulses,2016,105.37
+Green Gram,pulses,2016,134.95
+Mango,fruit,2024,99.77
+Onion,vegetable,2016,38.36
+Tomato,vegetable,2018,118.92
+Apple,fruit,2015,36.97
+Pigeon Pea,pulses,2018,132.18
+Green Gram,pulses,2025,161.53
+Cabbage,vegetable,2023,93.43
+Cabbage,vegetable,2023,109.27
+Onion,vegetable,2019,98.71
+Potato,vegetable,2024,109.08
+Tomato,vegetable,2019,76.74
+Banana,fruit,2019,56.5
+Wheat,pulses,2020,157.4
+Tomato,vegetable,2022,106.45
+Onion,vegetable,2017,130.43
+Cabbage,vegetable,2023,107.0
+Pigeon Pea,pulses,2024,45.23
+Wheat,pulses,2024,86.19
+Tomato,vegetable,2020,114.02
+Potato,vegetable,2015,120.62
+Mango,fruit,2015,108.85
+Potato,vegetable,2018,126.18
+Green Gram,pulses,2016,121.99
+Green Gram,pulses,2021,162.6
+Onion,vegetable,2022,122.69
+Apple,fruit,2020,59.08
+Pigeon Pea,pulses,2024,158.08
+Onion,vegetable,2021,121.13
+Potato,vegetable,2023,118.03
+Pigeon Pea,pulses,2024,42.65
+Tomato,vegetable,2025,54.22
+Pigeon Pea,pulses,2015,32.4
+Mango,fruit,2025,78.06
+Pigeon Pea,pulses,2015,47.12
+Potato,vegetable,2018,40.63
+Wheat,pulses,2020,162.94
+Tomato,vegetable,2018,138.26
+Onion,vegetable,2024,125.66
+Tomato,vegetable,2025,47.98
+Banana,fruit,2015,122.59
+Pigeon Pea,pulses,2018,151.56
+Wheat,pulses,2024,47.75
+Potato,vegetable,2018,107.52
+Green Gram,pulses,2019,85.04
+Cabbage,vegetable,2024,91.38
+Apple,fruit,2022,106.45
+Pigeon Pea,pulses,2021,131.57
+Cabbage,vegetable,2018,69.37
+Wheat,pulses,2024,52.0
+Pigeon Pea,pulses,2021,47.72
+Potato,vegetable,2022,109.41
+Tomato,vegetable,2015,43.25
+Mango,fruit,2020,125.88
+Cabbage,vegetable,2020,131.34
+Green Gram,pulses,2023,43.07
+Wheat,pulses,2019,98.81
+Green Gram,pulses,2025,127.75
+Cabbage,vegetable,2016,122.19
+Wheat,pulses,2017,91.29
+Tomato,vegetable,2019,131.07
+Tomato,vegetable,2015,116.59
+Pigeon Pea,pulses,2019,120.88
+Banana,fruit,2017,22.79
+Wheat,pulses,2022,110.41
+Mango,fruit,2020,87.31
+Onion,vegetable,2017,82.65
+Banana,fruit,2025,154.83
+Banana,fruit,2015,76.7
+Green Gram,pulses,2024,70.46
+Wheat,pulses,2019,75.61
+Green Gram,pulses,2018,129.76
+Cabbage,vegetable,2016,59.93
+Cabbage,vegetable,2015,142.49
+Mango,fruit,2025,103.0
+Potato,vegetable,2021,97.9
+Pigeon Pea,pulses,2016,102.18
+Wheat,pulses,2022,43.44
+Green Gram,pulses,2022,112.61
+Mango,fruit,2024,156.05
+Onion,vegetable,2020,102.29
+Apple,fruit,2025,53.93
+Tomato,vegetable,2017,78.33
+Pigeon Pea,pulses,2023,37.34
+Banana,fruit,2023,39.79
+Wheat,pulses,2020,91.03
+Potato,vegetable,2025,141.28
+Wheat,pulses,2021,160.25
+Pigeon Pea,pulses,2024,96.04
+Wheat,pulses,2025,47.79
+Onion,vegetable,2020,146.68
+Potato,vegetable,2021,62.3
+Cabbage,vegetable,2022,81.99
+Wheat,pulses,2022,50.63
+Apple,fruit,2017,64.84
+Green Gram,pulses,2024,137.61
+Apple,fruit,2022,47.06
+Cabbage,vegetable,2022,128.57
+Banana,fruit,2019,46.43
+Green Gram,pulses,2021,103.05
+Cabbage,vegetable,2015,127.22
+Onion,vegetable,2015,65.88
+Apple,fruit,2021,30.38
+Green Gram,pulses,2015,83.62
+Onion,vegetable,2024,154.53
+Apple,fruit,2017,44.82
+Mango,fruit,2021,98.23
+Pigeon Pea,pulses,2022,93.67
+Onion,vegetable,2018,121.53
+Tomato,vegetable,2015,22.24
+Banana,fruit,2016,118.36
+Wheat,pulses,2016,98.44
+Apple,fruit,2023,163.09
+Tomato,vegetable,2020,47.11
+Apple,fruit,2019,27.15
+Mango,fruit,2015,62.39
+Wheat,pulses,2016,52.88
+Mango,fruit,2017,148.78
+Cabbage,vegetable,2022,126.93
+Potato,vegetable,2021,127.46
+Green Gram,pulses,2022,141.96
+Banana,fruit,2022,49.6
+Cabbage,vegetable,2020,148.98
+Mango,fruit,2022,58.19
+Wheat,pulses,2021,90.1
+Apple,fruit,2016,153.08
+Tomato,vegetable,2025,148.49
+Cabbage,vegetable,2018,120.91
+Cabbage,vegetable,2015,143.97
+Green Gram,pulses,2016,59.62
+Cabbage,vegetable,2017,142.07
+Tomato,vegetable,2019,152.01
+Cabbage,vegetable,2023,107.84
+Onion,vegetable,2017,22.19
+Cabbage,vegetable,2016,98.7
+Apple,fruit,2021,47.81
+Apple,fruit,2016,84.69
+Potato,vegetable,2023,49.27
+Pigeon Pea,pulses,2021,78.56
+Pigeon Pea,pulses,2018,133.97
+Apple,fruit,2015,73.14
+Wheat,pulses,2022,155.63
+Potato,vegetable,2018,135.14
+Onion,vegetable,2022,119.45
+Wheat,pulses,2019,79.45
+Wheat,pulses,2015,107.94
+Potato,vegetable,2020,125.62
+Pigeon Pea,pulses,2018,88.41
+Cabbage,vegetable,2017,65.7
+Cabbage,vegetable,2020,48.67
+Cabbage,vegetable,2023,83.93
+Pigeon Pea,pulses,2020,41.63
+Tomato,vegetable,2015,43.72
+Tomato,vegetable,2024,66.05
+Onion,vegetable,2021,131.61
+Cabbage,vegetable,2018,86.41
+Onion,vegetable,2017,127.87
+Green Gram,pulses,2019,57.43
+Pigeon Pea,pulses,2022,123.37
+Potato,vegetable,2021,45.34
+Onion,vegetable,2019,78.52
+Mango,fruit,2023,130.37
+Potato,vegetable,2018,118.16
+Cabbage,vegetable,2015,133.07
+Onion,vegetable,2021,141.08
+Pigeon Pea,pulses,2017,61.96
+Onion,vegetable,2018,121.92
+Pigeon Pea,pulses,2020,49.54
+Tomato,vegetable,2024,81.55
+Tomato,vegetable,2020,57.45
+Pigeon Pea,pulses,2024,116.57
+Tomato,vegetable,2020,135.26
+Onion,vegetable,2017,65.3
+Banana,fruit,2018,56.06
+Potato,vegetable,2015,87.22
+Potato,vegetable,2025,60.34
+Wheat,pulses,2022,137.92
+Mango,fruit,2025,128.64
+Cabbage,vegetable,2017,65.61
+Pigeon Pea,pulses,2024,157.93
+Pigeon Pea,pulses,2021,83.81
+Wheat,pulses,2015,32.23
+Banana,fruit,2020,68.85
+Green Gram,pulses,2022,70.31
+Cabbage,vegetable,2018,117.05
+Green Gram,pulses,2020,89.65
+Mango,fruit,2021,57.51
+Wheat,pulses,2022,143.92
+Wheat,pulses,2023,42.7
+Potato,vegetable,2017,76.51
+Mango,fruit,2024,41.09
+Onion,vegetable,2015,22.88
+Onion,vegetable,2023,59.5
+Banana,fruit,2023,46.62
+Cabbage,vegetable,2023,75.58
+Green Gram,pulses,2025,114.29
+Potato,vegetable,2017,93.3
+Cabbage,vegetable,2017,120.69
+Tomato,vegetable,2019,53.6
+Apple,fruit,2015,62.06
+Wheat,pulses,2020,107.31
+Apple,fruit,2022,49.19
+Cabbage,vegetable,2025,129.58
+Onion,vegetable,2018,83.46
+Tomato,vegetable,2020,51.95
+Banana,fruit,2020,111.41
+Apple,fruit,2019,72.45
+Pigeon Pea,pulses,2016,43.69
+Mango,fruit,2023,118.85
+Potato,vegetable,2022,55.15
+Onion,vegetable,2018,42.55
+Tomato,vegetable,2016,43.35
+Wheat,pulses,2020,46.86
+Tomato,vegetable,2025,91.92
+Cabbage,vegetable,2022,72.49
+Onion,vegetable,2018,60.99
+Potato,vegetable,2023,97.61
+Potato,vegetable,2025,76.64
+Apple,fruit,2021,167.6
+Apple,fruit,2016,124.61
+Wheat,pulses,2019,157.45
+Potato,vegetable,2024,151.58
+Pigeon Pea,pulses,2022,90.78
+Mango,fruit,2018,110.58
+Onion,vegetable,2018,98.98
+Cabbage,vegetable,2018,76.33
+Onion,vegetable,2015,129.83
+Green Gram,pulses,2023,148.38
+Green Gram,pulses,2022,36.73
+Green Gram,pulses,2017,143.72
+Apple,fruit,2025,85.99
+Green Gram,pulses,2016,94.84
+Tomato,vegetable,2021,109.64
+Banana,fruit,2021,61.22
+Potato,vegetable,2017,142.11
+Onion,vegetable,2025,167.14
+Mango,fruit,2018,73.26
+Cabbage,vegetable,2022,154.92
+Potato,vegetable,2019,95.18
+Onion,vegetable,2016,64.84
+Tomato,vegetable,2018,123.11
+Apple,fruit,2025,55.87
+Mango,fruit,2017,61.04
+Pigeon Pea,pulses,2017,56.04
+Pigeon Pea,pulses,2018,76.07
+Mango,fruit,2021,85.14
+Pigeon Pea,pulses,2019,84.09
+Cabbage,vegetable,2025,159.84
+Cabbage,vegetable,2025,112.51
+Onion,vegetable,2022,46.9
+Onion,vegetable,2020,126.53
+Apple,fruit,2018,93.82
+Wheat,pulses,2024,140.19
+Cabbage,vegetable,2018,87.23
+Mango,fruit,2015,127.04
+Apple,fruit,2017,128.91
+Apple,fruit,2021,60.16
+Pigeon Pea,pulses,2023,54.14
+Green Gram,pulses,2017,130.16
+Green Gram,pulses,2025,119.36
+Mango,fruit,2019,79.25
+Apple,fruit,2025,159.81
+Mango,fruit,2022,29.33
+Potato,vegetable,2021,85.31
+Pigeon Pea,pulses,2015,70.24
+Tomato,vegetable,2015,24.72
+Onion,vegetable,2023,42.11
+Pigeon Pea,pulses,2025,101.46
+Tomato,vegetable,2021,36.71
+Wheat,pulses,2022,157.84
+Green Gram,pulses,2020,27.11
+Onion,vegetable,2021,151.12
+Green Gram,pulses,2018,139.78
+Mango,fruit,2019,77.1
+Cabbage,vegetable,2015,144.61
+Apple,fruit,2019,113.25
+Green Gram,pulses,2016,57.22
+Potato,vegetable,2016,119.43
+Wheat,pulses,2015,58.66
+Onion,vegetable,2020,79.39
+Mango,fruit,2020,135.19
+Wheat,pulses,2025,150.82
+Mango,fruit,2019,50.97
+Banana,fruit,2025,72.87
+Cabbage,vegetable,2016,132.82
+Banana,fruit,2018,105.75
+Pigeon Pea,pulses,2024,106.57
+Wheat,pulses,2021,140.31
+Potato,vegetable,2017,133.06
+Mango,fruit,2018,139.46
+Potato,vegetable,2023,50.79
+Cabbage,vegetable,2017,48.16
+Onion,vegetable,2024,68.4
+Apple,fruit,2023,77.0
+Mango,fruit,2024,83.04
+Mango,fruit,2025,133.32
+Tomato,vegetable,2018,117.24
+Green Gram,pulses,2024,100.63
+Tomato,vegetable,2017,148.76
+Cabbage,vegetable,2019,96.1
+Wheat,pulses,2022,103.1
+Wheat,pulses,2017,93.52
+Potato,vegetable,2017,142.0
+Pigeon Pea,pulses,2016,106.44
+Mango,fruit,2016,51.47
+Tomato,vegetable,2020,146.26
+Potato,vegetable,2023,101.6
+Pigeon Pea,pulses,2017,126.87
+Apple,fruit,2016,140.68
+Apple,fruit,2023,145.7
+Mango,fruit,2024,124.0
+Potato,vegetable,2019,96.11
+Mango,fruit,2022,48.94
+Mango,fruit,2025,131.18
+Banana,fruit,2015,79.54
+Tomato,vegetable,2021,154.34
+Green Gram,pulses,2021,155.72
+Apple,fruit,2016,136.7
+Green Gram,pulses,2020,87.09
+Cabbage,vegetable,2025,124.95
+Wheat,pulses,2020,94.01
+Banana,fruit,2016,135.74
+Wheat,pulses,2019,49.36
+Cabbage,vegetable,2019,85.29
+Mango,fruit,2025,67.78
+Wheat,pulses,2017,89.82
+Mango,fruit,2016,72.55
+Pigeon Pea,pulses,2021,82.54
+Pigeon Pea,pulses,2019,96.49
+Tomato,vegetable,2018,135.38
+Pigeon Pea,pulses,2017,37.24
+Wheat,pulses,2018,108.91
+Tomato,vegetable,2015,64.92
+Wheat,pulses,2016,100.31
+Tomato,vegetable,2018,105.53
+Apple,fruit,2018,99.69
+Banana,fruit,2025,103.94
+Mango,fruit,2018,121.0
+Wheat,pulses,2024,138.79
+Mango,fruit,2019,163.84
+Tomato,vegetable,2020,31.13
+Pigeon Pea,pulses,2016,28.26
+Apple,fruit,2024,55.56
+Mango,fruit,2019,79.22
+Green Gram,pulses,2016,58.76
+Pigeon Pea,pulses,2022,76.91
+Banana,fruit,2021,145.1
+Apple,fruit,2017,56.99
+Tomato,vegetable,2018,45.47
+Mango,fruit,2015,27.76
+Banana,fruit,2019,64.55
+Apple,fruit,2018,128.13
+Cabbage,vegetable,2025,88.44
+Potato,vegetable,2021,111.84
+Wheat,pulses,2025,87.29
+Tomato,vegetable,2024,68.14
+Apple,fruit,2016,114.01
+Onion,vegetable,2015,38.43
+Apple,fruit,2022,131.2
+Cabbage,vegetable,2025,109.41
+Banana,fruit,2023,93.44
+Green Gram,pulses,2021,97.2
+Banana,fruit,2025,117.25
+Banana,fruit,2015,110.78
+Pigeon Pea,pulses,2022,117.81
+Mango,fruit,2022,129.52
+Onion,vegetable,2015,125.35
+Mango,fruit,2020,52.92
+Wheat,pulses,2021,142.32
+Pigeon Pea,pulses,2018,150.16
+Tomato,vegetable,2020,89.43
+Banana,fruit,2020,98.42
+Pigeon Pea,pulses,2018,99.53
+Potato,vegetable,2021,128.21
+Apple,fruit,2021,101.26
+Wheat,pulses,2020,134.2
+Wheat,pulses,2020,105.04
+Banana,fruit,2024,146.04
+Pigeon Pea,pulses,2017,54.49
+Pigeon Pea,pulses,2015,42.55
+Mango,fruit,2021,148.04
+Apple,fruit,2015,22.66
+Onion,vegetable,2024,128.27
+Mango,fruit,2023,120.13
+Potato,vegetable,2024,79.68
+Onion,vegetable,2017,41.28
+Wheat,pulses,2021,149.16
+Banana,fruit,2017,111.87
+Potato,vegetable,2017,53.23
+Tomato,vegetable,2019,78.71
+Cabbage,vegetable,2020,48.55
+Green Gram,pulses,2023,100.32
+Potato,vegetable,2023,173.84
+Mango,fruit,2025,61.24
+Banana,fruit,2023,151.28
+Mango,fruit,2016,58.18
+Mango,fruit,2018,51.41
+Tomato,vegetable,2019,129.8
+Wheat,pulses,2019,37.43
+Banana,fruit,2022,102.31
+Pigeon Pea,pulses,2021,150.58
+Green Gram,pulses,2022,74.9
+Mango,fruit,2015,146.33
+Green Gram,pulses,2015,93.16
+Wheat,pulses,2021,82.15
+Pigeon Pea,pulses,2024,155.59
+Green Gram,pulses,2019,123.19
+Onion,vegetable,2019,62.32
+Mango,fruit,2021,127.02
+Green Gram,pulses,2023,137.17
+Apple,fruit,2025,89.39
+Pigeon Pea,pulses,2016,51.23
+Potato,vegetable,2022,103.38
+Pigeon Pea,pulses,2015,31.2
+Pigeon Pea,pulses,2015,82.38
+Onion,vegetable,2021,117.45
+Onion,vegetable,2016,74.29
+Banana,fruit,2019,121.63
+Green Gram,pulses,2022,69.8
+Cabbage,vegetable,2016,143.58
+Tomato,vegetable,2015,140.59
+Tomato,vegetable,2018,86.81
+Potato,vegetable,2021,86.93
+Green Gram,pulses,2025,79.72
+Tomato,vegetable,2024,72.75
+Wheat,pulses,2020,109.85
+Mango,fruit,2018,89.35
+Onion,vegetable,2020,109.35
+Tomato,vegetable,2021,34.52
+Mango,fruit,2024,88.35
+Mango,fruit,2018,141.31
+Apple,fruit,2024,92.87
+Cabbage,vegetable,2023,113.38
+Green Gram,pulses,2024,142.29
+Pigeon Pea,pulses,2018,151.56
+Cabbage,vegetable,2019,49.27
+Pigeon Pea,pulses,2023,114.13
+Pigeon Pea,pulses,2022,74.08
+Apple,fruit,2021,54.45
+Potato,vegetable,2024,148.38
+Mango,fruit,2024,127.84
+Cabbage,vegetable,2016,113.06
+Green Gram,pulses,2018,117.58
+Cabbage,vegetable,2017,74.35
+Tomato,vegetable,2025,166.6
+Cabbage,vegetable,2016,131.22
+Onion,vegetable,2021,70.95
+Wheat,pulses,2017,19.69
+Banana,fruit,2021,45.83
+Banana,fruit,2017,28.97
+Wheat,pulses,2020,92.06
+Cabbage,vegetable,2016,63.16
+Tomato,vegetable,2023,66.14
+Mango,fruit,2024,162.36
+Cabbage,vegetable,2015,59.42
+Banana,fruit,2024,53.47
+Wheat,pulses,2019,40.03
+Wheat,pulses,2018,67.25
+Pigeon Pea,pulses,2022,151.72
+Onion,vegetable,2023,97.39
+Mango,fruit,2022,128.04
+Cabbage,vegetable,2018,41.73
+Tomato,vegetable,2016,142.69
+Tomato,vegetable,2016,140.05
+Cabbage,vegetable,2022,93.5
+Apple,fruit,2025,69.38
+Mango,fruit,2020,47.21
+Tomato,vegetable,2023,103.6
+Green Gram,pulses,2025,74.83
+Tomato,vegetable,2016,87.65
+Cabbage,vegetable,2016,126.6
+Apple,fruit,2024,73.21
+Wheat,pulses,2017,139.77
+Mango,fruit,2024,90.82
+Wheat,pulses,2015,32.94
+Apple,fruit,2020,120.23
+Potato,vegetable,2022,92.15
+Cabbage,vegetable,2015,31.74
+Green Gram,pulses,2020,94.06
+Wheat,pulses,2025,165.46
+Tomato,vegetable,2023,165.38
+Wheat,pulses,2021,111.52
+Banana,fruit,2021,116.39
+Mango,fruit,2021,40.38
+Pigeon Pea,pulses,2018,23.09
+Mango,fruit,2021,98.14
+Tomato,vegetable,2020,85.31
+Banana,fruit,2023,55.26
+Mango,fruit,2025,126.58
+Mango,fruit,2017,79.15
+Onion,vegetable,2021,47.18
+Tomato,vegetable,2022,39.72
+Onion,vegetable,2017,109.91
+Tomato,vegetable,2023,87.75
+Apple,fruit,2019,83.22
+Banana,fruit,2016,73.63
+Banana,fruit,2019,37.99
+Banana,fruit,2021,140.43
+Pigeon Pea,pulses,2021,115.29
+Apple,fruit,2015,79.64
+Apple,fruit,2015,44.87
+Wheat,pulses,2025,115.86
+Onion,vegetable,2020,42.0
+Apple,fruit,2019,56.75
+Onion,vegetable,2015,84.18
+Cabbage,vegetable,2016,98.89
+Cabbage,vegetable,2021,67.21
+Tomato,vegetable,2024,128.65
+Pigeon Pea,pulses,2020,73.33
+Wheat,pulses,2023,104.79
+Pigeon Pea,pulses,2019,50.61
+Apple,fruit,2023,139.84
+Apple,fruit,2022,94.53
+Wheat,pulses,2021,164.78
+Cabbage,vegetable,2025,46.4
+Potato,vegetable,2016,92.52
+Apple,fruit,2015,63.61
+Banana,fruit,2024,132.47
+Tomato,vegetable,2017,117.25
+Cabbage,vegetable,2025,114.34
+Onion,vegetable,2020,45.5
+Cabbage,vegetable,2017,92.49
+Apple,fruit,2016,113.95
+Green Gram,pulses,2016,120.66
+Cabbage,vegetable,2016,31.42
+Wheat,pulses,2019,64.49
+Pigeon Pea,pulses,2021,35.15
+Mango,fruit,2017,47.65
+Apple,fruit,2023,84.5
+Pigeon Pea,pulses,2018,60.5
+Cabbage,vegetable,2015,65.89
+Wheat,pulses,2021,158.39
+Tomato,vegetable,2021,68.99
+Potato,vegetable,2024,136.18
+Pigeon Pea,pulses,2025,126.04
+Apple,fruit,2018,75.52
+Tomato,vegetable,2016,94.59
+Tomato,vegetable,2024,64.52
+Wheat,pulses,2025,99.38
+Potato,vegetable,2020,71.74
+Mango,fruit,2019,48.34
+Pigeon Pea,pulses,2017,100.24
+Apple,fruit,2018,23.6
+Green Gram,pulses,2024,106.22
+Pigeon Pea,pulses,2023,133.95
+Tomato,vegetable,2022,105.54
+Mango,fruit,2015,140.91
+Potato,vegetable,2018,116.82
+Potato,vegetable,2023,130.49
+Wheat,pulses,2015,69.21
+Mango,fruit,2022,138.14
+Potato,vegetable,2016,30.32
+Pigeon Pea,pulses,2015,107.79
+Onion,vegetable,2022,53.14
+Potato,vegetable,2022,68.72
+Onion,vegetable,2016,111.94
+Potato,vegetable,2018,56.01
+Green Gram,pulses,2016,59.47
+Cabbage,vegetable,2021,41.19
+Green Gram,pulses,2018,117.8
+Tomato,vegetable,2018,125.15
+Pigeon Pea,pulses,2022,51.3
+Wheat,pulses,2019,82.35
+Pigeon Pea,pulses,2020,122.75
+Mango,fruit,2022,61.12
+Green Gram,pulses,2019,58.99
+Wheat,pulses,2016,44.83
+Mango,fruit,2018,150.63
+Potato,vegetable,2021,117.78
+Green Gram,pulses,2022,144.6
+Banana,fruit,2023,119.86
+Cabbage,vegetable,2023,144.87
+Wheat,pulses,2025,132.21
+Cabbage,vegetable,2022,87.86
+Cabbage,vegetable,2023,165.44
+Cabbage,vegetable,2019,101.93
+Wheat,pulses,2023,77.15
+Banana,fruit,2020,31.47
+Tomato,vegetable,2019,129.31
+Green Gram,pulses,2015,85.95
+Pigeon Pea,pulses,2024,69.38
+Onion,vegetable,2022,94.09
+Potato,vegetable,2019,123.82
+Potato,vegetable,2017,106.7
+Pigeon Pea,pulses,2016,79.6
+Potato,vegetable,2015,142.67
+Apple,fruit,2016,22.54
+Pigeon Pea,pulses,2020,125.88
+Pigeon Pea,pulses,2024,72.1
+Tomato,vegetable,2019,36.89
+Tomato,vegetable,2022,95.08
+Banana,fruit,2015,152.08
+Apple,fruit,2020,148.89
+Onion,vegetable,2015,54.35
+Tomato,vegetable,2018,64.99
+Mango,fruit,2025,143.19
+Tomato,vegetable,2022,151.76
+Wheat,pulses,2018,75.81
+Apple,fruit,2023,164.36
+Mango,fruit,2024,127.04
+Cabbage,vegetable,2020,114.23
+Wheat,pulses,2024,61.39
+Tomato,vegetable,2021,101.38
+Wheat,pulses,2023,148.38
+Cabbage,vegetable,2023,87.5
+Apple,fruit,2019,80.21
+Potato,vegetable,2023,162.97
+Onion,vegetable,2017,82.25
+Wheat,pulses,2024,97.77
+Apple,fruit,2019,130.74
+Tomato,vegetable,2024,113.4
+Onion,vegetable,2023,57.89
+Tomato,vegetable,2021,106.13
+Onion,vegetable,2019,144.49
+Tomato,vegetable,2023,147.89
+Wheat,pulses,2024,105.01
+Pigeon Pea,pulses,2021,76.61
+Potato,vegetable,2020,124.3
+Potato,vegetable,2021,88.51
+Apple,fruit,2025,60.42
+Tomato,vegetable,2025,124.46
+Pigeon Pea,pulses,2015,67.4
+Green Gram,pulses,2023,73.55
+Onion,vegetable,2021,123.08
+Green Gram,pulses,2016,27.6
+Tomato,vegetable,2020,102.89
+Onion,vegetable,2019,43.09
+Cabbage,vegetable,2020,95.97
+Cabbage,vegetable,2018,139.46
+Cabbage,vegetable,2020,74.04
+Banana,fruit,2019,72.07
+Cabbage,vegetable,2020,73.96
+Cabbage,vegetable,2018,27.12
+Mango,fruit,2025,151.92
+Potato,vegetable,2018,62.23
+Cabbage,vegetable,2017,106.76
+Green Gram,pulses,2022,133.66
+Onion,vegetable,2024,93.48
+Cabbage,vegetable,2018,73.47
+Wheat,pulses,2021,85.77
+Pigeon Pea,pulses,2024,136.89
+Green Gram,pulses,2020,38.23
+Tomato,vegetable,2024,81.46
+Cabbage,vegetable,2024,87.84
+Mango,fruit,2017,57.31
+Cabbage,vegetable,2022,112.94
+Pigeon Pea,pulses,2015,136.43
+Wheat,pulses,2017,105.07
+Tomato,vegetable,2024,89.08
+Tomato,vegetable,2019,148.9
+Green Gram,pulses,2024,95.02
+Potato,vegetable,2015,41.55
+Green Gram,pulses,2025,112.71
+Tomato,vegetable,2021,46.8
+Cabbage,vegetable,2020,72.25
+Tomato,vegetable,2020,37.62
+Onion,vegetable,2020,48.21
+Potato,vegetable,2018,79.55
+Apple,fruit,2015,77.55
+Banana,fruit,2020,58.6
+Banana,fruit,2023,88.25
+Apple,fruit,2025,176.54
+Wheat,pulses,2021,164.44
+Tomato,vegetable,2016,110.29
+Green Gram,pulses,2022,40.78
+Tomato,vegetable,2017,145.0
+Banana,fruit,2024,143.08
+Wheat,pulses,2015,78.12
+Tomato,vegetable,2021,56.69
+Banana,fruit,2023,121.97
+Wheat,pulses,2024,79.34
+Onion,vegetable,2025,49.54
+Apple,fruit,2021,115.9
+Potato,vegetable,2023,94.8
+Apple,fruit,2016,74.9
+Banana,fruit,2023,88.53
+Mango,fruit,2021,145.99
+Tomato,vegetable,2021,90.11
+Cabbage,vegetable,2022,62.25
+Pigeon Pea,pulses,2025,57.01
+Potato,vegetable,2020,112.57
+Pigeon Pea,pulses,2017,103.57
+Cabbage,vegetable,2019,65.02
+Banana,fruit,2023,72.58
+Green Gram,pulses,2022,85.27
+Tomato,vegetable,2019,87.86
+Onion,vegetable,2023,78.82
+Banana,fruit,2020,45.79
+Mango,fruit,2020,124.28
+Onion,vegetable,2018,124.9
+Pigeon Pea,pulses,2015,122.64
+Banana,fruit,2020,78.45
+Mango,fruit,2023,95.07
+Green Gram,pulses,2018,64.71
+Banana,fruit,2015,35.29
+Onion,vegetable,2022,86.49
+Tomato,vegetable,2025,110.94
+Cabbage,vegetable,2018,75.74
+Cabbage,vegetable,2025,153.81
+Onion,vegetable,2017,43.81
+Tomato,vegetable,2022,107.5
+Mango,fruit,2017,28.0
+Potato,vegetable,2021,98.01
+Mango,fruit,2017,79.56
+Cabbage,vegetable,2017,101.47
+Potato,vegetable,2020,65.03
+Mango,fruit,2024,68.73
+Cabbage,vegetable,2020,81.8
+Potato,vegetable,2019,112.14
+Onion,vegetable,2020,152.72
+Banana,fruit,2023,102.12
+Onion,vegetable,2015,116.6
+Potato,vegetable,2015,23.24
+Wheat,pulses,2024,99.06
+Potato,vegetable,2019,153.4
+Banana,fruit,2017,39.34
+Cabbage,vegetable,2024,150.07
+Mango,fruit,2023,77.22
+Pigeon Pea,pulses,2019,113.9
+Apple,fruit,2016,39.02
+Tomato,vegetable,2023,112.23
+Potato,vegetable,2016,40.77
+Tomato,vegetable,2016,67.43
+Potato,vegetable,2022,63.32
+Green Gram,pulses,2020,35.01
+Cabbage,vegetable,2022,53.65
+Wheat,pulses,2019,109.74
+Cabbage,vegetable,2015,55.66
+Potato,vegetable,2016,123.15
+Green Gram,pulses,2024,116.25
+Green Gram,pulses,2025,145.24
+Pigeon Pea,pulses,2023,124.55
+Cabbage,vegetable,2020,119.39
+Onion,vegetable,2016,88.0
+Green Gram,pulses,2018,38.51
+Cabbage,vegetable,2022,160.42
+Pigeon Pea,pulses,2022,161.58
+Cabbage,vegetable,2015,54.2
+Tomato,vegetable,2016,31.01
+Tomato,vegetable,2024,86.85
+Onion,vegetable,2022,118.33
+Cabbage,vegetable,2021,37.81
+Apple,fruit,2020,136.73
+Cabbage,vegetable,2021,65.13
+Potato,vegetable,2024,72.85
+Onion,vegetable,2021,151.65
+Wheat,pulses,2021,114.86
+Tomato,vegetable,2021,43.97
+Wheat,pulses,2015,114.15
+Potato,vegetable,2018,112.87
+Cabbage,vegetable,2016,72.4
+Potato,vegetable,2022,163.25
+Apple,fruit,2016,133.37
+Green Gram,pulses,2017,36.46
+Mango,fruit,2019,127.46
+Pigeon Pea,pulses,2016,93.97
+Green Gram,pulses,2024,171.75
+Wheat,pulses,2016,151.03
+Green Gram,pulses,2020,73.44
+Banana,fruit,2015,138.8
+Mango,fruit,2022,122.07
+Onion,vegetable,2017,59.94
+Wheat,pulses,2017,98.99
+Onion,vegetable,2021,57.99
+Potato,vegetable,2020,123.22
+Banana,fruit,2016,28.13
+Tomato,vegetable,2021,81.67
+Cabbage,vegetable,2021,135.7
+Banana,fruit,2019,57.0
+Wheat,pulses,2021,35.86
+Wheat,pulses,2023,134.18
+Potato,vegetable,2017,105.82
+Onion,vegetable,2020,147.36
+Mango,fruit,2023,142.75
+Onion,vegetable,2019,69.35
+Apple,fruit,2018,57.87
+Tomato,vegetable,2021,131.11
+Banana,fruit,2025,180.6
+Banana,fruit,2022,93.17
+Potato,vegetable,2020,97.69
+Mango,fruit,2016,135.66
+Cabbage,vegetable,2025,59.07
+Cabbage,vegetable,2018,29.04
+Green Gram,pulses,2022,120.78
+Wheat,pulses,2022,57.64
+Tomato,vegetable,2022,47.69
+Potato,vegetable,2025,150.11
+Onion,vegetable,2024,134.8
+Tomato,vegetable,2016,44.22
+Apple,fruit,2015,24.12
+Pigeon Pea,pulses,2018,81.54
+Pigeon Pea,pulses,2024,123.17
+Onion,vegetable,2024,102.99
+Cabbage,vegetable,2024,36.35
+Cabbage,vegetable,2018,128.88
+Potato,vegetable,2015,89.83
+Banana,fruit,2025,81.19
+Tomato,vegetable,2020,61.26
+Mango,fruit,2025,87.64
+Banana,fruit,2017,42.11
+Green Gram,pulses,2016,88.04
+Onion,vegetable,2021,103.85
+Green Gram,pulses,2025,114.19
+Wheat,pulses,2023,29.27
+Tomato,vegetable,2023,114.48
+Pigeon Pea,pulses,2023,156.57
+Pigeon Pea,pulses,2016,35.79
+Cabbage,vegetable,2016,112.23
+Onion,vegetable,2018,129.56
+Pigeon Pea,pulses,2025,97.2
+Wheat,pulses,2022,164.49
+Apple,fruit,2021,50.24
+Apple,fruit,2025,51.02
+Pigeon Pea,pulses,2017,38.65
+Wheat,pulses,2021,96.34
+Pigeon Pea,pulses,2025,141.69
+Mango,fruit,2016,64.49
+Tomato,vegetable,2023,120.98
+Tomato,vegetable,2023,113.07
+Mango,fruit,2021,149.54
+Pigeon Pea,pulses,2018,80.54
+Wheat,pulses,2023,88.98
+Potato,vegetable,2016,79.92
+Cabbage,vegetable,2020,106.0
+Banana,fruit,2021,160.57
+Potato,vegetable,2018,49.13
+Banana,fruit,2017,75.6
+Apple,fruit,2018,93.98
+Potato,vegetable,2017,100.38
+Tomato,vegetable,2020,101.5
+Pigeon Pea,pulses,2017,118.97
+Tomato,vegetable,2019,148.17
+Apple,fruit,2015,58.96
+Onion,vegetable,2017,57.79
+Apple,fruit,2021,67.44
+Green Gram,pulses,2018,26.15
+Cabbage,vegetable,2024,165.36
+Mango,fruit,2024,108.05
+Banana,fruit,2022,130.73
+Cabbage,vegetable,2017,65.38
+Cabbage,vegetable,2021,131.4
+Mango,fruit,2021,107.11
+Potato,vegetable,2019,111.7
+Potato,vegetable,2022,133.16
+Tomato,vegetable,2015,106.47
+Banana,fruit,2021,142.52
+Tomato,vegetable,2015,98.92
+Tomato,vegetable,2024,50.94
+Tomato,vegetable,2016,64.53
+Onion,vegetable,2016,96.32
+Onion,vegetable,2023,75.98
+Apple,fruit,2024,159.26
+Wheat,pulses,2018,136.77
+Cabbage,vegetable,2020,141.94
+Pigeon Pea,pulses,2017,89.77
+Banana,fruit,2019,155.75
+Apple,fruit,2024,47.36
+Wheat,pulses,2024,46.79
+Tomato,vegetable,2015,133.76
+Tomato,vegetable,2017,57.53
+Green Gram,pulses,2018,117.07
+Onion,vegetable,2023,124.46
+Green Gram,pulses,2019,105.8
+Onion,vegetable,2021,94.1
+Potato,vegetable,2016,66.49
+Mango,fruit,2025,136.56
+Mango,fruit,2023,119.59
+Potato,vegetable,2025,160.91
+Onion,vegetable,2016,113.44
+Cabbage,vegetable,2019,72.26
+Onion,vegetable,2016,140.76
+Green Gram,pulses,2019,59.67
+Banana,fruit,2016,70.09
+Wheat,pulses,2016,75.32
+Banana,fruit,2024,118.25
+Tomato,vegetable,2020,131.62
+Cabbage,vegetable,2024,40.25
+Pigeon Pea,pulses,2020,128.65
+Green Gram,pulses,2018,82.67
+Tomato,vegetable,2025,78.44
+Green Gram,pulses,2015,34.59
+Cabbage,vegetable,2023,142.83
+Banana,fruit,2017,45.34
+Tomato,vegetable,2021,49.71
+Tomato,vegetable,2019,34.46
+Wheat,pulses,2016,93.01
+Potato,vegetable,2017,108.7
+Banana,fruit,2019,146.48
+Pigeon Pea,pulses,2019,35.26
+Pigeon Pea,pulses,2017,105.06
+Wheat,pulses,2023,131.96
+Onion,vegetable,2021,104.26
+Pigeon Pea,pulses,2016,54.37
+Green Gram,pulses,2024,53.09
+Apple,fruit,2020,108.48
+Tomato,vegetable,2021,68.34
+Pigeon Pea,pulses,2017,145.13
+Wheat,pulses,2022,166.19
+Pigeon Pea,pulses,2016,133.06
+Pigeon Pea,pulses,2019,130.29
+Onion,vegetable,2022,115.91
+Pigeon Pea,pulses,2017,141.26
+Cabbage,vegetable,2025,172.56
+Onion,vegetable,2019,37.67
+Pigeon Pea,pulses,2023,96.34
+Banana,fruit,2019,141.45
+Mango,fruit,2018,27.06
+Wheat,pulses,2025,70.11
+Tomato,vegetable,2015,47.66
+Banana,fruit,2024,142.89
+Tomato,vegetable,2022,122.5
+Onion,vegetable,2017,100.72
+Banana,fruit,2015,81.82
+Banana,fruit,2019,37.66
+Pigeon Pea,pulses,2020,115.84
+Mango,fruit,2022,43.5
+Cabbage,vegetable,2025,86.36
+Banana,fruit,2016,136.03
+Onion,vegetable,2015,83.09
+Cabbage,vegetable,2015,131.63
+Cabbage,vegetable,2021,45.8
+Onion,vegetable,2015,41.84
+Cabbage,vegetable,2023,69.26
+Tomato,vegetable,2021,163.17
+Green Gram,pulses,2020,45.95
+Cabbage,vegetable,2023,145.84
+Wheat,pulses,2019,117.51
+Onion,vegetable,2019,96.4
+Apple,fruit,2019,87.03
+Wheat,pulses,2019,52.66
+Onion,vegetable,2019,127.03
+Potato,vegetable,2017,154.22
+Cabbage,vegetable,2021,110.04
+Wheat,pulses,2019,78.31
+Cabbage,vegetable,2023,66.99
+Cabbage,vegetable,2015,26.88
+Onion,vegetable,2020,76.39
+Tomato,vegetable,2015,60.84
+Green Gram,pulses,2023,43.69
+Pigeon Pea,pulses,2015,119.76
+Potato,vegetable,2015,150.2
+Tomato,vegetable,2019,126.28
+Onion,vegetable,2021,96.66
+Green Gram,pulses,2025,77.49
+Mango,fruit,2017,63.32
+Cabbage,vegetable,2017,72.67
+Tomato,vegetable,2020,118.71
+Apple,fruit,2025,79.63
+Green Gram,pulses,2023,41.53
+Mango,fruit,2015,43.71
+Banana,fruit,2019,104.49
+Wheat,pulses,2018,31.37
+Banana,fruit,2021,96.46
+Green Gram,pulses,2018,55.04
+Pigeon Pea,pulses,2016,155.68
+Pigeon Pea,pulses,2018,96.26
+Tomato,vegetable,2020,74.72
+Cabbage,vegetable,2021,70.01
+Tomato,vegetable,2025,122.56
+Apple,fruit,2025,126.58
+Wheat,pulses,2016,93.34
+Pigeon Pea,pulses,2019,40.22
+Banana,fruit,2022,118.16
+Tomato,vegetable,2018,152.73
+Green Gram,pulses,2020,126.15
+Green Gram,pulses,2022,78.1
+Tomato,vegetable,2017,28.93
+Wheat,pulses,2018,123.76
+Mango,fruit,2021,40.42
+Banana,fruit,2021,91.19
+Onion,vegetable,2025,117.52
+Apple,fruit,2025,86.43
+Pigeon Pea,pulses,2015,129.98
+Mango,fruit,2021,161.12
+Pigeon Pea,pulses,2021,95.21
+Apple,fruit,2025,102.8
+Tomato,vegetable,2017,89.1
+Potato,vegetable,2016,121.15
+Cabbage,vegetable,2015,141.64
+Onion,vegetable,2022,43.43
+Potato,vegetable,2015,110.76
+Tomato,vegetable,2015,92.73
+Pigeon Pea,pulses,2021,132.28
+Potato,vegetable,2018,101.44
+Mango,fruit,2024,44.14
+Onion,vegetable,2019,64.75
+Mango,fruit,2021,103.41
+Green Gram,pulses,2021,84.74
+Banana,fruit,2017,75.27
+Potato,vegetable,2024,115.54
+Apple,fruit,2024,105.3
+Apple,fruit,2017,143.77
+Mango,fruit,2023,41.92
+Tomato,vegetable,2024,41.72
+Green Gram,pulses,2022,129.79
+Mango,fruit,2017,36.9
+Onion,vegetable,2015,141.43
+Tomato,vegetable,2025,176.83
+Green Gram,pulses,2016,102.57
+Tomato,vegetable,2023,137.19
+Pigeon Pea,pulses,2015,32.9
+Mango,fruit,2020,59.36
+Green Gram,pulses,2019,102.93
+Mango,fruit,2022,122.24
+Mango,fruit,2021,143.23
+Onion,vegetable,2021,151.17
+Apple,fruit,2019,88.21
+Cabbage,vegetable,2021,110.38
+Onion,vegetable,2025,79.15
+Tomato,vegetable,2021,164.57
+Potato,vegetable,2018,105.17
+Banana,fruit,2018,56.46
+Mango,fruit,2023,153.23
+Tomato,vegetable,2024,89.58
+Pigeon Pea,pulses,2017,153.92
+Green Gram,pulses,2020,108.43
+Green Gram,pulses,2019,29.0
+Cabbage,vegetable,2018,79.01
+Onion,vegetable,2017,69.11
+Pigeon Pea,pulses,2024,53.22
+Wheat,pulses,2016,37.32
+Onion,vegetable,2016,102.86
+Wheat,pulses,2021,149.93
+Wheat,pulses,2017,55.86
+Banana,fruit,2017,149.24
+Tomato,vegetable,2020,57.88
+Tomato,vegetable,2019,94.86
+Banana,fruit,2015,86.56
+Tomato,vegetable,2021,146.39
+Potato,vegetable,2023,154.47
+Mango,fruit,2024,134.74
+Wheat,pulses,2025,74.74
+Apple,fruit,2021,81.1
+Onion,vegetable,2017,32.24
+Banana,fruit,2023,39.76
+Potato,vegetable,2019,68.75
+Mango,fruit,2020,92.13
+Mango,fruit,2016,114.03
+Onion,vegetable,2020,132.24
+Pigeon Pea,pulses,2022,95.32
+Mango,fruit,2019,51.73
+Green Gram,pulses,2023,140.96
+Mango,fruit,2016,144.57
+Cabbage,vegetable,2018,133.54
+Apple,fruit,2015,66.37
+Tomato,vegetable,2019,89.29
+Green Gram,pulses,2019,136.55
+Banana,fruit,2015,93.03
+Cabbage,vegetable,2022,86.2
+Banana,fruit,2023,74.86
+Wheat,pulses,2023,93.66
+Tomato,vegetable,2017,130.62
+Banana,fruit,2018,27.8
+Banana,fruit,2017,68.89
+Green Gram,pulses,2019,151.1
+Potato,vegetable,2018,106.45
+Green Gram,pulses,2015,106.65
+Tomato,vegetable,2015,145.42
+Potato,vegetable,2021,64.1
+Apple,fruit,2024,109.4
+Cabbage,vegetable,2021,42.13
+Tomato,vegetable,2024,151.09
+Cabbage,vegetable,2015,102.51
+Tomato,vegetable,2020,108.09
+Onion,vegetable,2025,100.33
+Onion,vegetable,2024,162.79
+Wheat,pulses,2021,91.12
+Banana,fruit,2015,84.59
+Mango,fruit,2023,124.22
+Onion,vegetable,2021,74.0
+Tomato,vegetable,2016,139.12
+Cabbage,vegetable,2017,141.64
+Onion,vegetable,2025,156.84
+Banana,fruit,2016,56.98
+Green Gram,pulses,2019,88.04
+Apple,fruit,2015,130.84
+Potato,vegetable,2025,55.97
+Apple,fruit,2019,65.8
+Tomato,vegetable,2018,38.15
+Tomato,vegetable,2016,139.35
+Potato,vegetable,2017,108.49
+Apple,fruit,2016,82.9
+Onion,vegetable,2016,133.45
+Banana,fruit,2024,96.4
+Wheat,pulses,2022,114.0
+Green Gram,pulses,2020,105.15
+Green Gram,pulses,2023,145.7
+Tomato,vegetable,2016,117.18
+Banana,fruit,2020,144.38
+Wheat,pulses,2021,46.13
+Mango,fruit,2017,70.58
+Tomato,vegetable,2019,153.1
+Tomato,vegetable,2018,155.54
+Apple,fruit,2023,105.48
+Onion,vegetable,2019,87.18
+Wheat,pulses,2016,152.97
+Potato,vegetable,2021,148.83
+Pigeon Pea,pulses,2021,62.79
+Banana,fruit,2016,41.82
+Tomato,vegetable,2017,145.45
+Pigeon Pea,pulses,2025,83.74
+Green Gram,pulses,2017,102.59
+Banana,fruit,2022,60.57
+Apple,fruit,2023,113.34
+Green Gram,pulses,2020,127.23
+Banana,fruit,2025,125.24
+Wheat,pulses,2018,118.29
+Mango,fruit,2021,155.91
+Onion,vegetable,2018,85.04
+Apple,fruit,2021,90.56
+Potato,vegetable,2017,116.6
+Cabbage,vegetable,2020,96.9
+Apple,fruit,2015,94.41
+Cabbage,vegetable,2018,83.14
+Apple,fruit,2021,113.76
+Pigeon Pea,pulses,2017,135.32
+Pigeon Pea,pulses,2018,66.34
+Wheat,pulses,2024,115.31
+Tomato,vegetable,2024,134.13
+Apple,fruit,2022,47.65
+Banana,fruit,2024,127.02
+Wheat,pulses,2019,35.07
+Onion,vegetable,2024,111.59
+Apple,fruit,2016,117.68
+Apple,fruit,2015,130.27
+Cabbage,vegetable,2017,69.46
+Apple,fruit,2022,118.36
+Mango,fruit,2022,155.42
+Mango,fruit,2018,72.77
+Mango,fruit,2024,53.9
+Tomato,vegetable,2023,104.45
+Banana,fruit,2019,157.81
+Potato,vegetable,2022,83.61
+Green Gram,pulses,2019,49.09
+Apple,fruit,2017,115.14
+Pigeon Pea,pulses,2016,132.98
+Pigeon Pea,pulses,2017,118.02
+Wheat,pulses,2017,121.92
+Green Gram,pulses,2018,76.17
+Wheat,pulses,2023,83.32
+Pigeon Pea,pulses,2020,136.99
+Pigeon Pea,pulses,2019,143.61
+Onion,vegetable,2015,115.34

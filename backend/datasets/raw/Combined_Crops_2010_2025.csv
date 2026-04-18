@@ -1,0 +1,321 @@
+crop,type,year,price_per_kg
+Apple,Fruit,2010,80.0
+Apple,Fruit,2011,85.0
+Apple,Fruit,2012,90.0
+Apple,Fruit,2013,95.0
+Apple,Fruit,2014,100.0
+Apple,Fruit,2015,105.0
+Apple,Fruit,2016,115.0
+Apple,Fruit,2017,125.0
+Apple,Fruit,2018,135.0
+Apple,Fruit,2019,145.0
+Apple,Fruit,2020,150.0
+Apple,Fruit,2021,160.0
+Apple,Fruit,2022,170.0
+Apple,Fruit,2023,175.0
+Apple,Fruit,2024,180.0
+Apple,Fruit,2025,185.0
+Banana,Fruit,2010,12.0
+Banana,Fruit,2011,13.0
+Banana,Fruit,2012,14.0
+Banana,Fruit,2013,15.0
+Banana,Fruit,2014,16.0
+Banana,Fruit,2015,17.0
+Banana,Fruit,2016,18.0
+Banana,Fruit,2017,19.0
+Banana,Fruit,2018,20.0
+Banana,Fruit,2019,21.0
+Banana,Fruit,2020,22.0
+Banana,Fruit,2021,23.0
+Banana,Fruit,2022,24.0
+Banana,Fruit,2023,26.0
+Banana,Fruit,2024,27.0
+Banana,Fruit,2025,29.0
+Mango,Fruit,2010,40.0
+Mango,Fruit,2011,45.0
+Mango,Fruit,2012,50.0
+Mango,Fruit,2013,55.0
+Mango,Fruit,2014,60.0
+Mango,Fruit,2015,65.0
+Mango,Fruit,2016,75.0
+Mango,Fruit,2017,85.0
+Mango,Fruit,2018,95.0
+Mango,Fruit,2019,105.0
+Mango,Fruit,2020,110.0
+Mango,Fruit,2021,120.0
+Mango,Fruit,2022,130.0
+Mango,Fruit,2023,140.0
+Mango,Fruit,2024,135.0
+Mango,Fruit,2025,145.0
+Orange,Fruit,2010,30.0
+Orange,Fruit,2011,32.0
+Orange,Fruit,2012,34.0
+Orange,Fruit,2013,36.0
+Orange,Fruit,2014,38.0
+Orange,Fruit,2015,40.0
+Orange,Fruit,2016,44.0
+Orange,Fruit,2017,48.0
+Orange,Fruit,2018,50.0
+Orange,Fruit,2019,51.0
+Orange,Fruit,2020,52.0
+Orange,Fruit,2021,54.0
+Orange,Fruit,2022,56.0
+Orange,Fruit,2023,58.0
+Orange,Fruit,2024,60.0
+Orange,Fruit,2025,62.0
+Grapes,Fruit,2010,50.0
+Grapes,Fruit,2011,52.0
+Grapes,Fruit,2012,54.0
+Grapes,Fruit,2013,56.0
+Grapes,Fruit,2014,58.0
+Grapes,Fruit,2015,62.0
+Grapes,Fruit,2016,66.0
+Grapes,Fruit,2017,70.0
+Grapes,Fruit,2018,74.0
+Grapes,Fruit,2019,78.0
+Grapes,Fruit,2020,80.0
+Grapes,Fruit,2021,84.0
+Grapes,Fruit,2022,88.0
+Grapes,Fruit,2023,92.0
+Grapes,Fruit,2024,95.0
+Grapes,Fruit,2025,98.0
+Watermelon,Fruit,2010,8.0
+Watermelon,Fruit,2011,9.0
+Watermelon,Fruit,2012,10.0
+Watermelon,Fruit,2013,11.0
+Watermelon,Fruit,2014,12.0
+Watermelon,Fruit,2015,13.0
+Watermelon,Fruit,2016,14.0
+Watermelon,Fruit,2017,15.0
+Watermelon,Fruit,2018,16.0
+Watermelon,Fruit,2019,17.0
+Watermelon,Fruit,2020,18.0
+Watermelon,Fruit,2021,20.0
+Watermelon,Fruit,2022,22.0
+Watermelon,Fruit,2023,23.0
+Watermelon,Fruit,2024,24.0
+Watermelon,Fruit,2025,25.0
+Potato,Vegetable,2010,9.0
+Potato,Vegetable,2011,10.0
+Potato,Vegetable,2012,11.0
+Potato,Vegetable,2013,12.0
+Potato,Vegetable,2014,13.0
+Potato,Vegetable,2015,14.0
+Potato,Vegetable,2016,15.0
+Potato,Vegetable,2017,16.0
+Potato,Vegetable,2018,17.0
+Potato,Vegetable,2019,18.0
+Potato,Vegetable,2020,20.0
+Potato,Vegetable,2021,21.0
+Potato,Vegetable,2022,22.0
+Potato,Vegetable,2023,24.0
+Potato,Vegetable,2024,25.0
+Potato,Vegetable,2025,26.0
+Carrot,Vegetable,2010,15.0
+Carrot,Vegetable,2011,16.0
+Carrot,Vegetable,2012,17.0
+Carrot,Vegetable,2013,18.0
+Carrot,Vegetable,2014,20.0
+Carrot,Vegetable,2015,22.0
+Carrot,Vegetable,2016,24.0
+Carrot,Vegetable,2017,26.0
+Carrot,Vegetable,2018,28.0
+Carrot,Vegetable,2019,29.0
+Carrot,Vegetable,2020,30.0
+Carrot,Vegetable,2021,32.0
+Carrot,Vegetable,2022,34.0
+Carrot,Vegetable,2023,35.0
+Carrot,Vegetable,2024,37.0
+Carrot,Vegetable,2025,38.0
+Tomato,Vegetable,2010,12.0
+Tomato,Vegetable,2011,13.0
+Tomato,Vegetable,2012,14.0
+Tomato,Vegetable,2013,15.0
+Tomato,Vegetable,2014,16.0
+Tomato,Vegetable,2015,18.0
+Tomato,Vegetable,2016,20.0
+Tomato,Vegetable,2017,22.0
+Tomato,Vegetable,2018,24.0
+Tomato,Vegetable,2019,26.0
+Tomato,Vegetable,2020,28.0
+Tomato,Vegetable,2021,30.0
+Tomato,Vegetable,2022,32.0
+Tomato,Vegetable,2023,34.0
+Tomato,Vegetable,2024,35.0
+Tomato,Vegetable,2025,36.0
+Onion,Vegetable,2010,10.0
+Onion,Vegetable,2011,11.0
+Onion,Vegetable,2012,12.0
+Onion,Vegetable,2013,13.0
+Onion,Vegetable,2014,14.0
+Onion,Vegetable,2015,16.0
+Onion,Vegetable,2016,18.0
+Onion,Vegetable,2017,20.0
+Onion,Vegetable,2018,22.0
+Onion,Vegetable,2019,24.0
+Onion,Vegetable,2020,26.0
+Onion,Vegetable,2021,28.0
+Onion,Vegetable,2022,30.0
+Onion,Vegetable,2023,32.0
+Onion,Vegetable,2024,34.0
+Onion,Vegetable,2025,36.0
+Rice,Food Grain,2010,20.0
+Rice,Food Grain,2011,21.0
+Rice,Food Grain,2012,22.0
+Rice,Food Grain,2013,23.0
+Rice,Food Grain,2014,24.0
+Rice,Food Grain,2015,25.0
+Rice,Food Grain,2016,26.0
+Rice,Food Grain,2017,27.0
+Rice,Food Grain,2018,28.0
+Rice,Food Grain,2019,29.0
+Rice,Food Grain,2020,30.0
+Rice,Food Grain,2021,31.0
+Rice,Food Grain,2022,33.0
+Rice,Food Grain,2023,35.0
+Rice,Food Grain,2024,36.0
+Rice,Food Grain,2025,38.0
+Wheat,Food Grain,2010,18.0
+Wheat,Food Grain,2011,19.0
+Wheat,Food Grain,2012,20.0
+Wheat,Food Grain,2013,21.0
+Wheat,Food Grain,2014,22.0
+Wheat,Food Grain,2015,23.0
+Wheat,Food Grain,2016,24.0
+Wheat,Food Grain,2017,25.0
+Wheat,Food Grain,2018,26.0
+Wheat,Food Grain,2019,27.0
+Wheat,Food Grain,2020,28.0
+Wheat,Food Grain,2021,29.0
+Wheat,Food Grain,2022,30.0
+Wheat,Food Grain,2023,31.0
+Wheat,Food Grain,2024,33.0
+Wheat,Food Grain,2025,35.0
+Maize,Food Grain,2010,14.0
+Maize,Food Grain,2011,15.0
+Maize,Food Grain,2012,16.0
+Maize,Food Grain,2013,17.0
+Maize,Food Grain,2014,18.0
+Maize,Food Grain,2015,19.0
+Maize,Food Grain,2016,20.0
+Maize,Food Grain,2017,21.0
+Maize,Food Grain,2018,22.0
+Maize,Food Grain,2019,23.0
+Maize,Food Grain,2020,24.0
+Maize,Food Grain,2021,25.0
+Maize,Food Grain,2022,26.0
+Maize,Food Grain,2023,27.0
+Maize,Food Grain,2024,28.0
+Maize,Food Grain,2025,30.0
+Pulses (Toor Dal),Food Grain,2010,48.0
+Pulses (Toor Dal),Food Grain,2011,50.0
+Pulses (Toor Dal),Food Grain,2012,52.0
+Pulses (Toor Dal),Food Grain,2013,55.0
+Pulses (Toor Dal),Food Grain,2014,58.0
+Pulses (Toor Dal),Food Grain,2015,62.0
+Pulses (Toor Dal),Food Grain,2016,65.0
+Pulses (Toor Dal),Food Grain,2017,70.0
+Pulses (Toor Dal),Food Grain,2018,75.0
+Pulses (Toor Dal),Food Grain,2019,78.0
+Pulses (Toor Dal),Food Grain,2020,80.0
+Pulses (Toor Dal),Food Grain,2021,85.0
+Pulses (Toor Dal),Food Grain,2022,90.0
+Pulses (Toor Dal),Food Grain,2023,95.0
+Pulses (Toor Dal),Food Grain,2024,100.0
+Pulses (Toor Dal),Food Grain,2025,105.0
+Chickpea,Food Grain,2010,35.0
+Chickpea,Food Grain,2011,36.0
+Chickpea,Food Grain,2012,38.0
+Chickpea,Food Grain,2013,40.0
+Chickpea,Food Grain,2014,42.0
+Chickpea,Food Grain,2015,45.0
+Chickpea,Food Grain,2016,48.0
+Chickpea,Food Grain,2017,50.0
+Chickpea,Food Grain,2018,52.0
+Chickpea,Food Grain,2019,55.0
+Chickpea,Food Grain,2020,58.0
+Chickpea,Food Grain,2021,60.0
+Chickpea,Food Grain,2022,62.0
+Chickpea,Food Grain,2023,65.0
+Chickpea,Food Grain,2024,68.0
+Chickpea,Food Grain,2025,70.0
+Millet (Ragi),Food Grain,2010,22.0
+Millet (Ragi),Food Grain,2011,23.0
+Millet (Ragi),Food Grain,2012,24.0
+Millet (Ragi),Food Grain,2013,25.0
+Millet (Ragi),Food Grain,2014,26.0
+Millet (Ragi),Food Grain,2015,27.0
+Millet (Ragi),Food Grain,2016,28.0
+Millet (Ragi),Food Grain,2017,30.0
+Millet (Ragi),Food Grain,2018,32.0
+Millet (Ragi),Food Grain,2019,34.0
+Millet (Ragi),Food Grain,2020,36.0
+Millet (Ragi),Food Grain,2021,38.0
+Millet (Ragi),Food Grain,2022,40.0
+Millet (Ragi),Food Grain,2023,42.0
+Millet (Ragi),Food Grain,2024,44.0
+Millet (Ragi),Food Grain,2025,46.0
+Groundnut,Commercial,2010,32.0
+Groundnut,Commercial,2011,34.0
+Groundnut,Commercial,2012,36.0
+Groundnut,Commercial,2013,38.0
+Groundnut,Commercial,2014,40.0
+Groundnut,Commercial,2015,42.0
+Groundnut,Commercial,2016,45.0
+Groundnut,Commercial,2017,48.0
+Groundnut,Commercial,2018,50.0
+Groundnut,Commercial,2019,52.0
+Groundnut,Commercial,2020,55.0
+Groundnut,Commercial,2021,58.0
+Groundnut,Commercial,2022,60.0
+Groundnut,Commercial,2023,62.0
+Groundnut,Commercial,2024,65.0
+Groundnut,Commercial,2025,68.0
+Soybean,Commercial,2010,28.0
+Soybean,Commercial,2011,30.0
+Soybean,Commercial,2012,32.0
+Soybean,Commercial,2013,34.0
+Soybean,Commercial,2014,36.0
+Soybean,Commercial,2015,38.0
+Soybean,Commercial,2016,40.0
+Soybean,Commercial,2017,42.0
+Soybean,Commercial,2018,44.0
+Soybean,Commercial,2019,46.0
+Soybean,Commercial,2020,48.0
+Soybean,Commercial,2021,50.0
+Soybean,Commercial,2022,52.0
+Soybean,Commercial,2023,54.0
+Soybean,Commercial,2024,56.0
+Soybean,Commercial,2025,58.0
+Cotton,Commercial,2010,42.0
+Cotton,Commercial,2011,45.0
+Cotton,Commercial,2012,48.0
+Cotton,Commercial,2013,50.0
+Cotton,Commercial,2014,52.0
+Cotton,Commercial,2015,55.0
+Cotton,Commercial,2016,58.0
+Cotton,Commercial,2017,60.0
+Cotton,Commercial,2018,62.0
+Cotton,Commercial,2019,65.0
+Cotton,Commercial,2020,68.0
+Cotton,Commercial,2021,70.0
+Cotton,Commercial,2022,72.0
+Cotton,Commercial,2023,75.0
+Cotton,Commercial,2024,78.0
+Cotton,Commercial,2025,80.0
+Sugarcane,Commercial,2010,2.2
+Sugarcane,Commercial,2011,2.3
+Sugarcane,Commercial,2012,2.4
+Sugarcane,Commercial,2013,2.5
+Sugarcane,Commercial,2014,2.6
+Sugarcane,Commercial,2015,2.7
+Sugarcane,Commercial,2016,2.8
+Sugarcane,Commercial,2017,2.9
+Sugarcane,Commercial,2018,3.0
+Sugarcane,Commercial,2019,3.1
+Sugarcane,Commercial,2020,3.2
+Sugarcane,Commercial,2021,3.3
+Sugarcane,Commercial,2022,3.5
+Sugarcane,Commercial,2023,3.7
+Sugarcane,Commercial,2024,3.9
+Sugarcane,Commercial,2025,4.1

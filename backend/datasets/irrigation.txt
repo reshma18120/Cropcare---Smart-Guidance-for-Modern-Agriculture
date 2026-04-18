@@ -1,0 +1,26 @@
+Irrigation is the artificial application of water to crops to support growth when rainfall is insufficient.
+
+Types of Irrigation:
+Surface irrigation includes flood and furrow irrigation.
+Drip irrigation delivers water directly to plant roots and reduces wastage.
+Sprinkler irrigation simulates rainfall and is suitable for uneven land.
+Subsurface irrigation applies water below soil surface.
+
+Water Requirement Factors:
+Crop type, growth stage, soil texture, temperature, and humidity influence irrigation needs.
+
+Efficient Irrigation Practices:
+Irrigate early morning or evening to reduce evaporation losses.
+Use mulching to retain soil moisture.
+Adopt micro-irrigation systems for water efficiency.
+Avoid over-irrigation to prevent root diseases.
+
+Signs of Over-Irrigation:
+Yellowing leaves, root rot, waterlogging, nutrient leaching.
+
+Signs of Under-Irrigation:
+Wilting, leaf rolling, stunted growth, poor yield.
+
+Modern Techniques:
+Soil moisture sensors help optimize irrigation timing.
+Automated irrigation systems reduce labor and water wastage.

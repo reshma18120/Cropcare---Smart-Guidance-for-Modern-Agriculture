@@ -1,0 +1,69 @@
+# ===============================
+# CORE BACKEND
+# ===============================
+fastapi
+uvicorn
+python-dotenv
+pydantic
+
+# ===============================
+# MACHINE LEARNING (CROP + MARKET)
+# ===============================
+scikit-learn
+xgboost
+joblib
+
+# ===============================
+# DEEP LEARNING (DISEASE DETECTION)
+# ===============================
+tensorflow
+keras
+
+# ===============================
+# DATA PROCESSING
+# ===============================
+numpy
+pandas
+
+# ===============================
+# IMAGE PROCESSING
+# ===============================
+opencv-python
+pillow
+
+# ===============================
+# AI CHATBOT (GEMINI + RAG)
+# ===============================
+google-generativeai
+langchain
+langchain-community
+langchain-core
+
+# ===============================
+# VECTOR DATABASE (RAG)
+# ===============================
+faiss-cpu
+sentence-transformers
+
+# ===============================
+# HTTP / EXTERNAL APIs
+# ===============================
+requests
+
+# ===============================
+# FILE UPLOAD SUPPORT
+# ===============================
+python-multipart
+
+# ===============================
+# WEATHER / LOCATION SUPPORT
+# ===============================
+geopy
+
+# ===============================
+# OPTIONAL (ONLY IF USED)
+# ===============================
+# openai
+# torch
+# pyttsx3
+# openai-whisper

@@ -1,0 +1,30 @@
+Hydroponics is a method of growing plants without soil using nutrient-rich water solutions.
+
+Common Hydroponic Systems:
+NFT (Nutrient Film Technique) uses a thin film of nutrients flowing over roots.
+DWC (Deep Water Culture) suspends roots directly in oxygenated nutrient solution.
+Drip systems deliver nutrients directly to plant roots.
+Aeroponics sprays nutrients as mist to exposed roots.
+
+Advantages of Hydroponics:
+Hydroponics uses up to 90 percent less water than soil farming.
+It allows year-round cultivation and faster plant growth.
+It reduces pest and soil-borne disease problems.
+Suitable for urban and indoor farming.
+
+Crops Suitable for Hydroponics:
+Leafy greens such as lettuce, spinach, basil, and coriander.
+Fruit crops like tomato, cucumber, and strawberry with proper support.
+
+Nutrient Management:
+Hydroponic solutions must contain nitrogen, phosphorus, potassium, calcium, magnesium, and micronutrients.
+pH should be maintained between 5.5 and 6.5.
+Electrical conductivity (EC) indicates nutrient concentration.
+
+Common Problems:
+Algae growth due to light exposure.
+Root rot caused by low oxygen levels.
+Nutrient imbalance due to incorrect solution mixing.
+
+Preventive Measures:
+Maintain proper aeration, regularly clean systems, monitor pH and EC daily, and use clean water.

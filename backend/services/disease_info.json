@@ -1,0 +1,762 @@
+{
+    "Pepper_bell_Bacterial_spot": {
+    "cause": {
+        "en": "Bacterial spot in bell pepper is caused by Xanthomonas bacteria and spreads through infected seeds, rain splash, tools, and human handling.",
+        "te": "బెల్ పెప్పర్‌లో బ్యాక్టీరియా మచ్చ రోగం Xanthomonas బ్యాక్టీరియా వల్ల వస్తుంది మరియు విత్తనాలు, వర్షపు నీరు, పనిముట్లు మరియు చేతుల ద్వారా వ్యాపిస్తుంది.",
+        "hi": "शिमला मिर्च में बैक्टीरियल स्पॉट रोग Xanthomonas बैक्टीरिया के कारण होता है और बीज, बारिश, औज़ारों और हाथों से फैलता है।"
+    },
+    "organic": {
+        "en": [
+        "Remove and destroy infected leaves or plants immediately.",
+        "Spray neem oil at 3 ml per liter of water once every 7 days.",
+        "Apply copper-based organic formulations such as copper soap.",
+        "Avoid overhead irrigation and ensure good air circulation.",
+        "Apply jeevamrutham or panchagavya to improve plant immunity."
+        ],
+        "te": [
+        "సోకిన ఆకులు లేదా మొక్కలను వెంటనే తొలగించి నాశనం చేయాలి.",
+        "నీటి లీటర్‌కు 3 మిల్లీలీటర్ల వేప నూనెను 7 రోజులకు ఒకసారి పిచికారీ చేయాలి.",
+        "కాపర్ ఆధారిత సేంద్రీయ మందులను ఉపయోగించాలి.",
+        "పై నుంచి నీరు పోయకుండా గాలి ప్రవాహం మెరుగుపరచాలి.",
+        "జీవామృతం లేదా పంచగవ్యంతో మొక్క రోగ నిరోధక శక్తిని పెంచాలి."
+        ],
+        "hi": [
+        "संक्रमित पत्तियों या पौधों को तुरंत हटाकर नष्ट करें।",
+        "7 दिन में एक बार 3 मिली नीम तेल प्रति लीटर पानी में छिड़काव करें।",
+        "कॉपर आधारित जैविक दवाओं का प्रयोग करें।",
+        "ऊपर से सिंचाई न करें और हवा का प्रवाह बढ़ाएं।",
+        "जीवामृत या पंचगव्य से पौधे की रोग प्रतिरोधक क्षमता बढ़ाएं।"
+        ]
+    },
+    "chemical": {
+        "en": [
+        "Spray copper oxychloride at 2.5 grams per liter of water.",
+        "In severe cases, mix streptocycline at 0.5 grams per 10 liters with copper fungicide.",
+        "Repeat spraying every 7 to 10 days depending on severity.",
+        "Stop chemical spraying at least 10 days before harvest."
+        ],
+        "te": [
+        "నీటి లీటర్‌కు 2.5 గ్రాముల కాపర్ ఆక్సీక్లోరైడ్ పిచికారీ చేయాలి.",
+        "రోగం ఎక్కువగా ఉంటే 10 లీటర్లకు 0.5 గ్రాముల స్ట్రెప్టోసైక్లిన్ కలపాలి.",
+        "7 నుండి 10 రోజుల వ్యవధిలో పునరావృతం చేయాలి.",
+        "పంట కోతకు 10 రోజులు ముందు మందుల వినియోగం ఆపాలి."
+        ],
+        "hi": [
+        "2.5 ग्राम कॉपर ऑक्सीक्लोराइड प्रति लीटर पानी में छिड़काव करें।",
+        "अधिक संक्रमण पर 10 लीटर पानी में 0.5 ग्राम स्ट्रेप्टोसाइक्लिन मिलाएं।",
+        "7 से 10 दिन के अंतर से छिड़काव दोहराएं।",
+        "कटाई से 10 दिन पहले दवा का प्रयोग बंद करें।"
+        ]
+    },
+    "precaution": {
+        "en": "Avoid touching healthy plants after handling infected plants, especially when leaves are wet.",
+        "te": "తడి ఉన్న సమయంలో సోకిన మొక్కలను తాకిన తర్వాత ఆరోగ్యకరమైన మొక్కలను తాకకూడదు.",
+        "hi": "गीले पौधों में संक्रमित पौधों को छूने के बाद स्वस्थ पौधों को न छुएं।"
+    }
+},
+"Pepper_bell_healthy": {
+    "cause": {
+        "en": "The plant appears healthy with no visible disease symptoms.",
+        "te": "మొక్క ఆరోగ్యంగా ఉంది మరియు ఎలాంటి రోగ లక్షణాలు కనిపించడం లేదు.",
+        "hi": "पौधा स्वस्थ है और किसी भी रोग के लक्षण नहीं दिख रहे हैं।"
+    },
+    "organic": {
+        "en": [
+        "Maintain balanced fertilization.",
+        "Ensure proper irrigation and drainage.",
+        "Use neem oil spray for preventive care.",
+        "Check plants regularly for pests or disease symptoms.",
+        "Keep field clean and remove weeds."
+        ],
+        "te": [
+        "సమతుల్య పోషకాలు మరియు నీటిపారుదల కొనసాగించాలి.",
+        "ప్రతి వారం మొక్కలను పరిశీలించాలి.",
+        "పొలం పరిశుభ్రత మరియు సరైన దూరం పాటించాలి."
+        ],
+        "hi": [
+        "संतुलित खाद और नियमित सिंचाई जारी रखें।",
+        "सप्ताह में एक बार पौधों की जांच करें।",
+        "खेत की सफाई और उचित दूरी बनाए रखें।"
+        ]
+    },
+    "chemical": {
+        "en": [],
+        "te": [],
+        "hi": []
+    },
+    "precaution": {
+        "en": "Do not spray chemicals when no disease is present.",
+        "te": "రోగం లేనప్పుడు రసాయన మందులు వాడకూడదు.",
+        "hi": "रोग न होने पर रासायनिक दवाओं का प्रयोग न करें।"
+    }
+},
+"Potato_Early_blight": {
+    "cause": {
+        "en": "Early blight in potato is caused by the fungus Alternaria solani. It usually starts on older leaves and spreads rapidly under warm and humid conditions.",
+        "te": "బంగాళాదుంపలో ఎర్లీ బ్లైట్ రోగం Alternaria solani అనే ఫంగస్ వల్ల వస్తుంది. ఇది మొదట పాత ఆకులపై ప్రారంభమై వేడి మరియు తేమ ఉన్న పరిస్థితుల్లో వేగంగా వ్యాపిస్తుంది.",
+        "hi": "आलू में अर्ली ब्लाइट रोग Alternaria solani फंगस के कारण होता है। यह पहले पुरानी पत्तियों पर दिखाई देता है और गर्म व नम मौसम में तेजी से फैलता है।"
+    },
+    "organic": {
+        "en": [
+        "Remove and destroy infected leaves immediately to reduce spore spread.",
+        "Spray neem oil at 3 to 5 ml per liter of water every 7 days.",
+        "Apply Trichoderma viride to soil to suppress fungal growth.",
+        "Avoid overhead irrigation and water plants at the base.",
+        "Maintain proper plant spacing to improve air circulation."
+        ],
+        "te": [
+        "సోకిన ఆకులను వెంటనే తొలగించి నాశనం చేయాలి.",
+        "నీటి లీటర్‌కు 3 నుండి 5 మిల్లీలీటర్ల వేప నూనెను 7 రోజులకు ఒకసారి పిచికారీ చేయాలి.",
+        "ఫంగస్ నియంత్రణ కోసం నేలలో ట్రైకోడెర్మా విరిడే ఉపయోగించాలి.",
+        "పై నుండి నీరు పోయకుండా మొక్క అడుగున నీరు పెట్టాలి.",
+        "మొక్కల మధ్య సరైన దూరం ఉంచి గాలి ప్రవాహం పెంచాలి."
+        ],
+        "hi": [
+        "संक्रमित पत्तियों को तुरंत हटाकर नष्ट करें।",
+        "7 दिन में एक बार 3 से 5 मिली नीम तेल प्रति लीटर पानी में छिड़काव करें।",
+        "मिट्टी में ट्राइकोडर्मा विरिडे डालें ताकि फंगस नियंत्रित हो।",
+        "ऊपर से सिंचाई न करें, पौधे की जड़ में पानी दें।",
+        "पौधों के बीच उचित दूरी रखें ताकि हवा का प्रवाह बना रहे।"
+        ]
+    },
+    "chemical": {
+        "en": [
+        "Spray Mancozeb at 2 to 2.5 grams per liter of water.",
+        "Alternatively use Chlorothalonil as per label recommendation.",
+        "Repeat spraying every 7 to 10 days depending on severity.",
+        "Rotate fungicides to prevent resistance development."
+        ],
+        "te": [
+        "నీటి లీటర్‌కు 2 నుండి 2.5 గ్రాముల మాంకోజెబ్ పిచికారీ చేయాలి.",
+        "లేబుల్ సూచనల ప్రకారం క్లోరోథాలోనిల్ ఉపయోగించవచ్చు.",
+        "రోగ తీవ్రతను బట్టి 7 నుండి 10 రోజులకు ఒకసారి పునరావృతం చేయాలి.",
+        "ఫంగస్ ప్రతిఘటన రాకుండా మందులను మారుస్తూ వాడాలి."
+        ],
+        "hi": [
+        "2 से 2.5 ग्राम मैंकोजेब प्रति लीटर पानी में छिड़काव करें।",
+        "वैकल्पिक रूप से लेबल निर्देशानुसार क्लोरोथालोनिल का प्रयोग करें।",
+        "रोग की गंभीरता के अनुसार 7 से 10 दिन में दोहराएं।",
+        "दवा प्रतिरोध से बचने के लिए फफूंदनाशक बदलते रहें।"
+        ]
+    },
+    "precaution": {
+        "en": "Do not reuse infected crop debris in the field as it carries fungal spores.",
+        "te": "సోకిన పంట అవశేషాలను మళ్లీ పొలంలో ఉపయోగించకూడదు.",
+        "hi": "संक्रमित फसल अवशेषों को खेत में दोबारा उपयोग न करें।"
+    }
+},
+"Potato_Late_blight": {
+    "cause": {
+        "en": "Late blight in potato is caused by Phytophthora infestans and spreads rapidly in cool and wet weather, affecting leaves, stems, and tubers.",
+        "te": "బంగాళాదుంపలో లేట్ బ్లైట్ రోగం Phytophthora infestans వల్ల వస్తుంది మరియు చల్లని, తేమ ఉన్న వాతావరణంలో వేగంగా వ్యాపిస్తుంది.",
+        "hi": "आलू में लेट ब्लाइट रोग Phytophthora infestans के कारण होता है और ठंडे व नम मौसम में तेजी से फैलता है।"
+    },
+    "organic": {
+        "en": [
+        "Remove infected plants immediately to stop further spread.",
+        "Spray neem oil combined with baking soda solution as a preventive measure.",
+        "Apply copper-based organic fungicides before disease spreads widely.",
+        "Avoid water stagnation and improve field drainage.",
+        "Use disease-free certified seed tubers."
+        ],
+        "te": [
+        "సోకిన మొక్కలను వెంటనే తొలగించాలి.",
+        "నివారణ కోసం వేప నూనెతో పాటు బేకింగ్ సోడా ద్రావణం పిచికారీ చేయాలి.",
+        "రోగం విస్తరించే ముందు కాపర్ ఆధారిత సేంద్రీయ మందులు ఉపయోగించాలి.",
+        "నీరు నిల్వ కాకుండా డ్రైనేజీ మెరుగుపరచాలి.",
+        "రోగ రహిత ధృవీకరించిన విత్తన కందులను ఉపయోగించాలి."
+        ],
+        "hi": [
+        "संक्रमित पौधों को तुरंत हटा दें।",
+        "रोकथाम के लिए नीम तेल और बेकिंग सोडा घोल का छिड़काव करें।",
+        "रोग फैलने से पहले कॉपर आधारित जैविक फफूंदनाशक लगाएं।",
+        "खेत में जलभराव न होने दें।",
+        "प्रमाणित रोगमुक्त बीज कंदों का उपयोग करें।"
+        ]
+    },
+    "chemical": {
+        "en": [
+        "Spray Metalaxyl plus Mancozeb combination fungicide as recommended.",
+        "Use Cymoxanil or Fluopicolide based fungicides in severe cases.",
+        "Repeat spraying every 5 to 7 days during favorable conditions.",
+        "Ensure full plant coverage while spraying."
+        ],
+        "te": [
+        "మెటాలాక్సిల్ మరియు మాంకోజెబ్ కలయిక మందును సూచించిన మోతాదులో పిచికారీ చేయాలి.",
+        "తీవ్రమైన పరిస్థితుల్లో సైమోక్సానిల్ లేదా ఫ్లూఓపికోలైడ్ ఉపయోగించాలి.",
+        "అనుకూల పరిస్థితుల్లో 5 నుండి 7 రోజులకు ఒకసారి పునరావృతం చేయాలి.",
+        "పిచికారీలో మొత్తం మొక్క కవర్ అయ్యేలా చూడాలి."
+        ],
+        "hi": [
+        "मेटालैक्सिल और मैंकोजेब मिश्रण फफूंदनाशक का छिड़काव करें।",
+        "गंभीर संक्रमण में साइमोक्सानिल या फ्लुओपिकोलाइड का प्रयोग करें।",
+        "अनुकूल मौसम में 5 से 7 दिन में दोहराएं।",
+        "छिड़काव के समय पूरे पौधे को अच्छी तरह ढकें।"
+        ]
+    },
+    "precaution": {
+        "en": "Late blight can destroy the entire crop quickly, so early detection and timely spraying are critical.",
+        "te": "లేట్ బ్లైట్ రోగం మొత్తం పంటను త్వరగా నాశనం చేయగలదు, కాబట్టి ముందస్తు గుర్తింపు చాలా ముఖ్యం.",
+        "hi": "लेट ब्लाइट पूरी फसल को तेजी से नष्ट कर सकता है, इसलिए समय पर पहचान और छिड़काव जरूरी है।"
+    }
+},
+"Potato_healthy": {
+    "cause": {
+        "en": "The potato plant appears healthy with no visible disease symptoms.",
+        "te": "బంగాళాదుంప మొక్క ఆరోగ్యంగా ఉంది మరియు ఎలాంటి రోగ లక్షణాలు కనిపించడం లేదు.",
+        "hi": "आलू का पौधा स्वस्थ है और किसी भी रोग के लक्षण नहीं दिख रहे हैं।"
+    },
+    "organic": {
+        "en": [
+        "Maintain balanced fertilizer application.",
+        "Ensure proper irrigation without waterlogging.",
+        "Monitor plants regularly for early disease signs.",
+        "Practice crop rotation to prevent disease buildup."
+        ],
+        "te": [
+        "సమతుల్య ఎరువుల వినియోగం కొనసాగించాలి.",
+        "నీరు నిల్వ కాకుండా సరైన నీటిపారుదల చేయాలి.",
+        "మొక్కలను తరచూ పరిశీలించాలి.",
+        "పంట మార్పిడి విధానాన్ని పాటించాలి."
+        ],
+        "hi": [
+        "संतुलित उर्वरक का प्रयोग करें।",
+        "जलभराव से बचाते हुए उचित सिंचाई करें।",
+        "पौधों की नियमित निगरानी करें।",
+        "फसल चक्र अपनाएं।"
+        ]
+    },
+    "chemical": {
+        "en": [],
+        "te": [],
+        "hi": []
+    },
+    "precaution": {
+        "en": "Avoid unnecessary pesticide application when the crop is healthy.",
+        "te": "పంట ఆరోగ్యంగా ఉన్నప్పుడు అవసరం లేని మందులు వాడకూడదు.",
+        "hi": "फसल स्वस्थ होने पर अनावश्यक रसायनों का प्रयोग न करें।"
+    }
+},
+"Tomato_Bacterial_spot": {
+    "cause": {
+        "en": "Bacterial spot in tomato is caused by Xanthomonas bacteria. It spreads through infected seeds, rain splash, tools, and human handling, especially in warm and humid conditions.",
+        "te": "టమాటాలో బ్యాక్టీరియా మచ్చ రోగం Xanthomonas బ్యాక్టీరియా వల్ల వస్తుంది. ఇది విత్తనాలు, వర్షపు నీరు, పనిముట్లు మరియు చేతుల ద్వారా వ్యాపిస్తుంది.",
+        "hi": "टमाटर में बैक्टीरियल स्पॉट रोग Xanthomonas बैक्टीरिया के कारण होता है और बीज, बारिश, औज़ारों व हाथों से फैलता है।"
+    },
+    "organic": {
+        "en": [
+        "Remove and destroy infected leaves or plants immediately to reduce spread.",
+        "Spray neem oil at 3 ml per liter every 7 days as a preventive measure.",
+        "Apply copper-based organic formulations like copper soap or Bordeaux mixture.",
+        "Avoid overhead irrigation and water plants at the base.",
+        "Maintain proper plant spacing to improve air circulation."
+        ],
+        "te": [
+        "సోకిన ఆకులు లేదా మొక్కలను వెంటనే తొలగించి నాశనం చేయాలి.",
+        "నీటి లీటర్‌కు 3 మిల్లీలీటర్ల వేప నూనెను 7 రోజులకు ఒకసారి పిచికారీ చేయాలి.",
+        "కాపర్ ఆధారిత సేంద్రీయ మందులను ఉపయోగించాలి.",
+        "పై నుంచి నీరు పోయకుండా మొక్క అడుగున నీరు పెట్టాలి.",
+        "మొక్కల మధ్య సరైన దూరం ఉంచాలి."
+        ],
+        "hi": [
+        "संक्रमित पत्तियों या पौधों को तुरंत हटाकर नष्ट करें।",
+        "7 दिन में एक बार 3 मिली नीम तेल प्रति लीटर पानी में छिड़काव करें।",
+        "कॉपर आधारित जैविक दवाओं का प्रयोग करें।",
+        "ऊपर से सिंचाई न करें, जड़ों में पानी दें।",
+        "पौधों के बीच उचित दूरी रखें।"
+        ]
+    },
+    "chemical": {
+        "en": [
+        "Spray copper oxychloride at 2.5 grams per liter of water.",
+        "In severe cases, add streptocycline at 0.5 grams per 10 liters along with copper.",
+        "Repeat spraying every 7 to 10 days based on disease pressure.",
+        "Chemicals help control spread but do not cure infected plants."
+        ],
+        "te": [
+        "నీటి లీటర్‌కు 2.5 గ్రాముల కాపర్ ఆక్సీక్లోరైడ్ పిచికారీ చేయాలి.",
+        "తీవ్రంగా ఉన్నప్పుడు 10 లీటర్లకు 0.5 గ్రాముల స్ట్రెప్టోసైక్లిన్ కలపాలి.",
+        "7 నుండి 10 రోజులకు ఒకసారి పునరావృతం చేయాలి.",
+        "మందులు వ్యాప్తిని నియంత్రిస్తాయి కానీ రోగాన్ని పూర్తిగా నయం చేయవు."
+        ],
+        "hi": [
+        "2.5 ग्राम कॉपर ऑक्सीक्लोराइड प्रति लीटर पानी में छिड़काव करें।",
+        "गंभीर संक्रमण में 10 लीटर पानी में 0.5 ग्राम स्ट्रेप्टोसाइक्लिन मिलाएं।",
+        "7 से 10 दिन के अंतर से छिड़काव करें।",
+        "रसायन रोग को फैलने से रोकते हैं, पूरी तरह ठीक नहीं करते।"
+        ]
+    },
+    "precaution": {
+        "en": "Never work in the field when plants are wet, as bacteria spreads easily through touch.",
+        "te": "మొక్కలు తడి ఉన్నప్పుడు పొలంలో పనిచేయకూడదు.",
+        "hi": "गीले पौधों के बीच खेत में काम न करें।"
+    }
+},
+"Tomato_Early_blight": {
+    "cause": {
+        "en": "Early blight in tomato is caused by the fungus Alternaria solani. It begins on older leaves and spreads rapidly under warm and humid conditions.",
+        "te": "టమాటాలో ఎర్లీ బ్లైట్ రోగం Alternaria solani ఫంగస్ వల్ల వస్తుంది మరియు మొదట పాత ఆకులపై కనిపిస్తుంది.",
+        "hi": "टमाटर में अर्ली ब्लाइट रोग Alternaria solani फंगस के कारण होता है और पहले पुरानी पत्तियों पर दिखाई देता है।"
+    },
+    "organic": {
+        "en": [
+        "Remove infected lower leaves as soon as symptoms appear.",
+        "Spray neem oil at 3 to 5 ml per liter every 7 days.",
+        "Apply Trichoderma viride to soil to suppress fungal spores.",
+        "Mulch soil to prevent fungal spores from splashing onto leaves.",
+        "Avoid water stress by maintaining uniform irrigation."
+        ],
+        "te": [
+        "లక్షణాలు కనిపించిన వెంటనే సోకిన పాత ఆకులను తొలగించాలి.",
+        "నీటి లీటర్‌కు 3 నుండి 5 మిల్లీలీటర్ల వేప నూనెను పిచికారీ చేయాలి.",
+        "నేలలో ట్రైకోడెర్మా విరిడే వేయాలి.",
+        "మట్టిపై మల్చింగ్ చేయాలి.",
+        "నీటి లోపం రాకుండా సమాన నీటిపారుదల చేయాలి."
+        ],
+        "hi": [
+        "संक्रमित पुरानी पत्तियों को तुरंत हटा दें।",
+        "7 दिन में एक बार 3 से 5 मिली नीम तेल प्रति लीटर छिड़काव करें।",
+        "मिट्टी में ट्राइकोडर्मा विरिडे डालें।",
+        "मल्चिंग करें ताकि बीजाणु पत्तियों तक न पहुंचें।",
+        "समान सिंचाई बनाए रखें।"
+        ]
+    },
+    "chemical": {
+        "en": [
+        "Spray Mancozeb at 2 to 2.5 grams per liter of water.",
+        "Alternatively use Chlorothalonil as per label instructions.",
+        "Repeat spraying every 7 to 10 days.",
+        "Rotate fungicides to avoid resistance buildup."
+        ],
+        "te": [
+        "నీటి లీటర్‌కు 2 నుండి 2.5 గ్రాముల మాంకోజెబ్ పిచికారీ చేయాలి.",
+        "లేబుల్ ప్రకారం క్లోరోథాలోనిల్ వాడవచ్చు.",
+        "7 నుండి 10 రోజులకు ఒకసారి పునరావృతం చేయాలి.",
+        "ఫంగస్ ప్రతిఘటన నివారించేందుకు మందులు మారుస్తూ వాడాలి."
+        ],
+        "hi": [
+        "2 से 2.5 ग्राम मैंकोजेब प्रति लीटर पानी में छिड़काव करें।",
+        "वैकल्पिक रूप से क्लोरोथालोनिल का प्रयोग करें।",
+        "7 से 10 दिन में दोहराएं।",
+        "दवा प्रतिरोध से बचने के लिए फफूंदनाशक बदलें।"
+        ]
+    },
+    "precaution": {
+        "en": "Do not leave infected crop debris in the field after harvest.",
+        "te": "పంట కోత తర్వాత సోకిన అవశేషాలను పొలంలో ఉంచకూడదు.",
+        "hi": "कटाई के बाद संक्रमित फसल अवशेष खेत में न छोड़ें।"
+    }
+},
+"Tomato_Late_blight": {
+    "cause": {
+        "en": "Late blight in tomato is caused by Phytophthora infestans. It spreads very rapidly in cool and wet weather and affects leaves, stems, and fruits.",
+        "te": "టమాటాలో లేట్ బ్లైట్ రోగం Phytophthora infestans వల్ల వస్తుంది మరియు చల్లని, తేమ ఉన్న వాతావరణంలో వేగంగా వ్యాపిస్తుంది.",
+        "hi": "टमाटर में लेट ब्लाइट रोग Phytophthora infestans के कारण होता है और ठंडे व नम मौसम में तेजी से फैलता है।"
+    },
+    "organic": {
+        "en": [
+        "Remove and destroy infected plants immediately to stop spread.",
+        "Apply copper-based organic fungicides before disease becomes severe.",
+        "Ensure proper drainage to avoid water stagnation.",
+        "Avoid dense planting to reduce humidity around plants.",
+        "Use disease-free seedlings for planting."
+        ],
+        "te": [
+        "సోకిన మొక్కలను వెంటనే తొలగించాలి.",
+        "రోగం తీవ్రం కాకముందే కాపర్ ఆధారిత సేంద్రీయ మందులు పిచికారీ చేయాలి.",
+        "నీరు నిల్వ కాకుండా డ్రైనేజీ మెరుగుపరచాలి.",
+        "మొక్కలను గుబురుగా నాటకూడదు.",
+        "రోగరహిత నాటే మొక్కలను ఉపయోగించాలి."
+        ],
+        "hi": [
+        "संक्रमित पौधों को तुरंत हटा दें।",
+        "रोग गंभीर होने से पहले कॉपर आधारित जैविक दवाओं का छिड़काव करें।",
+        "खेत में जल निकास सही रखें।",
+        "घनी रोपाई से बचें।",
+        "रोगमुक्त पौधों का उपयोग करें।"
+        ]
+    },
+    "chemical": {
+        "en": [
+        "Spray Metalaxyl plus Mancozeb combination fungicide immediately.",
+        "Use Cymoxanil or Fluopicolide based fungicides in severe outbreaks.",
+        "Repeat spraying every 5 to 7 days during cool and wet weather.",
+        "Ensure complete plant coverage during spraying."
+        ],
+        "te": [
+        "మెటాలాక్సిల్ మరియు మాంకోజెబ్ కలయిక మందును వెంటనే పిచికారీ చేయాలి.",
+        "తీవ్ర పరిస్థితుల్లో సైమోక్సానిల్ లేదా ఫ్లూఓపికోలైడ్ వాడాలి.",
+        "చల్లని, తేమ ఉన్న వాతావరణంలో 5 నుండి 7 రోజులకు ఒకసారి పునరావృతం చేయాలి.",
+        "పిచికారీ సమయంలో మొత్తం మొక్క కవర్ అయ్యేలా చూడాలి."
+        ],
+        "hi": [
+        "मेटालैक्सिल और मैंकोजेब मिश्रण का तुरंत छिड़काव करें।",
+        "गंभीर प्रकोप में साइमोक्सानिल या फ्लुओपिकोलाइड का प्रयोग करें।",
+        "ठंडे और नम मौसम में 5 से 7 दिन में दोहराएं।",
+        "छिड़काव में पूरे पौधे को ढकना जरूरी है।"
+        ]
+    },
+    "precaution": {
+        "en": "Late blight can destroy the crop within days, so preventive spraying is critical.",
+        "te": "లేట్ బ్లైట్ రోగం కొద్ది రోజుల్లోనే పంటను నాశనం చేయగలదు, కాబట్టి ముందస్తు నివారణ అవసరం.",
+        "hi": "लेट ब्लाइट कुछ ही दिनों में पूरी फसल नष्ट कर सकता है, इसलिए रोकथाम बेहद जरूरी है।"
+    }
+},
+"Tomato_Leaf_mold": {
+    "cause": {
+        "en": "Leaf mold in tomato is caused by the fungus Passalora fulva. It thrives in high humidity and poor air circulation, especially in greenhouse conditions.",
+        "te": "టమాటాలో లీఫ్ మోల్డ్ రోగం Passalora fulva అనే ఫంగస్ వల్ల వస్తుంది. అధిక తేమ మరియు గాలి ప్రసరణ తక్కువగా ఉన్నప్పుడు ఇది ఎక్కువగా వస్తుంది.",
+        "hi": "टमाटर में लीफ मोल्ड रोग Passalora fulva फंगस के कारण होता है, जो अधिक नमी और कम हवा में तेजी से फैलता है।"
+    },
+    "organic": {
+        "en": [
+        "Improve air circulation by proper spacing and pruning.",
+        "Reduce humidity by ventilating greenhouse or field.",
+        "Spray neem oil at 3 ml per liter every 7 days.",
+        "Apply potassium bicarbonate based organic fungicides.",
+        "Remove and destroy infected leaves immediately."
+        ],
+        "te": [
+        "మొక్కల మధ్య సరైన దూరం మరియు కత్తిరింపు చేయాలి.",
+        "గ్రీన్‌హౌస్ లేదా పొలంలో తేమ తగ్గించాలి.",
+        "నీటి లీటర్‌కు 3 మిల్లీలీటర్ల వేప నూనె పిచికారీ చేయాలి.",
+        "పోటాషియం బైకార్బోనేట్ ఆధారిత సేంద్రీయ మందులు వాడాలి.",
+        "సోకిన ఆకులను వెంటనే తొలగించాలి."
+        ],
+        "hi": [
+        "पौधों के बीच उचित दूरी और छंटाई करें।",
+        "ग्रीनहाउस में नमी कम रखें।",
+        "7 दिन में एक बार 3 मिली नीम तेल प्रति लीटर छिड़कें।",
+        "पोटैशियम बाइकार्बोनेट आधारित जैविक दवाएं प्रयोग करें।",
+        "संक्रमित पत्तियों को तुरंत हटाएं।"
+        ]
+    },
+    "chemical": {
+        "en": [
+        "Spray Chlorothalonil or Mancozeb at recommended dosage.",
+        "In severe cases, use systemic fungicides like Hexaconazole.",
+        "Repeat spraying every 7 to 10 days.",
+        "Ensure complete coverage of lower leaf surfaces."
+        ],
+        "te": [
+        "క్లోరోథాలోనిల్ లేదా మాంకోజెబ్ పిచికారీ చేయాలి.",
+        "తీవ్రంగా ఉన్నప్పుడు హెక్సాకోనాజోల్ వాడాలి.",
+        "7 నుండి 10 రోజులకు ఒకసారి పునరావృతం చేయాలి.",
+        "ఆకుల కింద భాగాన్ని పూర్తిగా కవర్ చేయాలి."
+        ],
+        "hi": [
+        "क्लोरोथालोनिल या मैंकोजेब का छिड़काव करें।",
+        "गंभीर स्थिति में हेक्साकोनाज़ोल का प्रयोग करें।",
+        "7 से 10 दिन में दोहराएं।",
+        "पत्तियों की निचली सतह पर विशेष ध्यान दें।"
+        ]
+    },
+    "precaution": {
+        "en": "High humidity is the main trigger for leaf mold; controlling moisture is critical.",
+        "te": "లీఫ్ మోల్డ్‌కు ప్రధాన కారణం అధిక తేమ.",
+        "hi": "लीफ मोल्ड का मुख्य कारण अधिक नमी है।"
+    }
+},
+"Tomato_Septoria_leaf_spot": {
+    "cause": {
+        "en": "Septoria leaf spot is caused by the fungus Septoria lycopersici. It begins on lower leaves and spreads through rain splash and infected crop debris.",
+        "te": "టమాటాలో సెప్టోరియా లీఫ్ స్పాట్ రోగం Septoria lycopersici ఫంగస్ వల్ల వస్తుంది మరియు మొదట క్రింది ఆకులపై కనిపిస్తుంది.",
+        "hi": "टमाटर में सेप्टोरिया लीफ स्पॉट रोग Septoria lycopersici फंगस के कारण होता है और निचली पत्तियों से शुरू होता है।"
+    },
+    "organic": {
+        "en": [
+        "Remove infected lower leaves immediately.",
+        "Apply neem oil or garlic extract as preventive spray.",
+        "Mulch soil to prevent fungal spores from splashing.",
+        "Use Trichoderma enriched compost in soil.",
+        "Avoid overhead irrigation."
+        ],
+        "te": [
+        "సోకిన క్రింది ఆకులను వెంటనే తొలగించాలి.",
+        "వేప నూనె లేదా వెల్లుల్లి సారంతో పిచికారీ చేయాలి.",
+        "మల్చింగ్ చేయడం ద్వారా మట్టిలోని స్పోర్లు పైకి రావకుండా చేయాలి.",
+        "ట్రైకోడెర్మా కలిపిన కంపోస్ట్ వాడాలి.",
+        "పై నుంచి నీరు పోయకూడదు."
+        ],
+        "hi": [
+        "संक्रमित निचली पत्तियों को तुरंत हटाएं।",
+        "नीम तेल या लहसुन अर्क का छिड़काव करें।",
+        "मल्चिंग करें ताकि फफूंद मिट्टी से न फैले।",
+        "ट्राइकोडर्मा मिला कंपोस्ट डालें।",
+        "ऊपर से सिंचाई न करें।"
+        ]
+    },
+    "chemical": {
+        "en": [
+        "Spray Mancozeb or Chlorothalonil at 2 to 2.5 g per liter.",
+        "Repeat spray every 7 days during rainy season.",
+        "Rotate fungicides to prevent resistance."
+        ],
+        "te": [
+        "నీటి లీటర్‌కు 2 నుండి 2.5 గ్రాముల మాంకోజెబ్ పిచికారీ చేయాలి.",
+        "వర్షాకాలంలో ప్రతి 7 రోజులకు పునరావృతం చేయాలి.",
+        "మందులను మారుస్తూ వాడాలి."
+        ],
+        "hi": [
+        "2 से 2.5 ग्राम मैंकोजेब प्रति लीटर छिड़कें।",
+        "बरसात में हर 7 दिन में दोहराएं।",
+        "फफूंदनाशक बदलते रहें।"
+        ]
+    },
+    "precaution": {
+        "en": "Never reuse infected plant debris or leaves as compost.",
+        "te": "సోకిన అవశేషాలను కంపోస్ట్‌గా వాడకూడదు.",
+        "hi": "संक्रमित पौधों को खाद के रूप में उपयोग न करें।"
+    }
+},
+"Tomato_Spider_mites": {
+    "cause": {
+        "en": "Spider mites are tiny sap-sucking pests that thrive in hot and dry conditions. They damage tomato leaves by sucking plant sap, causing yellowing and webbing.",
+        "te": "స్పైడర్ మైట్స్ చిన్న రసాన్ని పీల్చే పురుగులు. ఇవి వేడి మరియు పొడి వాతావరణంలో ఎక్కువగా పెరుగుతాయి.",
+        "hi": "स्पाइडर माइट्स छोटे रस चूसने वाले कीट होते हैं जो गर्म और सूखे मौसम में तेजी से बढ़ते हैं।"
+    },
+    "organic": {
+        "en": [
+        "Spray neem oil at 3 to 5 ml per liter every 5 days.",
+        "Use soap-based insecticidal sprays to break mite colonies.",
+        "Increase humidity by light misting during early stages.",
+        "Introduce natural predators like ladybird beetles.",
+        "Remove heavily infested leaves."
+        ],
+        "te": [
+        "నీటి లీటర్‌కు 3 నుండి 5 మిల్లీలీటర్ల వేప నూనె పిచికారీ చేయాలి.",
+        "సబ్బు ఆధారిత కీటకనాశకాలను వాడాలి.",
+        "ప్రారంభ దశలో తేమ కొద్దిగా పెంచాలి.",
+        "లేడీబర్డ్ పురుగులను ఉపయోగించాలి.",
+        "తీవ్రంగా సోకిన ఆకులను తొలగించాలి."
+        ],
+        "hi": [
+        "5 दिन में एक बार 3 से 5 मिली नीम तेल का छिड़काव करें।",
+        "साबुन आधारित कीटनाशक प्रयोग करें।",
+        "शुरुआती अवस्था में नमी थोड़ी बढ़ाएं।",
+        "लेडीबर्ड जैसे प्राकृतिक शत्रु छोड़ें।",
+        "अधिक संक्रमित पत्तियां हटा दें।"
+        ]
+    },
+    "chemical": {
+        "en": [
+        "Spray abamectin or spiromesifen at recommended dosage.",
+        "Repeat spray after 5 to 7 days if infestation continues.",
+        "Ensure spraying reaches the underside of leaves."
+        ],
+        "te": [
+        "అబామెక్టిన్ లేదా స్పైరోమెసిఫెన్ పిచికారీ చేయాలి.",
+        "5 నుండి 7 రోజులకు పునరావృతం చేయాలి.",
+        "ఆకుల కింద భాగాన్ని తప్పనిసరిగా కవర్ చేయాలి."
+        ],
+        "hi": [
+        "अबामेक्टिन या स्पायरोमेसीफेन का छिड़काव करें।",
+        "5 से 7 दिन बाद दोहराएं।",
+        "पत्तियों की निचली सतह पर छिड़काव जरूरी है।"
+        ]
+    },
+    "precaution": {
+        "en": "Overuse of broad-spectrum insecticides can increase spider mite outbreaks.",
+        "te": "అధికంగా కీటకనాశకాలు వాడటం స్పైడర్ మైట్స్‌ను పెంచుతుంది.",
+        "hi": "अधिक कीटनाशक प्रयोग से स्पाइडर माइट्स बढ़ सकते हैं।"
+    }
+},
+"Tomato_Target_Spot": {
+  "cause": {
+    "en": "Target spot in tomato is caused by the fungus Corynespora cassiicola. It develops in warm and humid conditions and spreads through wind and water.",
+    "te": "టమాటాలో టార్గెట్ స్పాట్ Corynespora cassiicola ఫంగస్ వల్ల వస్తుంది మరియు తేమ ఉన్న వాతావరణంలో వ్యాపిస్తుంది.",
+    "hi": "टमाटर में टारगेट स्पॉट Corynespora cassiicola फंगस के कारण होता है और गर्म व नम मौसम में फैलता है।"
+  },
+  "organic": {
+    "en": [
+      "Remove infected leaves immediately.",
+      "Spray neem oil at 3-5 ml per liter every 7 days.",
+      "Apply Trichoderma in soil to suppress fungal growth.",
+      "Improve air circulation by proper spacing.",
+      "Avoid overhead irrigation."
+    ],
+    "te": [
+      "సోకిన ఆకులను వెంటనే తొలగించాలి.",
+      "వేప నూనెను 7 రోజులకు ఒకసారి పిచికారీ చేయాలి.",
+      "ట్రైకోడెర్మా నేలలో వాడాలి.",
+      "గాలి ప్రసరణ మెరుగుపరచాలి.",
+      "పై నుండి నీరు పోయకూడదు."
+    ],
+    "hi": [
+      "संक्रमित पत्तियों को तुरंत हटाएं।",
+      "7 दिन में एक बार नीम तेल का छिड़काव करें।",
+      "मिट्टी में ट्राइकोडर्मा डालें।",
+      "पौधों के बीच दूरी रखें।",
+      "ऊपर से सिंचाई न करें।"
+    ]
+  },
+  "chemical": {
+    "en": [
+      "Spray Chlorothalonil or Mancozeb at recommended dosage.",
+      "Use Azoxystrobin in severe cases.",
+      "Repeat spraying every 7 to 10 days.",
+      "Ensure full plant coverage during spraying."
+    ],
+    "te": [
+      "క్లోరోథాలోనిల్ లేదా మాంకోజెబ్ పిచికారీ చేయాలి.",
+      "తీవ్రంగా ఉంటే అజోక్సిస్ట్రోబిన్ వాడాలి.",
+      "7 నుండి 10 రోజులకు ఒకసారి పునరావృతం చేయాలి.",
+      "మొక్క మొత్తాన్ని కవర్ చేయాలి."
+    ],
+    "hi": [
+      "क्लोरोथालोनिल या मैंकोजेब का छिड़काव करें।",
+      "गंभीर स्थिति में अज़ोक्सीस्ट्रोबिन का उपयोग करें।",
+      "7 से 10 दिन में दोहराएं।",
+      "पूरा पौधा कवर करें।"
+    ]
+  },
+  "precaution": {
+    "en": "Avoid excessive humidity and ensure proper spacing to reduce fungal spread.",
+    "te": "అధిక తేమను నివారించాలి మరియు మొక్కల మధ్య దూరం ఉంచాలి.",
+    "hi": "अधिक नमी से बचें और पौधों के बीच दूरी रखें।"
+  }
+},
+"Tomato_mosaic_virus": {
+  "cause": {
+    "en": "Tomato mosaic virus is a viral disease caused by TMV. It spreads through contaminated tools, hands, seeds, and plant debris. It causes mottled leaves, discoloration, and reduced growth.",
+    "te": "టమాటా మొసాయిక్ వైరస్ TMV వల్ల వచ్చే వైరల్ వ్యాధి. ఇది పరికరాలు, చేతులు, విత్తనాలు మరియు మొక్క అవశేషాల ద్వారా వ్యాపిస్తుంది.",
+    "hi": "टमाटर मोज़ेक वायरस TMV के कारण होने वाली वायरल बीमारी है, जो औज़ारों, हाथों और बीजों से फैलती है।"
+  },
+  "organic": {
+    "en": [
+      "Remove and destroy infected plants immediately.",
+      "Disinfect tools and hands after handling infected plants.",
+      "Use virus-free certified seeds.",
+      "Apply neem oil to control insect vectors.",
+      "Maintain field hygiene and remove weeds."
+    ],
+    "te": [
+      "సోకిన మొక్కలను వెంటనే తొలగించాలి.",
+      "పరికరాలు మరియు చేతులను శుభ్రం చేయాలి.",
+      "వైరస్ లేని విత్తనాలను ఉపయోగించాలి.",
+      "వేప నూనెతో పిచికారీ చేయాలి.",
+      "పొలాన్ని శుభ్రంగా ఉంచాలి."
+    ],
+    "hi": [
+      "संक्रमित पौधों को तुरंत हटाकर नष्ट करें।",
+      "औज़ारों और हाथों को साफ रखें।",
+      "प्रमाणित बीजों का उपयोग करें।",
+      "नीम तेल का छिड़काव करें।",
+      "खेत की सफाई बनाए रखें।"
+    ]
+  },
+  "chemical": {
+    "en": [
+      "No direct chemical cure for viral diseases.",
+      "Control insect vectors using Imidacloprid or Thiamethoxam.",
+      "Apply insecticides early to prevent spread.",
+      "Remove infected plants to stop virus transmission."
+    ],
+    "te": [
+      "వైరస్ రోగాలకు నేరుగా మందులు లేవు.",
+      "ఇమిడాక్లోప్రిడ్ లేదా థియామెథోక్సామ్ వాడి పురుగులను నియంత్రించాలి.",
+      "ప్రారంభ దశలో మందులు వాడాలి.",
+      "సోకిన మొక్కలను తొలగించాలి."
+    ],
+    "hi": [
+      "वायरस रोगों का सीधा इलाज नहीं होता।",
+      "इमिडाक्लोप्रिड या थायमेथोक्साम से कीट नियंत्रण करें।",
+      "शुरुआत में ही छिड़काव करें।",
+      "संक्रमित पौधों को हटाएं।"
+    ]
+  },
+  "precaution": {
+    "en": "Viral diseases spread quickly and cannot be cured, so prevention and hygiene are essential.",
+    "te": "వైరస్ రోగాలకు చికిత్స లేదు, కాబట్టి నివారణ చాలా ముఖ్యం.",
+    "hi": "वायरल रोगों का इलाज नहीं होता, इसलिए रोकथाम जरूरी है।"
+  }
+},
+"Tomato_Yellow_Leaf_Curl_Virus": {
+    "cause": {
+        "en": "Yellow leaf curl virus is a viral disease transmitted by whiteflies. It causes leaf curling, yellowing, stunted growth, and severe yield loss.",
+        "te": "టమాటా యెల్లో లీఫ్ కర్ల్ వైరస్ తెల్ల ఈగల ద్వారా వ్యాపిస్తుంది. ఇది ఆకులు ముడుచుకోవడం మరియు దిగుబడి తగ్గడం చేస్తుంది.",
+        "hi": "टमाटर येलो लीफ कर्ल वायरस सफेद मक्खी से फैलता है और पौधों की वृद्धि रोक देता है।"
+    },
+    "organic": {
+        "en": [
+        "Remove infected plants immediately.",
+        "Use yellow sticky traps to control whiteflies.",
+        "Apply neem oil or neem-based insecticides.",
+        "Grow virus-resistant tomato varieties."
+        ],
+        "te": [
+        "సోకిన మొక్కలను వెంటనే తొలగించాలి.",
+        "తెల్ల ఈగలను నియంత్రించడానికి పసుపు ట్రాప్స్ వాడాలి.",
+        "వేప నూనె ఆధారిత మందులు వాడాలి.",
+        "వైరస్ నిరోధక విత్తనాలు ఎంచుకోవాలి."
+        ],
+        "hi": [
+        "संक्रमित पौधों को तुरंत हटाएं।",
+        "सफेद मक्खी के लिए पीले स्टिकी ट्रैप लगाएं।",
+        "नीम आधारित कीटनाशक प्रयोग करें।",
+        "रोग प्रतिरोधी किस्में लगाएं।"
+        ]
+    },
+    "chemical": {
+        "en": [
+        "Spray Imidacloprid or Thiamethoxam to control whiteflies.",
+        "Use insecticides early to prevent virus spread.",
+        "Rotate insecticides to avoid resistance."
+        ],
+        "te": [
+        "ఇమిడాక్లోప్రిడ్ లేదా థియామెథోక్సామ్ వాడాలి.",
+        "వైరస్ వ్యాప్తిని ఆపేందుకు ప్రారంభ దశలో మందులు వాడాలి.",
+        "మందులను మారుస్తూ వాడాలి."
+        ],
+        "hi": [
+        "इमिडाक्लोप्रिड या थायमेथोक्साम का छिड़काव करें।",
+        "वायरस फैलने से पहले नियंत्रण करें।",
+        "कीटनाशक बदलते रहें।"
+        ]
+    },
+    "precaution": {
+        "en": "Viral diseases cannot be cured; prevention and vector control are essential.",
+        "te": "వైరస్ రోగాలకు చికిత్స లేదు, నివారణ మాత్రమే మార్గం.",
+        "hi": "वायरल रोगों का इलाज नहीं होता, रोकथाम ही उपाय है।"
+    }
+},
+"Tomato_healthy": {
+    "cause": {
+        "en": "The tomato plant is healthy with no visible signs of disease or pest infestation.",
+        "te": "టమాటా మొక్క పూర్తిగా ఆరోగ్యంగా ఉంది మరియు ఎలాంటి రోగ లక్షణాలు లేవు.",
+        "hi": "टमाटर का पौधा स्वस्थ है और किसी रोग या कीट के लक्षण नहीं हैं।"
+    },
+    "organic": {
+        "en": [
+        "Maintain proper irrigation and avoid water stress.",
+        "Apply organic compost or vermicompost regularly.",
+        "Use neem oil spray once every 10–15 days for prevention.",
+        "Ensure proper sunlight and air circulation.",
+        "Monitor plants weekly for early disease detection."
+        ],
+        "te": [
+        "సరైన నీటిపారుదల మరియు డ్రైనేజీ కల్పించాలి.",
+        "సేంద్రీయ కంపోస్ట్ మరియు బయో ఎరువులు వాడాలి.",
+        "మొక్కలను తరచూ పరిశీలించాలి.",
+        "పొలాన్ని శుభ్రంగా ఉంచాలి."
+        ],
+        "hi": [
+        "उचित सिंचाई और जल निकास रखें।",
+        "जैविक खाद और जैव उर्वरक प्रयोग करें।",
+        "पौधों की नियमित जांच करें।",
+        "खेत की सफाई बनाए रखें।"
+        ]
+    },
+    "chemical": {
+        "en": [],
+        "te": [],
+        "hi": []
+    },
+    "precaution": {
+        "en": "Healthy plants have higher resistance to pests and diseases.",
+        "te": "ఆరోగ్యమైన మొక్కలకు రోగ నిరోధక శక్తి ఎక్కువగా ఉంటుంది.",
+        "hi": "स्वस्थ पौधों में रोग प्रतिरोधक क्षमता अधिक होती है।"
+    }
+}
+}
+    

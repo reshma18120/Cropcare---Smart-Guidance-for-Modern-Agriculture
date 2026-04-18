@@ -1,0 +1,43 @@
+Vertical farming is a method of growing crops in vertically stacked layers using controlled environments.
+
+Key Features of Vertical Farming:
+Efficient use of space.
+Controlled temperature, humidity, and lighting.
+Minimal water usage through recirculation systems.
+Suitable for urban and indoor farming.
+
+Growing Systems:
+Hydroponics uses nutrient-rich water.
+Aeroponics sprays nutrients to roots.
+Aquaponics combines fish farming with plant cultivation.
+
+Crops Suitable for Vertical Farming:
+Leafy greens such as lettuce, spinach, kale, and basil.
+Herbs like mint, parsley, and coriander.
+Microgreens and strawberries.
+
+Lighting:
+LED grow lights provide required light spectrum.
+Light duration and intensity must be controlled.
+Red and blue light wavelengths promote plant growth.
+
+Climate Control:
+Maintain optimal temperature and humidity.
+Ensure proper ventilation and air circulation.
+CO₂ enrichment improves growth rate.
+
+Advantages:
+Year-round production.
+High yield per square meter.
+Reduced pest and disease incidence.
+Less dependency on climate conditions.
+
+Challenges:
+High initial setup cost.
+Requires technical knowledge.
+Dependence on electricity.
+
+Best Practices:
+Monitor nutrient solution regularly.
+Maintain cleanliness to prevent diseases.
+Use automation and sensors for efficiency.

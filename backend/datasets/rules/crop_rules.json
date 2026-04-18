@@ -1,0 +1,319 @@
+{
+  "india": {
+    "kharif": [
+      "rice",
+      "maize",
+      "cotton",
+      "sorghum",
+      "millet",
+      "soybean",
+      "groundnut",
+      "pigeonpea"
+    ],
+    "rabi": [
+      "wheat",
+      "barley",
+      "gram",
+      "mustard",
+      "lentil",
+      "pea"
+    ],
+    "summer": [
+      "muskmelon",
+      "watermelon",
+      "fodder_maize",
+      "sunflower"
+    ]
+  },
+
+  "andhra pradesh": {
+    "kharif": [
+      "rice",
+      "maize",
+      "cotton",
+      "groundnut",
+      "pigeonpea"
+    ],
+    "rabi": [
+      "rice",
+      "maize",
+      "sunflower",
+      "blackgram"
+    ],
+    "summer": [
+      "muskmelon",
+      "watermelon",
+      "fodder_maize"
+    ]
+  },
+
+  "telangana": {
+    "kharif": [
+      "rice",
+      "cotton",
+      "maize",
+      "soybean",
+      "redgram"
+    ],
+    "rabi": [
+      "rice",
+      "maize",
+      "sunflower",
+      "chickpea"
+    ],
+    "summer": [
+      "watermelon",
+      "muskmelon"
+    ]
+  },
+
+  "punjab": {
+    "kharif": [
+      "rice",
+      "maize",
+      "cotton"
+    ],
+    "rabi": [
+      "wheat",
+      "barley",
+      "mustard"
+    ],
+    "summer": [
+      "fodder_maize",
+      "vegetables"
+    ]
+  },
+
+  "haryana": {
+    "kharif": [
+      "rice",
+      "maize",
+      "cotton"
+    ],
+    "rabi": [
+      "wheat",
+      "barley",
+      "mustard"
+    ],
+    "summer": [
+      "fodder_maize"
+    ]
+  },
+
+  "uttar pradesh": {
+    "kharif": [
+      "rice",
+      "maize",
+      "sorghum",
+      "pigeonpea"
+    ],
+    "rabi": [
+      "wheat",
+      "barley",
+      "gram",
+      "mustard"
+    ],
+    "summer": [
+      "vegetables",
+      "fodder_maize"
+    ]
+  },
+
+  "bihar": {
+    "kharif": [
+      "rice",
+      "maize",
+      "pigeonpea"
+    ],
+    "rabi": [
+      "wheat",
+      "gram",
+      "lentil"
+    ],
+    "summer": [
+      "watermelon",
+      "muskmelon"
+    ]
+  },
+
+  "west bengal": {
+    "kharif": [
+      "rice",
+      "jute",
+      "maize"
+    ],
+    "rabi": [
+      "wheat",
+      "potato",
+      "mustard"
+    ],
+    "summer": [
+      "rice",
+      "vegetables"
+    ]
+  },
+
+  "maharashtra": {
+    "kharif": [
+      "cotton",
+      "soybean",
+      "sorghum",
+      "pigeonpea"
+    ],
+    "rabi": [
+      "wheat",
+      "gram",
+      "sunflower"
+    ],
+    "summer": [
+      "watermelon",
+      "muskmelon"
+    ]
+  },
+
+  "karnataka": {
+    "kharif": [
+      "rice",
+      "maize",
+      "cotton",
+      "ragi"
+    ],
+    "rabi": [
+      "wheat",
+      "sunflower",
+      "chickpea"
+    ],
+    "summer": [
+      "vegetables",
+      "fodder_maize"
+    ]
+  },
+
+  "tamil nadu": {
+    "kharif": [
+      "rice",
+      "maize",
+      "cotton"
+    ],
+    "rabi": [
+      "rice",
+      "groundnut",
+      "sunflower"
+    ],
+    "summer": [
+      "watermelon",
+      "muskmelon"
+    ]
+  },
+
+  "rajasthan": {
+    "kharif": [
+      "bajra",
+      "maize",
+      "mungbean"
+    ],
+    "rabi": [
+      "wheat",
+      "barley",
+      "mustard"
+    ],
+    "summer": [
+      "fodder",
+      "vegetables"
+    ]
+  },
+
+  "gujarat": {
+    "kharif": [
+      "cotton",
+      "groundnut",
+      "bajra"
+    ],
+    "rabi": [
+      "wheat",
+      "mustard"
+    ],
+    "summer": [
+      "watermelon",
+      "muskmelon"
+    ]
+  },
+
+  "madhya pradesh": {
+    "kharif": [
+      "soybean",
+      "maize",
+      "cotton"
+    ],
+    "rabi": [
+      "wheat",
+      "gram",
+      "mustard"
+    ],
+    "summer": [
+      "vegetables"
+    ]
+  },
+
+  "odisha": {
+    "kharif": [
+      "rice",
+      "maize",
+      "groundnut"
+    ],
+    "rabi": [
+      "pulses",
+      "oilseeds"
+    ],
+    "summer": [
+      "rice",
+      "vegetables"
+    ]
+  },
+
+  "kerala": {
+    "kharif": [
+      "rice",
+      "banana",
+      "coconut"
+    ],
+    "rabi": [
+      "vegetables",
+      "pulses"
+    ],
+    "summer": [
+      "banana",
+      "vegetables"
+    ]
+  },
+
+  "himachal pradesh": {
+    "kharif": [
+      "maize",
+      "paddy"
+    ],
+    "rabi": [
+      "wheat",
+      "barley"
+    ],
+    "summer": [
+      "apple",
+      "vegetables"
+    ]
+  },
+
+  "jammu and kashmir": {
+    "kharif": [
+      "maize",
+      "paddy"
+    ],
+    "rabi": [
+      "wheat",
+      "barley"
+    ],
+    "summer": [
+      "apple",
+      "vegetables"
+    ]
+  }
+}
